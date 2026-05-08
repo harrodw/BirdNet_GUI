@@ -20,6 +20,13 @@ rm(list = ls())
 # Load packages
 library(tidyverse)
 library(birdnetR)
+library(usethis)
+
+# Link to GIRT
+use_git_config(user.name = "harrodw", user.email = "will.harrod99@gmail.com")
+
+# Talk with GIT
+usethis::use_git()
 
 # Read in the total list of species
 all_species <- read.csv("C:/NCSU/Data/BirdNET_Info/all_species_metadata.csv")
