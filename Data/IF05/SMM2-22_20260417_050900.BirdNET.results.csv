@@ -1,0 +1,451 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+0.0,3.0,Poecile carolinensis,Carolina Chickadee,0.3084,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3.0,6.0,Cardinalis cardinalis,Northern Cardinal,0.3280,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+6.0,9.0,Poecile carolinensis,Carolina Chickadee,0.2926,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+9.0,12.0,Poecile carolinensis,Carolina Chickadee,0.2820,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+63.0,66.0,Poecile carolinensis,Carolina Chickadee,0.2679,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+69.0,72.0,Poecile carolinensis,Carolina Chickadee,0.6018,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+87.0,90.0,Setophaga pinus,Pine Warbler,0.6872,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+102.0,105.0,Poecile carolinensis,Carolina Chickadee,0.3445,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+123.0,126.0,Poecile carolinensis,Carolina Chickadee,0.5729,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+129.0,132.0,Poecile carolinensis,Carolina Chickadee,0.2700,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+135.0,138.0,Poecile carolinensis,Carolina Chickadee,0.3087,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+138.0,141.0,Poecile carolinensis,Carolina Chickadee,0.3357,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+141.0,144.0,Myiarchus crinitus,Great Crested Flycatcher,0.8633,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+144.0,147.0,Poecile carolinensis,Carolina Chickadee,0.5395,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+150.0,153.0,Limnothlypis swainsonii,Swainson's Warbler,0.3291,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+162.0,165.0,Poecile carolinensis,Carolina Chickadee,0.3282,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+177.0,180.0,Poecile carolinensis,Carolina Chickadee,0.6713,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+177.0,180.0,Cardinalis cardinalis,Northern Cardinal,0.3161,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+192.0,195.0,Setophaga pinus,Pine Warbler,0.3522,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+195.0,198.0,Zonotrichia albicollis,White-throated Sparrow,0.3100,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+210.0,213.0,Setophaga pinus,Pine Warbler,0.6652,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+222.0,225.0,Cardinalis cardinalis,Northern Cardinal,0.3697,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+225.0,228.0,Setophaga pinus,Pine Warbler,0.2988,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+240.0,243.0,Setophaga pinus,Pine Warbler,0.6654,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+264.0,267.0,Poecile carolinensis,Carolina Chickadee,0.2855,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+270.0,273.0,Setophaga pinus,Pine Warbler,0.3501,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+279.0,282.0,Poecile carolinensis,Carolina Chickadee,0.3384,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+291.0,294.0,Zonotrichia albicollis,White-throated Sparrow,0.2526,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+318.0,321.0,Setophaga pinus,Pine Warbler,0.3497,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+324.0,327.0,Poecile carolinensis,Carolina Chickadee,0.6646,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+342.0,345.0,Poecile carolinensis,Carolina Chickadee,0.6760,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+351.0,354.0,Setophaga pinus,Pine Warbler,0.5788,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+354.0,357.0,Setophaga pinus,Pine Warbler,0.2845,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+363.0,366.0,Setophaga pinus,Pine Warbler,0.4989,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+366.0,369.0,Setophaga pinus,Pine Warbler,0.6468,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+426.0,429.0,Setophaga pinus,Pine Warbler,0.3677,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+432.0,435.0,Setophaga pinus,Pine Warbler,0.5456,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+435.0,438.0,Setophaga pinus,Pine Warbler,0.5336,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+444.0,447.0,Setophaga pinus,Pine Warbler,0.5787,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+447.0,450.0,Setophaga pinus,Pine Warbler,0.2726,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+456.0,459.0,Setophaga pinus,Pine Warbler,0.6389,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+468.0,471.0,Setophaga pinus,Pine Warbler,0.6790,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+477.0,480.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.3164,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+483.0,486.0,Setophaga pinus,Pine Warbler,0.5356,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+486.0,489.0,Setophaga pinus,Pine Warbler,0.4846,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+492.0,495.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.4797,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+513.0,516.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.3352,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+513.0,516.0,Protonotaria citrea,Prothonotary Warbler,0.2828,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+567.0,570.0,Limnothlypis swainsonii,Swainson's Warbler,0.4534,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+624.0,627.0,Setophaga pinus,Pine Warbler,0.4485,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+633.0,636.0,Setophaga pinus,Pine Warbler,0.3868,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+639.0,642.0,Setophaga pinus,Pine Warbler,0.5432,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+648.0,651.0,Setophaga pinus,Pine Warbler,0.3043,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+651.0,654.0,Seiurus aurocapilla,Ovenbird,0.2652,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+654.0,657.0,Cardinalis cardinalis,Northern Cardinal,0.3052,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+660.0,663.0,Seiurus aurocapilla,Ovenbird,0.3829,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+672.0,675.0,Setophaga pinus,Pine Warbler,0.3574,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+684.0,687.0,Limnothlypis swainsonii,Swainson's Warbler,0.2894,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+774.0,777.0,Setophaga pinus,Pine Warbler,0.3897,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+795.0,798.0,Hylocichla mustelina,Wood Thrush,0.3098,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+795.0,798.0,Seiurus aurocapilla,Ovenbird,0.2710,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+813.0,816.0,Setophaga dominica,Yellow-throated Warbler,0.2845,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+825.0,828.0,Setophaga pinus,Pine Warbler,0.7626,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+834.0,837.0,Setophaga pinus,Pine Warbler,0.5891,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+852.0,855.0,Limnothlypis swainsonii,Swainson's Warbler,0.3121,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+855.0,858.0,Cardinalis cardinalis,Northern Cardinal,0.4179,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+861.0,864.0,Setophaga pinus,Pine Warbler,0.8045,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+876.0,879.0,Cardinalis cardinalis,Northern Cardinal,0.3858,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+897.0,900.0,Setophaga pinus,Pine Warbler,0.7050,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+903.0,906.0,Seiurus aurocapilla,Ovenbird,0.3107,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+924.0,927.0,Seiurus aurocapilla,Ovenbird,0.9816,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+927.0,930.0,Seiurus aurocapilla,Ovenbird,0.9918,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+930.0,933.0,Seiurus aurocapilla,Ovenbird,0.9969,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+933.0,936.0,Seiurus aurocapilla,Ovenbird,0.9732,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+936.0,939.0,Setophaga pinus,Pine Warbler,0.2584,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+939.0,942.0,Seiurus aurocapilla,Ovenbird,0.9905,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+942.0,945.0,Seiurus aurocapilla,Ovenbird,0.9796,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+945.0,948.0,Setophaga pinus,Pine Warbler,0.3860,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+948.0,951.0,Seiurus aurocapilla,Ovenbird,0.9752,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+951.0,954.0,Seiurus aurocapilla,Ovenbird,0.4588,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+954.0,957.0,Seiurus aurocapilla,Ovenbird,0.8100,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+957.0,960.0,Seiurus aurocapilla,Ovenbird,0.9867,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+963.0,966.0,Seiurus aurocapilla,Ovenbird,0.9678,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+966.0,969.0,Seiurus aurocapilla,Ovenbird,0.9280,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+999.0,1002.0,Setophaga pinus,Pine Warbler,0.2689,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1020.0,1023.0,Seiurus aurocapilla,Ovenbird,0.3780,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1026.0,1029.0,Seiurus aurocapilla,Ovenbird,0.2995,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1035.0,1038.0,Seiurus aurocapilla,Ovenbird,0.2518,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1038.0,1041.0,Setophaga pinus,Pine Warbler,0.5507,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1041.0,1044.0,Zenaida macroura,Mourning Dove,0.2900,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1047.0,1050.0,Setophaga pinus,Pine Warbler,0.5259,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1059.0,1062.0,Setophaga pinus,Pine Warbler,0.6519,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1059.0,1062.0,Seiurus aurocapilla,Ovenbird,0.4133,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1077.0,1080.0,Seiurus aurocapilla,Ovenbird,0.3086,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1083.0,1086.0,Cardinalis cardinalis,Northern Cardinal,0.5445,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1086.0,1089.0,Seiurus aurocapilla,Ovenbird,0.3540,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1092.0,1095.0,Setophaga pinus,Pine Warbler,0.3200,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1095.0,1098.0,Seiurus aurocapilla,Ovenbird,0.2882,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1101.0,1104.0,Setophaga pinus,Pine Warbler,0.5292,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1113.0,1116.0,Seiurus aurocapilla,Ovenbird,0.4380,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1134.0,1137.0,Seiurus aurocapilla,Ovenbird,0.6319,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1137.0,1140.0,Setophaga pinus,Pine Warbler,0.4800,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1140.0,1143.0,Setophaga pinus,Pine Warbler,0.7291,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1143.0,1146.0,Setophaga pinus,Pine Warbler,0.2857,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1146.0,1149.0,Seiurus aurocapilla,Ovenbird,0.8713,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1149.0,1152.0,Seiurus aurocapilla,Ovenbird,0.3353,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1194.0,1197.0,Setophaga pinus,Pine Warbler,0.5330,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1209.0,1212.0,Setophaga pinus,Pine Warbler,0.5049,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1224.0,1227.0,Setophaga dominica,Yellow-throated Warbler,0.3448,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1227.0,1230.0,Setophaga pinus,Pine Warbler,0.5440,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1230.0,1233.0,Setophaga pinus,Pine Warbler,0.4223,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1239.0,1242.0,Seiurus aurocapilla,Ovenbird,0.3615,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1242.0,1245.0,Seiurus aurocapilla,Ovenbird,0.5749,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1251.0,1254.0,Setophaga pinus,Pine Warbler,0.3242,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1269.0,1272.0,Seiurus aurocapilla,Ovenbird,0.8842,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1272.0,1275.0,Seiurus aurocapilla,Ovenbird,0.2912,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1275.0,1278.0,Setophaga pinus,Pine Warbler,0.8205,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1287.0,1290.0,Setophaga pinus,Pine Warbler,0.5471,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1293.0,1296.0,Seiurus aurocapilla,Ovenbird,0.4401,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1293.0,1296.0,Setophaga dominica,Yellow-throated Warbler,0.2967,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1299.0,1302.0,Seiurus aurocapilla,Ovenbird,0.2880,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1302.0,1305.0,Myiarchus crinitus,Great Crested Flycatcher,0.4456,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1302.0,1305.0,Piranga olivacea,Scarlet Tanager,0.2665,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1305.0,1308.0,Setophaga pinus,Pine Warbler,0.7866,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1308.0,1311.0,Setophaga pinus,Pine Warbler,0.5312,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1314.0,1317.0,Setophaga pinus,Pine Warbler,0.6957,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1317.0,1320.0,Setophaga pinus,Pine Warbler,0.2978,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1320.0,1323.0,Setophaga pinus,Pine Warbler,0.5460,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1323.0,1326.0,Piranga olivacea,Scarlet Tanager,0.4960,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1329.0,1332.0,Setophaga pinus,Pine Warbler,0.9092,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1350.0,1353.0,Pipilo erythrophthalmus,Eastern Towhee,0.2588,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1353.0,1356.0,Setophaga dominica,Yellow-throated Warbler,0.3486,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1383.0,1386.0,Seiurus aurocapilla,Ovenbird,0.4285,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1386.0,1389.0,Corvus brachyrhynchos,American Crow,0.4040,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1401.0,1404.0,Corvus brachyrhynchos,American Crow,0.3032,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1404.0,1407.0,Seiurus aurocapilla,Ovenbird,0.3880,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1410.0,1413.0,Setophaga pinus,Pine Warbler,0.7751,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1422.0,1425.0,Seiurus aurocapilla,Ovenbird,0.8237,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1425.0,1428.0,Setophaga pinus,Pine Warbler,0.3301,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1431.0,1434.0,Seiurus aurocapilla,Ovenbird,0.9156,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1452.0,1455.0,Seiurus aurocapilla,Ovenbird,0.7043,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1455.0,1458.0,Seiurus aurocapilla,Ovenbird,0.3989,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1464.0,1467.0,Corvus brachyrhynchos,American Crow,0.4368,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1470.0,1473.0,Seiurus aurocapilla,Ovenbird,0.2971,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1479.0,1482.0,Setophaga pinus,Pine Warbler,0.4469,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1482.0,1485.0,Cardinalis cardinalis,Northern Cardinal,0.3417,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1482.0,1485.0,Seiurus aurocapilla,Ovenbird,0.3041,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1488.0,1491.0,Setophaga pinus,Pine Warbler,0.9508,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1494.0,1497.0,Seiurus aurocapilla,Ovenbird,0.5911,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1497.0,1500.0,Setophaga pinus,Pine Warbler,0.4376,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1497.0,1500.0,Setophaga dominica,Yellow-throated Warbler,0.2612,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1509.0,1512.0,Setophaga pinus,Pine Warbler,0.3183,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1512.0,1515.0,Setophaga pinus,Pine Warbler,0.4529,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1515.0,1518.0,Seiurus aurocapilla,Ovenbird,0.6397,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1524.0,1527.0,Seiurus aurocapilla,Ovenbird,0.4295,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1527.0,1530.0,Setophaga pinus,Pine Warbler,0.6876,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1536.0,1539.0,Setophaga pinus,Pine Warbler,0.9706,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1539.0,1542.0,Seiurus aurocapilla,Ovenbird,0.6926,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1542.0,1545.0,Setophaga pinus,Pine Warbler,0.6904,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1545.0,1548.0,Setophaga pinus,Pine Warbler,0.8067,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1548.0,1551.0,Seiurus aurocapilla,Ovenbird,0.5079,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1551.0,1554.0,Setophaga pinus,Pine Warbler,0.7892,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1557.0,1560.0,Setophaga pinus,Pine Warbler,0.7153,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1581.0,1584.0,Setophaga pinus,Pine Warbler,0.6785,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1593.0,1596.0,Cardinalis cardinalis,Northern Cardinal,0.2686,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1596.0,1599.0,Setophaga pinus,Pine Warbler,0.3175,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1602.0,1605.0,Setophaga pinus,Pine Warbler,0.3851,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1608.0,1611.0,Cardinalis cardinalis,Northern Cardinal,0.7040,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1614.0,1617.0,Cardinalis cardinalis,Northern Cardinal,0.3625,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1623.0,1626.0,Setophaga pinus,Pine Warbler,0.2874,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1626.0,1629.0,Setophaga pinus,Pine Warbler,0.4192,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1632.0,1635.0,Limnothlypis swainsonii,Swainson's Warbler,0.4155,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1635.0,1638.0,Setophaga pinus,Pine Warbler,0.3589,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1638.0,1641.0,Setophaga pinus,Pine Warbler,0.2993,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1647.0,1650.0,Setophaga pinus,Pine Warbler,0.4791,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1650.0,1653.0,Setophaga pinus,Pine Warbler,0.2918,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1659.0,1662.0,Setophaga pinus,Pine Warbler,0.5852,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1668.0,1671.0,Setophaga pinus,Pine Warbler,0.4346,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1671.0,1674.0,Setophaga pinus,Pine Warbler,0.4595,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1680.0,1683.0,Setophaga pinus,Pine Warbler,0.4704,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1683.0,1686.0,Setophaga pinus,Pine Warbler,0.6790,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1692.0,1695.0,Setophaga pinus,Pine Warbler,0.4865,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1704.0,1707.0,Seiurus aurocapilla,Ovenbird,0.3309,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1707.0,1710.0,Setophaga pinus,Pine Warbler,0.8833,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1710.0,1713.0,Setophaga pinus,Pine Warbler,0.9764,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1713.0,1716.0,Seiurus aurocapilla,Ovenbird,0.4706,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1716.0,1719.0,Seiurus aurocapilla,Ovenbird,0.5309,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1719.0,1722.0,Setophaga pinus,Pine Warbler,0.9489,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1722.0,1725.0,Seiurus aurocapilla,Ovenbird,0.4717,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1725.0,1728.0,Setophaga pinus,Pine Warbler,0.6436,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1725.0,1728.0,Seiurus aurocapilla,Ovenbird,0.2715,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1731.0,1734.0,Seiurus aurocapilla,Ovenbird,0.3027,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1734.0,1737.0,Setophaga pinus,Pine Warbler,0.2625,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1740.0,1743.0,Seiurus aurocapilla,Ovenbird,0.5502,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1752.0,1755.0,Setophaga pinus,Pine Warbler,0.5808,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1755.0,1758.0,Setophaga pinus,Pine Warbler,0.7554,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1764.0,1767.0,Setophaga pinus,Pine Warbler,0.8525,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1767.0,1770.0,Setophaga pinus,Pine Warbler,0.8540,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1773.0,1776.0,Setophaga pinus,Pine Warbler,0.8032,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1776.0,1779.0,Setophaga pinus,Pine Warbler,0.5063,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1779.0,1782.0,Seiurus aurocapilla,Ovenbird,0.5013,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1779.0,1782.0,Cardinalis cardinalis,Northern Cardinal,0.3150,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1788.0,1791.0,Setophaga pinus,Pine Warbler,0.7783,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1800.0,1803.0,Seiurus aurocapilla,Ovenbird,0.2980,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1803.0,1806.0,Setophaga pinus,Pine Warbler,0.8688,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1812.0,1815.0,Setophaga pinus,Pine Warbler,0.6530,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1818.0,1821.0,Seiurus aurocapilla,Ovenbird,0.7480,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1821.0,1824.0,Setophaga pinus,Pine Warbler,0.9093,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1833.0,1836.0,Setophaga pinus,Pine Warbler,0.7465,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1836.0,1839.0,Setophaga pinus,Pine Warbler,0.8071,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1839.0,1842.0,Setophaga dominica,Yellow-throated Warbler,0.2972,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1845.0,1848.0,Setophaga pinus,Pine Warbler,0.4917,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1848.0,1851.0,Setophaga pinus,Pine Warbler,0.9073,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1854.0,1857.0,Cardinalis cardinalis,Northern Cardinal,0.2522,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1857.0,1860.0,Setophaga pinus,Pine Warbler,0.9112,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1863.0,1866.0,Cardinalis cardinalis,Northern Cardinal,0.5769,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1866.0,1869.0,Seiurus aurocapilla,Ovenbird,0.5745,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1869.0,1872.0,Setophaga pinus,Pine Warbler,0.8928,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1875.0,1878.0,Setophaga pinus,Pine Warbler,0.9047,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1878.0,1881.0,Setophaga pinus,Pine Warbler,0.8764,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1881.0,1884.0,Cardinalis cardinalis,Northern Cardinal,0.4230,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1887.0,1890.0,Cardinalis cardinalis,Northern Cardinal,0.4012,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1893.0,1896.0,Setophaga pinus,Pine Warbler,0.9305,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1896.0,1899.0,Setophaga pinus,Pine Warbler,0.8639,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1905.0,1908.0,Setophaga pinus,Pine Warbler,0.9321,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1914.0,1917.0,Setophaga pinus,Pine Warbler,0.8724,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1917.0,1920.0,Setophaga pinus,Pine Warbler,0.3745,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1923.0,1926.0,Setophaga pinus,Pine Warbler,0.9002,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1935.0,1938.0,Setophaga pinus,Pine Warbler,0.5827,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1938.0,1941.0,Setophaga pinus,Pine Warbler,0.5428,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1947.0,1950.0,Setophaga pinus,Pine Warbler,0.7079,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1953.0,1956.0,Setophaga pinus,Pine Warbler,0.8892,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1956.0,1959.0,Setophaga pinus,Pine Warbler,0.9304,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1968.0,1971.0,Setophaga pinus,Pine Warbler,0.8951,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1977.0,1980.0,Setophaga pinus,Pine Warbler,0.7147,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1986.0,1989.0,Setophaga pinus,Pine Warbler,0.7933,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1989.0,1992.0,Setophaga pinus,Pine Warbler,0.8925,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+1998.0,2001.0,Setophaga pinus,Pine Warbler,0.6443,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2007.0,2010.0,Seiurus aurocapilla,Ovenbird,0.3416,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2025.0,2028.0,Cardinalis cardinalis,Northern Cardinal,0.4177,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2055.0,2058.0,Setophaga pinus,Pine Warbler,0.3590,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2055.0,2058.0,Cardinalis cardinalis,Northern Cardinal,0.2960,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2064.0,2067.0,Setophaga pinus,Pine Warbler,0.7507,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2067.0,2070.0,Setophaga pinus,Pine Warbler,0.8370,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2070.0,2073.0,Seiurus aurocapilla,Ovenbird,0.6180,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2085.0,2088.0,Seiurus aurocapilla,Ovenbird,0.7360,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2097.0,2100.0,Setophaga pinus,Pine Warbler,0.8606,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2103.0,2106.0,Seiurus aurocapilla,Ovenbird,0.3075,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2106.0,2109.0,Seiurus aurocapilla,Ovenbird,0.2820,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2115.0,2118.0,Seiurus aurocapilla,Ovenbird,0.4335,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2124.0,2127.0,Seiurus aurocapilla,Ovenbird,0.3447,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2127.0,2130.0,Seiurus aurocapilla,Ovenbird,0.2544,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2133.0,2136.0,Seiurus aurocapilla,Ovenbird,0.5016,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2136.0,2139.0,Seiurus aurocapilla,Ovenbird,0.6167,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2145.0,2148.0,Seiurus aurocapilla,Ovenbird,0.3938,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2169.0,2172.0,Setophaga pinus,Pine Warbler,0.6896,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2172.0,2175.0,Setophaga pinus,Pine Warbler,0.7185,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2181.0,2184.0,Seiurus aurocapilla,Ovenbird,0.5527,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2184.0,2187.0,Seiurus aurocapilla,Ovenbird,0.5878,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2187.0,2190.0,Cardinalis cardinalis,Northern Cardinal,0.2528,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2205.0,2208.0,Seiurus aurocapilla,Ovenbird,0.5249,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2208.0,2211.0,Setophaga pinus,Pine Warbler,0.4738,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2211.0,2214.0,Setophaga pinus,Pine Warbler,0.4073,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2211.0,2214.0,Pipilo erythrophthalmus,Eastern Towhee,0.2838,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2217.0,2220.0,Setophaga pinus,Pine Warbler,0.8418,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2220.0,2223.0,Seiurus aurocapilla,Ovenbird,0.2902,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2223.0,2226.0,Seiurus aurocapilla,Ovenbird,0.3936,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2226.0,2229.0,Setophaga pinus,Pine Warbler,0.8764,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2229.0,2232.0,Setophaga pinus,Pine Warbler,0.5948,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2238.0,2241.0,Setophaga pinus,Pine Warbler,0.9036,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2241.0,2244.0,Setophaga pinus,Pine Warbler,0.5093,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2247.0,2250.0,Setophaga pinus,Pine Warbler,0.4358,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2250.0,2253.0,Setophaga pinus,Pine Warbler,0.7734,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2256.0,2259.0,Setophaga pinus,Pine Warbler,0.3359,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2262.0,2265.0,Setophaga pinus,Pine Warbler,0.9324,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2265.0,2268.0,Setophaga pinus,Pine Warbler,0.5479,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2271.0,2274.0,Setophaga pinus,Pine Warbler,0.7015,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2274.0,2277.0,Setophaga pinus,Pine Warbler,0.5604,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2283.0,2286.0,Setophaga pinus,Pine Warbler,0.2819,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2289.0,2292.0,Setophaga pinus,Pine Warbler,0.6712,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2292.0,2295.0,Setophaga pinus,Pine Warbler,0.7880,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2295.0,2298.0,Setophaga pinus,Pine Warbler,0.3124,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2304.0,2307.0,Setophaga pinus,Pine Warbler,0.6079,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2307.0,2310.0,Setophaga pinus,Pine Warbler,0.6719,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2313.0,2316.0,Setophaga pinus,Pine Warbler,0.7284,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2316.0,2319.0,Setophaga pinus,Pine Warbler,0.5637,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2322.0,2325.0,Setophaga pinus,Pine Warbler,0.7163,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2325.0,2328.0,Setophaga pinus,Pine Warbler,0.5492,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2334.0,2337.0,Setophaga pinus,Pine Warbler,0.3266,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2337.0,2340.0,Setophaga pinus,Pine Warbler,0.5631,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2346.0,2349.0,Setophaga pinus,Pine Warbler,0.9389,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2355.0,2358.0,Setophaga pinus,Pine Warbler,0.7165,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2364.0,2367.0,Setophaga pinus,Pine Warbler,0.4810,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2367.0,2370.0,Pipilo erythrophthalmus,Eastern Towhee,0.3191,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2376.0,2379.0,Setophaga pinus,Pine Warbler,0.5758,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2382.0,2385.0,Zenaida macroura,Mourning Dove,0.3653,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2382.0,2385.0,Cardinalis cardinalis,Northern Cardinal,0.2640,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2388.0,2391.0,Setophaga pinus,Pine Warbler,0.8056,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2400.0,2403.0,Setophaga pinus,Pine Warbler,0.4849,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2409.0,2412.0,Setophaga pinus,Pine Warbler,0.7126,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2415.0,2418.0,Pipilo erythrophthalmus,Eastern Towhee,0.3513,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2418.0,2421.0,Setophaga pinus,Pine Warbler,0.3064,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2421.0,2424.0,Setophaga pinus,Pine Warbler,0.2959,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2436.0,2439.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.3753,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2439.0,2442.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.4135,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2442.0,2445.0,Setophaga pinus,Pine Warbler,0.6846,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2445.0,2448.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.2874,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2451.0,2454.0,Setophaga pinus,Pine Warbler,0.8287,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2454.0,2457.0,Setophaga pinus,Pine Warbler,0.5132,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2463.0,2466.0,Setophaga pinus,Pine Warbler,0.2561,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2475.0,2478.0,Setophaga pinus,Pine Warbler,0.4052,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2487.0,2490.0,Setophaga pinus,Pine Warbler,0.3768,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2490.0,2493.0,Setophaga pinus,Pine Warbler,0.8041,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2496.0,2499.0,Setophaga pinus,Pine Warbler,0.5043,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2499.0,2502.0,Setophaga pinus,Pine Warbler,0.6646,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2511.0,2514.0,Setophaga pinus,Pine Warbler,0.6555,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2514.0,2517.0,Setophaga pinus,Pine Warbler,0.2856,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2517.0,2520.0,Cardinalis cardinalis,Northern Cardinal,0.4622,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2526.0,2529.0,Setophaga pinus,Pine Warbler,0.7725,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2532.0,2535.0,Cardinalis cardinalis,Northern Cardinal,0.6143,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2538.0,2541.0,Setophaga pinus,Pine Warbler,0.8842,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2541.0,2544.0,Setophaga pinus,Pine Warbler,0.8078,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2547.0,2550.0,Setophaga pinus,Pine Warbler,0.8121,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2553.0,2556.0,Molothrus ater,Brown-headed Cowbird,0.3183,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2556.0,2559.0,Setophaga pinus,Pine Warbler,0.5426,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2559.0,2562.0,Cardinalis cardinalis,Northern Cardinal,0.2630,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2565.0,2568.0,Setophaga pinus,Pine Warbler,0.9270,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2571.0,2574.0,Cardinalis cardinalis,Northern Cardinal,0.3219,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2577.0,2580.0,Setophaga pinus,Pine Warbler,0.7550,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2595.0,2598.0,Setophaga pinus,Pine Warbler,0.2923,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2598.0,2601.0,Seiurus aurocapilla,Ovenbird,0.2625,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2601.0,2604.0,Cardinalis cardinalis,Northern Cardinal,0.3291,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2610.0,2613.0,Cardinalis cardinalis,Northern Cardinal,0.3026,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2613.0,2616.0,Cardinalis cardinalis,Northern Cardinal,0.2961,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2616.0,2619.0,Setophaga pinus,Pine Warbler,0.6817,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2622.0,2625.0,Cardinalis cardinalis,Northern Cardinal,0.3797,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2628.0,2631.0,Setophaga pinus,Pine Warbler,0.7196,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2637.0,2640.0,Setophaga pinus,Pine Warbler,0.5626,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2643.0,2646.0,Setophaga pinus,Pine Warbler,0.8494,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2664.0,2667.0,Zenaida macroura,Mourning Dove,0.3273,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2673.0,2676.0,Setophaga pinus,Pine Warbler,0.6191,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2694.0,2697.0,Setophaga pinus,Pine Warbler,0.4822,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2700.0,2703.0,Cardinalis cardinalis,Northern Cardinal,0.4936,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2703.0,2706.0,Setophaga pinus,Pine Warbler,0.5983,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2706.0,2709.0,Setophaga pinus,Pine Warbler,0.2809,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2712.0,2715.0,Cardinalis cardinalis,Northern Cardinal,0.4140,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2715.0,2718.0,Cardinalis cardinalis,Northern Cardinal,0.2758,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2718.0,2721.0,Cardinalis cardinalis,Northern Cardinal,0.2691,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2721.0,2724.0,Cardinalis cardinalis,Northern Cardinal,0.4203,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2724.0,2727.0,Setophaga pinus,Pine Warbler,0.5483,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2727.0,2730.0,Setophaga pinus,Pine Warbler,0.3564,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2730.0,2733.0,Cardinalis cardinalis,Northern Cardinal,0.2727,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2742.0,2745.0,Cardinalis cardinalis,Northern Cardinal,0.3097,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2745.0,2748.0,Setophaga pinus,Pine Warbler,0.4835,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2751.0,2754.0,Cardinalis cardinalis,Northern Cardinal,0.2649,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2769.0,2772.0,Setophaga pinus,Pine Warbler,0.5293,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2796.0,2799.0,Setophaga pinus,Pine Warbler,0.2852,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2799.0,2802.0,Myiarchus crinitus,Great Crested Flycatcher,0.7042,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2811.0,2814.0,Setophaga pinus,Pine Warbler,0.6139,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2826.0,2829.0,Setophaga pinus,Pine Warbler,0.5730,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2829.0,2832.0,Setophaga pinus,Pine Warbler,0.8326,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2832.0,2835.0,Setophaga pinus,Pine Warbler,0.4494,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2841.0,2844.0,Setophaga pinus,Pine Warbler,0.7696,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2856.0,2859.0,Setophaga pinus,Pine Warbler,0.7946,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2859.0,2862.0,Setophaga pinus,Pine Warbler,0.5092,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2874.0,2877.0,Setophaga pinus,Pine Warbler,0.7225,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2889.0,2892.0,Setophaga pinus,Pine Warbler,0.7053,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2904.0,2907.0,Setophaga pinus,Pine Warbler,0.7292,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2919.0,2922.0,Setophaga pinus,Pine Warbler,0.3931,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2922.0,2925.0,Setophaga pinus,Pine Warbler,0.6495,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2931.0,2934.0,Setophaga pinus,Pine Warbler,0.6972,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2949.0,2952.0,Setophaga pinus,Pine Warbler,0.3915,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2967.0,2970.0,Setophaga pinus,Pine Warbler,0.3405,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2985.0,2988.0,Zenaida macroura,Mourning Dove,0.2593,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+2994.0,2997.0,Setophaga pinus,Pine Warbler,0.7110,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3003.0,3006.0,Setophaga pinus,Pine Warbler,0.3173,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3006.0,3009.0,Setophaga pinus,Pine Warbler,0.5878,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3009.0,3012.0,Pipilo erythrophthalmus,Eastern Towhee,0.3405,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3018.0,3021.0,Setophaga pinus,Pine Warbler,0.7904,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3021.0,3024.0,Setophaga pinus,Pine Warbler,0.5733,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3027.0,3030.0,Setophaga pinus,Pine Warbler,0.8466,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3033.0,3036.0,Cardinalis cardinalis,Northern Cardinal,0.2737,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3036.0,3039.0,Cardinalis cardinalis,Northern Cardinal,0.2671,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3051.0,3054.0,Cardinalis cardinalis,Northern Cardinal,0.3496,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3057.0,3060.0,Setophaga pinus,Pine Warbler,0.3517,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3057.0,3060.0,Zenaida macroura,Mourning Dove,0.2582,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3060.0,3063.0,Setophaga pinus,Pine Warbler,0.3012,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3069.0,3072.0,Setophaga pinus,Pine Warbler,0.4819,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3084.0,3087.0,Setophaga pinus,Pine Warbler,0.6281,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3087.0,3090.0,Dryobates villosus,Hairy Woodpecker,0.6683,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3090.0,3093.0,Dryobates villosus,Hairy Woodpecker,0.8621,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3093.0,3096.0,Dryobates villosus,Hairy Woodpecker,0.7489,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3096.0,3099.0,Dryobates villosus,Hairy Woodpecker,0.6132,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3099.0,3102.0,Dryobates villosus,Hairy Woodpecker,0.6670,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3102.0,3105.0,Dryobates villosus,Hairy Woodpecker,0.3960,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3105.0,3108.0,Dryobates villosus,Hairy Woodpecker,0.6688,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3108.0,3111.0,Dryobates villosus,Hairy Woodpecker,0.5861,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3111.0,3114.0,Dryobates villosus,Hairy Woodpecker,0.3095,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3120.0,3123.0,Cardinalis cardinalis,Northern Cardinal,0.4290,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3126.0,3129.0,Dryobates villosus,Hairy Woodpecker,0.6376,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3138.0,3141.0,Cardinalis cardinalis,Northern Cardinal,0.4277,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3144.0,3147.0,Cardinalis cardinalis,Northern Cardinal,0.4237,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3150.0,3153.0,Setophaga pinus,Pine Warbler,0.9069,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3153.0,3156.0,Setophaga pinus,Pine Warbler,0.9339,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3156.0,3159.0,Cardinalis cardinalis,Northern Cardinal,0.6603,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3165.0,3168.0,Cardinalis cardinalis,Northern Cardinal,0.5950,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3168.0,3171.0,Setophaga pinus,Pine Warbler,0.8391,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3171.0,3174.0,Cardinalis cardinalis,Northern Cardinal,0.2567,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3174.0,3177.0,Cardinalis cardinalis,Northern Cardinal,0.4591,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3177.0,3180.0,Cardinalis cardinalis,Northern Cardinal,0.3009,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3186.0,3189.0,Setophaga pinus,Pine Warbler,0.9496,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3189.0,3192.0,Setophaga pinus,Pine Warbler,0.9187,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3192.0,3195.0,Pipilo erythrophthalmus,Eastern Towhee,0.2736,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3204.0,3207.0,Cardinalis cardinalis,Northern Cardinal,0.2842,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3207.0,3210.0,Setophaga pinus,Pine Warbler,0.9793,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3213.0,3216.0,Cardinalis cardinalis,Northern Cardinal,0.4503,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3222.0,3225.0,Cardinalis cardinalis,Northern Cardinal,0.3276,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3231.0,3234.0,Cardinalis cardinalis,Northern Cardinal,0.4295,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3237.0,3240.0,Setophaga pinus,Pine Warbler,0.9284,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3240.0,3243.0,Setophaga pinus,Pine Warbler,0.7092,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3255.0,3258.0,Cardinalis cardinalis,Northern Cardinal,0.2585,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3264.0,3267.0,Cardinalis cardinalis,Northern Cardinal,0.4879,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3273.0,3276.0,Cardinalis cardinalis,Northern Cardinal,0.4902,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3282.0,3285.0,Cardinalis cardinalis,Northern Cardinal,0.3858,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3291.0,3294.0,Cardinalis cardinalis,Northern Cardinal,0.5448,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3300.0,3303.0,Cardinalis cardinalis,Northern Cardinal,0.5546,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3312.0,3315.0,Cardinalis cardinalis,Northern Cardinal,0.3044,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3315.0,3318.0,Cardinalis cardinalis,Northern Cardinal,0.2933,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3321.0,3324.0,Cardinalis cardinalis,Northern Cardinal,0.2714,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3333.0,3336.0,Cardinalis cardinalis,Northern Cardinal,0.3543,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3336.0,3339.0,Cardinalis cardinalis,Northern Cardinal,0.5401,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3339.0,3342.0,Pipilo erythrophthalmus,Eastern Towhee,0.4258,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3345.0,3348.0,Cardinalis cardinalis,Northern Cardinal,0.4302,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3354.0,3357.0,Cardinalis cardinalis,Northern Cardinal,0.3732,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3429.0,3432.0,Setophaga pinus,Pine Warbler,0.8101,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3435.0,3438.0,Cardinalis cardinalis,Northern Cardinal,0.2609,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3441.0,3444.0,Cardinalis cardinalis,Northern Cardinal,0.2584,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3453.0,3456.0,Setophaga pinus,Pine Warbler,0.7775,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3456.0,3459.0,Setophaga pinus,Pine Warbler,0.8396,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3471.0,3474.0,Setophaga pinus,Pine Warbler,0.6152,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3474.0,3477.0,Setophaga pinus,Pine Warbler,0.9599,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3510.0,3513.0,Setophaga pinus,Pine Warbler,0.8425,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3525.0,3528.0,Setophaga pinus,Pine Warbler,0.9458,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3543.0,3546.0,Setophaga pinus,Pine Warbler,0.8800,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3558.0,3561.0,Setophaga pinus,Pine Warbler,0.9621,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3573.0,3576.0,Setophaga pinus,Pine Warbler,0.9471,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3576.0,3579.0,Setophaga pinus,Pine Warbler,0.9410,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3576.0,3579.0,Pipilo erythrophthalmus,Eastern Towhee,0.3027,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3585.0,3588.0,Setophaga pinus,Pine Warbler,0.6681,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav
+3588.0,3591.0,Setophaga pinus,Pine Warbler,0.9144,D:\Bird_Anuran_ARUs\IF05\SMM2-22_20260417_050900.wav

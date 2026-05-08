@@ -1,0 +1,526 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+6.0,9.0,Corvus brachyrhynchos,American Crow,0.6666,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+18.0,21.0,Spizella passerina,Chipping Sparrow,0.6395,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+27.0,30.0,Corvus brachyrhynchos,American Crow,0.5132,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+39.0,42.0,Spizella passerina,Chipping Sparrow,0.5619,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+51.0,54.0,Colinus virginianus,Northern Bobwhite,0.3036,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+54.0,57.0,Spizella passerina,Chipping Sparrow,0.3018,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+57.0,60.0,Spizella passerina,Chipping Sparrow,0.3871,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+63.0,66.0,Spizella passerina,Chipping Sparrow,0.3851,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+66.0,69.0,Setophaga discolor,Prairie Warbler,0.6707,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+72.0,75.0,Spizella passerina,Chipping Sparrow,0.3037,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+78.0,81.0,Cardinalis cardinalis,Northern Cardinal,0.3399,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+81.0,84.0,Spizella passerina,Chipping Sparrow,0.6260,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+84.0,87.0,Pipilo erythrophthalmus,Eastern Towhee,0.4549,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+87.0,90.0,Cardinalis cardinalis,Northern Cardinal,0.2702,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+93.0,96.0,Spizella passerina,Chipping Sparrow,0.8014,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+96.0,99.0,Spizella passerina,Chipping Sparrow,0.7093,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+99.0,102.0,Myiarchus crinitus,Great Crested Flycatcher,0.2784,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+102.0,105.0,Spizella passerina,Chipping Sparrow,0.2610,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+108.0,111.0,Pipilo erythrophthalmus,Eastern Towhee,0.3157,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+111.0,114.0,Spizella passerina,Chipping Sparrow,0.3280,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+120.0,123.0,Spizella passerina,Chipping Sparrow,0.3319,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+126.0,129.0,Cardinalis cardinalis,Northern Cardinal,0.6567,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+129.0,132.0,Cardinalis cardinalis,Northern Cardinal,0.2595,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+132.0,135.0,Spizella passerina,Chipping Sparrow,0.8661,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+135.0,138.0,Cardinalis cardinalis,Northern Cardinal,0.4000,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+138.0,141.0,Cardinalis cardinalis,Northern Cardinal,0.3612,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+141.0,144.0,Spizella passerina,Chipping Sparrow,0.2539,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+144.0,147.0,Spizella passerina,Chipping Sparrow,0.5099,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+153.0,156.0,Spizella passerina,Chipping Sparrow,0.5823,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+162.0,165.0,Spizella passerina,Chipping Sparrow,0.5025,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+168.0,171.0,Cardinalis cardinalis,Northern Cardinal,0.2939,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+177.0,180.0,Spizella passerina,Chipping Sparrow,0.6085,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+198.0,201.0,Spizella passerina,Chipping Sparrow,0.3721,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+207.0,210.0,Spizella passerina,Chipping Sparrow,0.3517,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+210.0,213.0,Spizella passerina,Chipping Sparrow,0.3140,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+213.0,216.0,Dryobates pubescens,Downy Woodpecker,0.2850,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+219.0,222.0,Spizella passerina,Chipping Sparrow,0.6150,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+222.0,225.0,Cardinalis cardinalis,Northern Cardinal,0.4645,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+222.0,225.0,Melanerpes carolinus,Red-bellied Woodpecker,0.2751,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+228.0,231.0,Seiurus aurocapilla,Ovenbird,0.6278,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+237.0,240.0,Cardinalis cardinalis,Northern Cardinal,0.3108,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+243.0,246.0,Spizella passerina,Chipping Sparrow,0.3221,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+246.0,249.0,Cardinalis cardinalis,Northern Cardinal,0.3517,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+249.0,252.0,Seiurus aurocapilla,Ovenbird,0.8115,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+249.0,252.0,Cardinalis cardinalis,Northern Cardinal,0.2500,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+255.0,258.0,Spizella passerina,Chipping Sparrow,0.4661,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+258.0,261.0,Dryobates pubescens,Downy Woodpecker,0.2854,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+267.0,270.0,Seiurus aurocapilla,Ovenbird,0.3432,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+270.0,273.0,Seiurus aurocapilla,Ovenbird,0.8683,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+288.0,291.0,Seiurus aurocapilla,Ovenbird,0.5144,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+288.0,291.0,Cardinalis cardinalis,Northern Cardinal,0.3132,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+303.0,306.0,Seiurus aurocapilla,Ovenbird,0.4250,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+309.0,312.0,Cardinalis cardinalis,Northern Cardinal,0.3221,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+315.0,318.0,Cardinalis cardinalis,Northern Cardinal,0.4950,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+318.0,321.0,Cardinalis cardinalis,Northern Cardinal,0.3322,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+321.0,324.0,Seiurus aurocapilla,Ovenbird,0.7499,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+330.0,333.0,Spizella passerina,Chipping Sparrow,0.7150,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+336.0,339.0,Vireo griseus,White-eyed Vireo,0.6750,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+339.0,342.0,Seiurus aurocapilla,Ovenbird,0.8826,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+357.0,360.0,Seiurus aurocapilla,Ovenbird,0.7803,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+360.0,363.0,Sitta pusilla,Brown-headed Nuthatch,0.9355,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+363.0,366.0,Sitta pusilla,Brown-headed Nuthatch,0.6851,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+369.0,372.0,Vireo griseus,White-eyed Vireo,0.2511,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+372.0,375.0,Seiurus aurocapilla,Ovenbird,0.7555,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+384.0,387.0,Spizella passerina,Chipping Sparrow,0.4135,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+387.0,390.0,Seiurus aurocapilla,Ovenbird,0.8520,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+387.0,390.0,Cardinalis cardinalis,Northern Cardinal,0.3315,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+396.0,399.0,Vireo griseus,White-eyed Vireo,0.2585,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+399.0,402.0,Cardinalis cardinalis,Northern Cardinal,0.6155,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+402.0,405.0,Seiurus aurocapilla,Ovenbird,0.8285,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+402.0,405.0,Cardinalis cardinalis,Northern Cardinal,0.3279,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+414.0,417.0,Cardinalis cardinalis,Northern Cardinal,0.2605,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+417.0,420.0,Spizella passerina,Chipping Sparrow,0.3374,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+420.0,423.0,Seiurus aurocapilla,Ovenbird,0.9744,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+423.0,426.0,Cardinalis cardinalis,Northern Cardinal,0.6179,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+426.0,429.0,Vireo griseus,White-eyed Vireo,0.4514,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+429.0,432.0,Cardinalis cardinalis,Northern Cardinal,0.2625,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+435.0,438.0,Corvus brachyrhynchos,American Crow,0.9597,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+438.0,441.0,Seiurus aurocapilla,Ovenbird,0.6608,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+450.0,453.0,Cardinalis cardinalis,Northern Cardinal,0.4470,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+453.0,456.0,Seiurus aurocapilla,Ovenbird,0.9849,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+453.0,456.0,Cardinalis cardinalis,Northern Cardinal,0.3208,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+462.0,465.0,Cardinalis cardinalis,Northern Cardinal,0.2827,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+468.0,471.0,Seiurus aurocapilla,Ovenbird,0.5528,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+471.0,474.0,Seiurus aurocapilla,Ovenbird,0.6214,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+480.0,483.0,Spizella passerina,Chipping Sparrow,0.6478,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+492.0,495.0,Seiurus aurocapilla,Ovenbird,0.8716,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+492.0,495.0,Cardinalis cardinalis,Northern Cardinal,0.7079,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+495.0,498.0,Spizella passerina,Chipping Sparrow,0.2677,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+504.0,507.0,Spizella passerina,Chipping Sparrow,0.6338,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+510.0,513.0,Seiurus aurocapilla,Ovenbird,0.9923,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+513.0,516.0,Seiurus aurocapilla,Ovenbird,0.7266,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+516.0,519.0,Spizella passerina,Chipping Sparrow,0.2748,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+522.0,525.0,Spizella passerina,Chipping Sparrow,0.6143,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+528.0,531.0,Seiurus aurocapilla,Ovenbird,0.9431,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+531.0,534.0,Seiurus aurocapilla,Ovenbird,0.9396,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+534.0,537.0,Spizella passerina,Chipping Sparrow,0.7665,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+537.0,540.0,Vireo griseus,White-eyed Vireo,0.5542,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+540.0,543.0,Vireo griseus,White-eyed Vireo,0.6986,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+543.0,546.0,Vireo griseus,White-eyed Vireo,0.3291,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+549.0,552.0,Seiurus aurocapilla,Ovenbird,0.9740,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+558.0,561.0,Passerina caerulea,Blue Grosbeak,0.3590,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+561.0,564.0,Vireo griseus,White-eyed Vireo,0.2569,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+570.0,573.0,Passerina caerulea,Blue Grosbeak,0.3181,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+579.0,582.0,Zenaida macroura,Mourning Dove,0.8909,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+582.0,585.0,Seiurus aurocapilla,Ovenbird,0.3329,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+585.0,588.0,Seiurus aurocapilla,Ovenbird,0.9535,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+591.0,594.0,Zenaida macroura,Mourning Dove,0.8939,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+594.0,597.0,Setophaga discolor,Prairie Warbler,0.6958,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+597.0,600.0,Setophaga discolor,Prairie Warbler,0.4684,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+609.0,612.0,Zenaida macroura,Mourning Dove,0.8054,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+612.0,615.0,Setophaga discolor,Prairie Warbler,0.8500,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+618.0,621.0,Zenaida macroura,Mourning Dove,0.6013,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+621.0,624.0,Zenaida macroura,Mourning Dove,0.8438,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+624.0,627.0,Setophaga discolor,Prairie Warbler,0.4826,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+633.0,636.0,Zenaida macroura,Mourning Dove,0.8368,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+636.0,639.0,Zenaida macroura,Mourning Dove,0.7535,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+642.0,645.0,Sitta pusilla,Brown-headed Nuthatch,0.9276,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+645.0,648.0,Zenaida macroura,Mourning Dove,0.2893,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+648.0,651.0,Zenaida macroura,Mourning Dove,0.9663,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+657.0,660.0,Zenaida macroura,Mourning Dove,0.7209,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+660.0,663.0,Zenaida macroura,Mourning Dove,0.9265,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+663.0,666.0,Vireo griseus,White-eyed Vireo,0.5791,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+669.0,672.0,Zenaida macroura,Mourning Dove,0.5139,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+672.0,675.0,Zenaida macroura,Mourning Dove,0.9702,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+684.0,687.0,Zenaida macroura,Mourning Dove,0.6410,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+687.0,690.0,Zenaida macroura,Mourning Dove,0.8421,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+687.0,690.0,Seiurus aurocapilla,Ovenbird,0.6621,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+696.0,699.0,Zenaida macroura,Mourning Dove,0.3166,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+699.0,702.0,Zenaida macroura,Mourning Dove,0.7230,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+705.0,708.0,Seiurus aurocapilla,Ovenbird,0.8320,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+708.0,711.0,Zenaida macroura,Mourning Dove,0.6696,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+711.0,714.0,Zenaida macroura,Mourning Dove,0.7844,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+714.0,717.0,Setophaga discolor,Prairie Warbler,0.8843,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+723.0,726.0,Zenaida macroura,Mourning Dove,0.5739,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+723.0,726.0,Setophaga discolor,Prairie Warbler,0.4338,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+726.0,729.0,Zenaida macroura,Mourning Dove,0.6114,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+726.0,729.0,Seiurus aurocapilla,Ovenbird,0.2841,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+729.0,732.0,Seiurus aurocapilla,Ovenbird,0.9255,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+735.0,738.0,Zenaida macroura,Mourning Dove,0.8787,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+744.0,747.0,Zenaida macroura,Mourning Dove,0.5362,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+747.0,750.0,Zenaida macroura,Mourning Dove,0.7876,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+750.0,753.0,Seiurus aurocapilla,Ovenbird,0.4263,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+753.0,756.0,Zenaida macroura,Mourning Dove,0.2521,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+756.0,759.0,Zenaida macroura,Mourning Dove,0.8199,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+759.0,762.0,Zenaida macroura,Mourning Dove,0.9577,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+768.0,771.0,Seiurus aurocapilla,Ovenbird,0.9321,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+771.0,774.0,Zenaida macroura,Mourning Dove,0.3075,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+774.0,777.0,Zenaida macroura,Mourning Dove,0.2695,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+789.0,792.0,Coccyzus americanus,Yellow-billed Cuckoo,0.6165,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+789.0,792.0,Seiurus aurocapilla,Ovenbird,0.5061,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+807.0,810.0,Seiurus aurocapilla,Ovenbird,0.9408,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+810.0,813.0,Seiurus aurocapilla,Ovenbird,0.6981,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+816.0,819.0,Seiurus aurocapilla,Ovenbird,0.5060,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+828.0,831.0,Seiurus aurocapilla,Ovenbird,0.9865,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+834.0,837.0,Setophaga discolor,Prairie Warbler,0.9338,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+837.0,840.0,Seiurus aurocapilla,Ovenbird,0.4290,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+840.0,843.0,Seiurus aurocapilla,Ovenbird,0.5785,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+849.0,852.0,Seiurus aurocapilla,Ovenbird,0.7955,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+852.0,855.0,Seiurus aurocapilla,Ovenbird,0.9772,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+864.0,867.0,Seiurus aurocapilla,Ovenbird,0.6105,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+867.0,870.0,Seiurus aurocapilla,Ovenbird,0.9551,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+870.0,873.0,Seiurus aurocapilla,Ovenbird,0.3935,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+882.0,885.0,Seiurus aurocapilla,Ovenbird,0.7090,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+885.0,888.0,Seiurus aurocapilla,Ovenbird,0.9101,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+894.0,897.0,Setophaga pinus,Pine Warbler,0.2743,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+900.0,903.0,Seiurus aurocapilla,Ovenbird,0.7815,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+903.0,906.0,Seiurus aurocapilla,Ovenbird,0.6429,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+921.0,924.0,Seiurus aurocapilla,Ovenbird,0.8698,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+939.0,942.0,Seiurus aurocapilla,Ovenbird,0.6037,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+942.0,945.0,Seiurus aurocapilla,Ovenbird,0.2503,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+957.0,960.0,Seiurus aurocapilla,Ovenbird,0.9755,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+972.0,975.0,Seiurus aurocapilla,Ovenbird,0.9693,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+978.0,981.0,Pipilo erythrophthalmus,Eastern Towhee,0.3247,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+987.0,990.0,Seiurus aurocapilla,Ovenbird,0.7883,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+990.0,993.0,Seiurus aurocapilla,Ovenbird,0.8792,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+993.0,996.0,Pipilo erythrophthalmus,Eastern Towhee,0.2721,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+999.0,1002.0,Passerina caerulea,Blue Grosbeak,0.2710,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1005.0,1008.0,Seiurus aurocapilla,Ovenbird,0.6285,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1008.0,1011.0,Seiurus aurocapilla,Ovenbird,0.8654,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1008.0,1011.0,Pipilo erythrophthalmus,Eastern Towhee,0.3402,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1014.0,1017.0,Passerina caerulea,Blue Grosbeak,0.6233,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1023.0,1026.0,Pipilo erythrophthalmus,Eastern Towhee,0.4065,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1026.0,1029.0,Passerina caerulea,Blue Grosbeak,0.3242,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1032.0,1035.0,Spinus tristis,American Goldfinch,0.4204,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1047.0,1050.0,Pipilo erythrophthalmus,Eastern Towhee,0.2917,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1062.0,1065.0,Pipilo erythrophthalmus,Eastern Towhee,0.4873,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1068.0,1071.0,Passerina caerulea,Blue Grosbeak,0.3602,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1071.0,1074.0,Spizella passerina,Chipping Sparrow,0.2558,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1113.0,1116.0,Seiurus aurocapilla,Ovenbird,0.4026,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1137.0,1140.0,Spinus tristis,American Goldfinch,0.3595,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1140.0,1143.0,Seiurus aurocapilla,Ovenbird,0.7660,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1155.0,1158.0,Zenaida macroura,Mourning Dove,0.9071,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1158.0,1161.0,Zenaida macroura,Mourning Dove,0.9152,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1164.0,1167.0,Spinus tristis,American Goldfinch,0.3163,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1167.0,1170.0,Zenaida macroura,Mourning Dove,0.8869,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1167.0,1170.0,Spinus tristis,American Goldfinch,0.3884,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1179.0,1182.0,Zenaida macroura,Mourning Dove,0.5334,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1182.0,1185.0,Zenaida macroura,Mourning Dove,0.4702,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1191.0,1194.0,Zenaida macroura,Mourning Dove,0.9424,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1194.0,1197.0,Zenaida macroura,Mourning Dove,0.3455,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1203.0,1206.0,Zenaida macroura,Mourning Dove,0.6571,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1206.0,1209.0,Zenaida macroura,Mourning Dove,0.8119,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1218.0,1221.0,Zenaida macroura,Mourning Dove,0.7075,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1221.0,1224.0,Zenaida macroura,Mourning Dove,0.3469,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1230.0,1233.0,Spizella passerina,Chipping Sparrow,0.6107,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1236.0,1239.0,Zenaida macroura,Mourning Dove,0.7771,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1239.0,1242.0,Zenaida macroura,Mourning Dove,0.4330,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1254.0,1257.0,Spizella passerina,Chipping Sparrow,0.6143,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1257.0,1260.0,Pipilo erythrophthalmus,Eastern Towhee,0.3862,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1263.0,1266.0,Zenaida macroura,Mourning Dove,0.7397,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1266.0,1269.0,Seiurus aurocapilla,Ovenbird,0.4739,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1266.0,1269.0,Pipilo erythrophthalmus,Eastern Towhee,0.3768,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1278.0,1281.0,Zenaida macroura,Mourning Dove,0.7205,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1281.0,1284.0,Zenaida macroura,Mourning Dove,0.6982,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1293.0,1296.0,Pipilo erythrophthalmus,Eastern Towhee,0.2780,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1296.0,1299.0,Zenaida macroura,Mourning Dove,0.5636,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1299.0,1302.0,Zenaida macroura,Mourning Dove,0.4196,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1320.0,1323.0,Setophaga pinus,Pine Warbler,0.3838,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1329.0,1332.0,Pipilo erythrophthalmus,Eastern Towhee,0.5114,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1353.0,1356.0,Cardinalis cardinalis,Northern Cardinal,0.3581,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1365.0,1368.0,Zenaida macroura,Mourning Dove,0.9058,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1374.0,1377.0,Pipilo erythrophthalmus,Eastern Towhee,0.4120,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1377.0,1380.0,Zenaida macroura,Mourning Dove,0.5529,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1380.0,1383.0,Zenaida macroura,Mourning Dove,0.9674,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1383.0,1386.0,Sitta pusilla,Brown-headed Nuthatch,0.9810,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1386.0,1389.0,Sitta pusilla,Brown-headed Nuthatch,0.9568,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1389.0,1392.0,Pipilo erythrophthalmus,Eastern Towhee,0.6600,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1392.0,1395.0,Zenaida macroura,Mourning Dove,0.5849,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1395.0,1398.0,Zenaida macroura,Mourning Dove,0.9585,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1398.0,1401.0,Spizella passerina,Chipping Sparrow,0.2526,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1407.0,1410.0,Zenaida macroura,Mourning Dove,0.7094,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1410.0,1413.0,Zenaida macroura,Mourning Dove,0.8897,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1422.0,1425.0,Zenaida macroura,Mourning Dove,0.6152,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1425.0,1428.0,Zenaida macroura,Mourning Dove,0.9142,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1428.0,1431.0,Seiurus aurocapilla,Ovenbird,0.3627,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1440.0,1443.0,Zenaida macroura,Mourning Dove,0.7641,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1443.0,1446.0,Zenaida macroura,Mourning Dove,0.9476,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1452.0,1455.0,Setophaga pinus,Pine Warbler,0.4255,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1455.0,1458.0,Zenaida macroura,Mourning Dove,0.8385,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1458.0,1461.0,Zenaida macroura,Mourning Dove,0.7988,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1464.0,1467.0,Spinus tristis,American Goldfinch,0.8113,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1470.0,1473.0,Zenaida macroura,Mourning Dove,0.8836,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1473.0,1476.0,Zenaida macroura,Mourning Dove,0.9144,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1479.0,1482.0,Setophaga pinus,Pine Warbler,0.6629,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1485.0,1488.0,Zenaida macroura,Mourning Dove,0.8382,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1488.0,1491.0,Zenaida macroura,Mourning Dove,0.8548,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1494.0,1497.0,Vireo griseus,White-eyed Vireo,0.6719,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1512.0,1515.0,Spizella passerina,Chipping Sparrow,0.4535,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1515.0,1518.0,Spinus tristis,American Goldfinch,0.4116,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1524.0,1527.0,Zenaida macroura,Mourning Dove,0.9200,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1527.0,1530.0,Zenaida macroura,Mourning Dove,0.5437,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1533.0,1536.0,Zenaida macroura,Mourning Dove,0.4635,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1536.0,1539.0,Zenaida macroura,Mourning Dove,0.6094,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1545.0,1548.0,Zenaida macroura,Mourning Dove,0.6742,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1545.0,1548.0,Strix varia,Barred Owl,0.5445,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1548.0,1551.0,Zenaida macroura,Mourning Dove,0.9156,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1554.0,1557.0,Setophaga pinus,Pine Warbler,0.7417,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1557.0,1560.0,Geothlypis trichas,Common Yellowthroat,0.8156,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1566.0,1569.0,Zenaida macroura,Mourning Dove,0.9252,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1569.0,1572.0,Zenaida macroura,Mourning Dove,0.9296,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1575.0,1578.0,Setophaga pinus,Pine Warbler,0.3412,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1578.0,1581.0,Zenaida macroura,Mourning Dove,0.8571,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1581.0,1584.0,Zenaida macroura,Mourning Dove,0.8653,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1593.0,1596.0,Zenaida macroura,Mourning Dove,0.6478,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1599.0,1602.0,Setophaga pinus,Pine Warbler,0.3683,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1605.0,1608.0,Zenaida macroura,Mourning Dove,0.8025,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1608.0,1611.0,Zenaida macroura,Mourning Dove,0.6063,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1611.0,1614.0,Pipilo erythrophthalmus,Eastern Towhee,0.4175,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1614.0,1617.0,Seiurus aurocapilla,Ovenbird,0.6007,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1617.0,1620.0,Setophaga pinus,Pine Warbler,0.3185,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1617.0,1620.0,Spizella passerina,Chipping Sparrow,0.2834,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1620.0,1623.0,Zenaida macroura,Mourning Dove,0.4674,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1626.0,1629.0,Setophaga pinus,Pine Warbler,0.8032,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1629.0,1632.0,Spizella passerina,Chipping Sparrow,0.2992,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1638.0,1641.0,Zenaida macroura,Mourning Dove,0.4037,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1641.0,1644.0,Zenaida macroura,Mourning Dove,0.5135,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1644.0,1647.0,Geothlypis trichas,Common Yellowthroat,0.5873,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1647.0,1650.0,Geothlypis trichas,Common Yellowthroat,0.7630,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1650.0,1653.0,Geothlypis trichas,Common Yellowthroat,0.4594,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1653.0,1656.0,Setophaga pinus,Pine Warbler,0.2799,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1659.0,1662.0,Zenaida macroura,Mourning Dove,0.5447,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1662.0,1665.0,Zenaida macroura,Mourning Dove,0.5726,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1686.0,1689.0,Setophaga pinus,Pine Warbler,0.2631,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1689.0,1692.0,Vireo griseus,White-eyed Vireo,0.8341,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1692.0,1695.0,Setophaga discolor,Prairie Warbler,0.6635,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1695.0,1698.0,Vireo griseus,White-eyed Vireo,0.7829,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1701.0,1704.0,Vireo griseus,White-eyed Vireo,0.3116,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1704.0,1707.0,Cardinalis cardinalis,Northern Cardinal,0.2609,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1710.0,1713.0,Zenaida macroura,Mourning Dove,0.6960,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1713.0,1716.0,Zenaida macroura,Mourning Dove,0.9650,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1725.0,1728.0,Zenaida macroura,Mourning Dove,0.3505,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1728.0,1731.0,Zenaida macroura,Mourning Dove,0.9087,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1743.0,1746.0,Zenaida macroura,Mourning Dove,0.2701,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1749.0,1752.0,Geothlypis trichas,Common Yellowthroat,0.3681,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1752.0,1755.0,Setophaga discolor,Prairie Warbler,0.2772,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1755.0,1758.0,Zenaida macroura,Mourning Dove,0.8410,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1758.0,1761.0,Zenaida macroura,Mourning Dove,0.7346,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1761.0,1764.0,Geothlypis trichas,Common Yellowthroat,0.5406,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1764.0,1767.0,Setophaga discolor,Prairie Warbler,0.3749,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1767.0,1770.0,Setophaga pinus,Pine Warbler,0.3411,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1770.0,1773.0,Zenaida macroura,Mourning Dove,0.6808,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1773.0,1776.0,Zenaida macroura,Mourning Dove,0.7516,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1782.0,1785.0,Zenaida macroura,Mourning Dove,0.6728,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1782.0,1785.0,Strix varia,Barred Owl,0.3240,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1785.0,1788.0,Zenaida macroura,Mourning Dove,0.7533,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1806.0,1809.0,Zenaida macroura,Mourning Dove,0.4373,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1809.0,1812.0,Zenaida macroura,Mourning Dove,0.3320,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1815.0,1818.0,Sitta pusilla,Brown-headed Nuthatch,0.8104,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1818.0,1821.0,Zenaida macroura,Mourning Dove,0.5980,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1821.0,1824.0,Zenaida macroura,Mourning Dove,0.9060,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1827.0,1830.0,Setophaga pinus,Pine Warbler,0.7221,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1833.0,1836.0,Zenaida macroura,Mourning Dove,0.6840,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1836.0,1839.0,Zenaida macroura,Mourning Dove,0.9496,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1851.0,1854.0,Setophaga pinus,Pine Warbler,0.7499,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1854.0,1857.0,Setophaga pinus,Pine Warbler,0.4682,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1863.0,1866.0,Setophaga pinus,Pine Warbler,0.8108,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1866.0,1869.0,Zenaida macroura,Mourning Dove,0.8207,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1869.0,1872.0,Zenaida macroura,Mourning Dove,0.9798,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1887.0,1890.0,Zenaida macroura,Mourning Dove,0.9517,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1890.0,1893.0,Zenaida macroura,Mourning Dove,0.7621,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1902.0,1905.0,Vireo griseus,White-eyed Vireo,0.3415,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1914.0,1917.0,Zenaida macroura,Mourning Dove,0.9362,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1917.0,1920.0,Zenaida macroura,Mourning Dove,0.5775,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1926.0,1929.0,Strix varia,Barred Owl,0.6959,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1926.0,1929.0,Zenaida macroura,Mourning Dove,0.6748,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1929.0,1932.0,Zenaida macroura,Mourning Dove,0.9620,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1941.0,1944.0,Setophaga pinus,Pine Warbler,0.5932,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1950.0,1953.0,Zenaida macroura,Mourning Dove,0.6949,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1953.0,1956.0,Zenaida macroura,Mourning Dove,0.6398,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1959.0,1962.0,Cardinalis cardinalis,Northern Cardinal,0.2502,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1974.0,1977.0,Zenaida macroura,Mourning Dove,0.7701,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1977.0,1980.0,Zenaida macroura,Mourning Dove,0.9716,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1986.0,1989.0,Zenaida macroura,Mourning Dove,0.4918,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1989.0,1992.0,Zenaida macroura,Mourning Dove,0.4918,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1992.0,1995.0,Spizella passerina,Chipping Sparrow,0.5773,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+1995.0,1998.0,Setophaga pinus,Pine Warbler,0.4117,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2001.0,2004.0,Spizella passerina,Chipping Sparrow,0.4334,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2007.0,2010.0,Zenaida macroura,Mourning Dove,0.3340,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2010.0,2013.0,Zenaida macroura,Mourning Dove,0.8804,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2022.0,2025.0,Zenaida macroura,Mourning Dove,0.8387,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2028.0,2031.0,Vireo griseus,White-eyed Vireo,0.2829,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2037.0,2040.0,Zenaida macroura,Mourning Dove,0.2827,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2040.0,2043.0,Zenaida macroura,Mourning Dove,0.2809,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2052.0,2055.0,Zenaida macroura,Mourning Dove,0.6230,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2055.0,2058.0,Zenaida macroura,Mourning Dove,0.7954,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2070.0,2073.0,Zenaida macroura,Mourning Dove,0.7295,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2073.0,2076.0,Zenaida macroura,Mourning Dove,0.6448,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2091.0,2094.0,Zenaida macroura,Mourning Dove,0.2609,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2094.0,2097.0,Zenaida macroura,Mourning Dove,0.4436,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2124.0,2127.0,Cardinalis cardinalis,Northern Cardinal,0.3817,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2133.0,2136.0,Setophaga discolor,Prairie Warbler,0.6001,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2160.0,2163.0,Dumetella carolinensis,Gray Catbird,0.2561,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2193.0,2196.0,Dryobates pubescens,Downy Woodpecker,0.2856,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2223.0,2226.0,Dumetella carolinensis,Gray Catbird,0.3577,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2250.0,2253.0,Zenaida macroura,Mourning Dove,0.3045,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2262.0,2265.0,Spizella passerina,Chipping Sparrow,0.7735,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2271.0,2274.0,Spizella passerina,Chipping Sparrow,0.2995,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2283.0,2286.0,Zenaida macroura,Mourning Dove,0.5166,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2286.0,2289.0,Zenaida macroura,Mourning Dove,0.6944,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2295.0,2298.0,Zenaida macroura,Mourning Dove,0.2976,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2298.0,2301.0,Zenaida macroura,Mourning Dove,0.6920,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2304.0,2307.0,Spizella passerina,Chipping Sparrow,0.3801,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2307.0,2310.0,Zenaida macroura,Mourning Dove,0.6324,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2310.0,2313.0,Zenaida macroura,Mourning Dove,0.3242,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2313.0,2316.0,Setophaga discolor,Prairie Warbler,0.2582,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2316.0,2319.0,Spizella passerina,Chipping Sparrow,0.4715,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2325.0,2328.0,Zenaida macroura,Mourning Dove,0.6486,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2328.0,2331.0,Zenaida macroura,Mourning Dove,0.8603,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2343.0,2346.0,Zenaida macroura,Mourning Dove,0.2641,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2346.0,2349.0,Spizella passerina,Chipping Sparrow,0.4893,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2355.0,2358.0,Zenaida macroura,Mourning Dove,0.3562,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2355.0,2358.0,Passerina caerulea,Blue Grosbeak,0.3110,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2358.0,2361.0,Zenaida macroura,Mourning Dove,0.5542,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2373.0,2376.0,Zenaida macroura,Mourning Dove,0.3834,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2376.0,2379.0,Zenaida macroura,Mourning Dove,0.4949,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2382.0,2385.0,Passerina caerulea,Blue Grosbeak,0.2669,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2391.0,2394.0,Zenaida macroura,Mourning Dove,0.4061,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2409.0,2412.0,Passerina caerulea,Blue Grosbeak,0.3641,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2412.0,2415.0,Spizella passerina,Chipping Sparrow,0.5656,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2418.0,2421.0,Spizella passerina,Chipping Sparrow,0.2825,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2424.0,2427.0,Spinus tristis,American Goldfinch,0.6515,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2427.0,2430.0,Spinus tristis,American Goldfinch,0.5573,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2430.0,2433.0,Spinus tristis,American Goldfinch,0.3943,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2433.0,2436.0,Spinus tristis,American Goldfinch,0.6756,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2439.0,2442.0,Spinus tristis,American Goldfinch,0.2883,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2448.0,2451.0,Spinus tristis,American Goldfinch,0.4072,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2454.0,2457.0,Spinus tristis,American Goldfinch,0.9398,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2463.0,2466.0,Spinus tristis,American Goldfinch,0.4205,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2469.0,2472.0,Passerina cyanea,Indigo Bunting,0.3423,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2481.0,2484.0,Dryobates pubescens,Downy Woodpecker,0.2841,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2502.0,2505.0,Spinus tristis,American Goldfinch,0.8432,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2508.0,2511.0,Spinus tristis,American Goldfinch,0.6852,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2514.0,2517.0,Spinus tristis,American Goldfinch,0.8379,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2517.0,2520.0,Spizella passerina,Chipping Sparrow,0.7173,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2520.0,2523.0,Spinus tristis,American Goldfinch,0.3745,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2526.0,2529.0,Spizella passerina,Chipping Sparrow,0.4660,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2535.0,2538.0,Setophaga discolor,Prairie Warbler,0.3956,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2544.0,2547.0,Setophaga dominica,Yellow-throated Warbler,0.3900,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2553.0,2556.0,Passerina cyanea,Indigo Bunting,0.2700,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2556.0,2559.0,Spizella passerina,Chipping Sparrow,0.2644,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2568.0,2571.0,Sialia sialis,Eastern Bluebird,0.2914,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2574.0,2577.0,Dryobates pubescens,Downy Woodpecker,0.2626,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2580.0,2583.0,Spinus tristis,American Goldfinch,0.6423,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2607.0,2610.0,Passerina caerulea,Blue Grosbeak,0.7003,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2610.0,2613.0,Spinus tristis,American Goldfinch,0.4895,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2613.0,2616.0,Spinus tristis,American Goldfinch,0.3720,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2619.0,2622.0,Setophaga discolor,Prairie Warbler,0.3016,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2628.0,2631.0,Spinus tristis,American Goldfinch,0.2981,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2634.0,2637.0,Spinus tristis,American Goldfinch,0.6224,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2637.0,2640.0,Spinus tristis,American Goldfinch,0.4339,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2655.0,2658.0,Spinus tristis,American Goldfinch,0.3521,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2661.0,2664.0,Spinus tristis,American Goldfinch,0.3040,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2688.0,2691.0,Spizella passerina,Chipping Sparrow,0.3650,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2697.0,2700.0,Spizella passerina,Chipping Sparrow,0.7984,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2724.0,2727.0,Passerina caerulea,Blue Grosbeak,0.2704,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2730.0,2733.0,Spizella passerina,Chipping Sparrow,0.5002,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2739.0,2742.0,Spizella passerina,Chipping Sparrow,0.4674,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2757.0,2760.0,Spizella passerina,Chipping Sparrow,0.4116,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2766.0,2769.0,Spizella passerina,Chipping Sparrow,0.3976,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2772.0,2775.0,Spizella pusilla,Field Sparrow,0.3712,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2784.0,2787.0,Colaptes auratus,Northern Flicker,0.4358,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2793.0,2796.0,Spizella passerina,Chipping Sparrow,0.7703,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2802.0,2805.0,Spizella passerina,Chipping Sparrow,0.5007,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2805.0,2808.0,Setophaga discolor,Prairie Warbler,0.6264,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2808.0,2811.0,Colaptes auratus,Northern Flicker,0.8692,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2811.0,2814.0,Colaptes auratus,Northern Flicker,0.3327,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2814.0,2817.0,Spizella passerina,Chipping Sparrow,0.2695,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2817.0,2820.0,Vireo griseus,White-eyed Vireo,0.4331,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2820.0,2823.0,Spizella passerina,Chipping Sparrow,0.8422,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2826.0,2829.0,Setophaga discolor,Prairie Warbler,0.8961,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2829.0,2832.0,Spizella passerina,Chipping Sparrow,0.3499,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2838.0,2841.0,Spizella passerina,Chipping Sparrow,0.3795,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2841.0,2844.0,Spizella passerina,Chipping Sparrow,0.2690,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2853.0,2856.0,Setophaga pinus,Pine Warbler,0.3746,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2859.0,2862.0,Spizella passerina,Chipping Sparrow,0.6827,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2865.0,2868.0,Spinus tristis,American Goldfinch,0.2746,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2868.0,2871.0,Spizella passerina,Chipping Sparrow,0.6641,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2871.0,2874.0,Colaptes auratus,Northern Flicker,0.6992,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2874.0,2877.0,Colaptes auratus,Northern Flicker,0.9327,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2889.0,2892.0,Spizella passerina,Chipping Sparrow,0.7998,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2958.0,2961.0,Colaptes auratus,Northern Flicker,0.5902,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2961.0,2964.0,Colaptes auratus,Northern Flicker,0.8478,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2964.0,2967.0,Colaptes auratus,Northern Flicker,0.8897,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+2982.0,2985.0,Geothlypis trichas,Common Yellowthroat,0.2661,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3021.0,3024.0,Colaptes auratus,Northern Flicker,0.5547,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3021.0,3024.0,Geothlypis trichas,Common Yellowthroat,0.4541,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3024.0,3027.0,Colaptes auratus,Northern Flicker,0.9058,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3027.0,3030.0,Colaptes auratus,Northern Flicker,0.7675,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3027.0,3030.0,Geothlypis trichas,Common Yellowthroat,0.5201,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3030.0,3033.0,Geothlypis trichas,Common Yellowthroat,0.4486,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3033.0,3036.0,Geothlypis trichas,Common Yellowthroat,0.7488,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3036.0,3039.0,Geothlypis trichas,Common Yellowthroat,0.8495,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3039.0,3042.0,Geothlypis trichas,Common Yellowthroat,0.4728,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3051.0,3054.0,Geothlypis trichas,Common Yellowthroat,0.5815,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3054.0,3057.0,Colaptes auratus,Northern Flicker,0.7162,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3057.0,3060.0,Colaptes auratus,Northern Flicker,0.4404,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3060.0,3063.0,Colaptes auratus,Northern Flicker,0.4354,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3063.0,3066.0,Spizella passerina,Chipping Sparrow,0.5908,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3078.0,3081.0,Setophaga pinus,Pine Warbler,0.3792,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3093.0,3096.0,Colaptes auratus,Northern Flicker,0.9788,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3096.0,3099.0,Colaptes auratus,Northern Flicker,0.6501,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3099.0,3102.0,Spizella passerina,Chipping Sparrow,0.5170,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3120.0,3123.0,Spizella passerina,Chipping Sparrow,0.3825,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3129.0,3132.0,Colaptes auratus,Northern Flicker,0.6464,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3129.0,3132.0,Spizella passerina,Chipping Sparrow,0.4407,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3132.0,3135.0,Colaptes auratus,Northern Flicker,0.9083,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3135.0,3138.0,Colaptes auratus,Northern Flicker,0.6201,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3153.0,3156.0,Vireo griseus,White-eyed Vireo,0.3352,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3156.0,3159.0,Colaptes auratus,Northern Flicker,0.4919,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3159.0,3162.0,Colaptes auratus,Northern Flicker,0.7559,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3162.0,3165.0,Colaptes auratus,Northern Flicker,0.6942,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3165.0,3168.0,Spizella passerina,Chipping Sparrow,0.5875,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3174.0,3177.0,Spizella passerina,Chipping Sparrow,0.5566,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3192.0,3195.0,Colaptes auratus,Northern Flicker,0.5659,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3201.0,3204.0,Spizella passerina,Chipping Sparrow,0.3963,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3210.0,3213.0,Spizella passerina,Chipping Sparrow,0.6223,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3222.0,3225.0,Colaptes auratus,Northern Flicker,0.6548,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3225.0,3228.0,Colaptes auratus,Northern Flicker,0.6989,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3237.0,3240.0,Spizella passerina,Chipping Sparrow,0.4236,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3246.0,3249.0,Colaptes auratus,Northern Flicker,0.3565,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3249.0,3252.0,Colaptes auratus,Northern Flicker,0.3670,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3252.0,3255.0,Colaptes auratus,Northern Flicker,0.3000,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3276.0,3279.0,Colaptes auratus,Northern Flicker,0.7509,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3279.0,3282.0,Colaptes auratus,Northern Flicker,0.8852,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3282.0,3285.0,Colaptes auratus,Northern Flicker,0.3007,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3291.0,3294.0,Spizella passerina,Chipping Sparrow,0.7054,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3291.0,3294.0,Setophaga pinus,Pine Warbler,0.3296,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3300.0,3303.0,Spizella passerina,Chipping Sparrow,0.2651,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3312.0,3315.0,Spizella passerina,Chipping Sparrow,0.2554,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3318.0,3321.0,Spizella passerina,Chipping Sparrow,0.7412,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3330.0,3333.0,Spizella passerina,Chipping Sparrow,0.5946,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3333.0,3336.0,Setophaga pinus,Pine Warbler,0.5226,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3336.0,3339.0,Spizella passerina,Chipping Sparrow,0.4029,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3342.0,3345.0,Setophaga pinus,Pine Warbler,0.4410,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3345.0,3348.0,Spizella passerina,Chipping Sparrow,0.7966,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3351.0,3354.0,Cardinalis cardinalis,Northern Cardinal,0.3552,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3354.0,3357.0,Spizella passerina,Chipping Sparrow,0.4635,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3357.0,3360.0,Spizella passerina,Chipping Sparrow,0.3313,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3369.0,3372.0,Passerina cyanea,Indigo Bunting,0.3113,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3372.0,3375.0,Spizella passerina,Chipping Sparrow,0.4392,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3375.0,3378.0,Spizella passerina,Chipping Sparrow,0.8244,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3381.0,3384.0,Spizella passerina,Chipping Sparrow,0.4390,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3384.0,3387.0,Setophaga discolor,Prairie Warbler,0.6839,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3387.0,3390.0,Seiurus aurocapilla,Ovenbird,0.6631,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3390.0,3393.0,Spizella passerina,Chipping Sparrow,0.8224,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3399.0,3402.0,Spizella passerina,Chipping Sparrow,0.5696,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3402.0,3405.0,Passerina cyanea,Indigo Bunting,0.5756,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3405.0,3408.0,Passerina cyanea,Indigo Bunting,0.7341,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3408.0,3411.0,Spizella passerina,Chipping Sparrow,0.5636,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3417.0,3420.0,Colaptes auratus,Northern Flicker,0.3458,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3417.0,3420.0,Spizella passerina,Chipping Sparrow,0.2629,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3420.0,3423.0,Colaptes auratus,Northern Flicker,0.5852,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3423.0,3426.0,Colaptes auratus,Northern Flicker,0.3005,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3426.0,3429.0,Spizella passerina,Chipping Sparrow,0.8543,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3438.0,3441.0,Passerina cyanea,Indigo Bunting,0.6606,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3447.0,3450.0,Passerina cyanea,Indigo Bunting,0.6179,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3450.0,3453.0,Spizella passerina,Chipping Sparrow,0.3283,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3465.0,3468.0,Passerina cyanea,Indigo Bunting,0.3148,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3492.0,3495.0,Corvus brachyrhynchos,American Crow,0.3933,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3519.0,3522.0,Corvus brachyrhynchos,American Crow,0.4055,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3543.0,3546.0,Passerina cyanea,Indigo Bunting,0.2865,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3564.0,3567.0,Colaptes auratus,Northern Flicker,0.3324,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3570.0,3573.0,Colaptes auratus,Northern Flicker,0.7745,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav
+3573.0,3576.0,Colaptes auratus,Northern Flicker,0.4717,D:\Bird_Anuran_ARUs\RE06\SMM2-17_20260421_060402.wav

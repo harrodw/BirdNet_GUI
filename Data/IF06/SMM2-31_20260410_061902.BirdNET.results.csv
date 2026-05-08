@@ -1,0 +1,541 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+0.0,3.0,Seiurus aurocapilla,Ovenbird,0.3882,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3.0,6.0,Geothlypis trichas,Common Yellowthroat,0.2956,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+6.0,9.0,Geothlypis trichas,Common Yellowthroat,0.2541,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+18.0,21.0,Geothlypis trichas,Common Yellowthroat,0.9036,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+24.0,27.0,Setophaga citrina,Hooded Warbler,0.6293,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+30.0,33.0,Setophaga pinus,Pine Warbler,0.8479,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+33.0,36.0,Geothlypis trichas,Common Yellowthroat,0.3562,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+36.0,39.0,Geothlypis trichas,Common Yellowthroat,0.2521,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+39.0,42.0,Baeolophus bicolor,Tufted Titmouse,0.2776,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+42.0,45.0,Pipilo erythrophthalmus,Eastern Towhee,0.2522,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+45.0,48.0,Setophaga pinus,Pine Warbler,0.2534,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+48.0,51.0,Geothlypis trichas,Common Yellowthroat,0.4773,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+51.0,54.0,Setophaga citrina,Hooded Warbler,0.3426,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+60.0,63.0,Setophaga citrina,Hooded Warbler,0.5356,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+63.0,66.0,Setophaga citrina,Hooded Warbler,0.2826,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+69.0,72.0,Geothlypis trichas,Common Yellowthroat,0.3861,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+72.0,75.0,Seiurus aurocapilla,Ovenbird,0.5444,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+87.0,90.0,Setophaga citrina,Hooded Warbler,0.9380,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+90.0,93.0,Seiurus aurocapilla,Ovenbird,0.3786,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+93.0,96.0,Seiurus aurocapilla,Ovenbird,0.5738,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+96.0,99.0,Baeolophus bicolor,Tufted Titmouse,0.2756,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+99.0,102.0,Setophaga citrina,Hooded Warbler,0.4815,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+105.0,108.0,Geothlypis trichas,Common Yellowthroat,0.3645,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+108.0,111.0,Seiurus aurocapilla,Ovenbird,0.6724,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+117.0,120.0,Seiurus aurocapilla,Ovenbird,0.8648,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+123.0,126.0,Geothlypis trichas,Common Yellowthroat,0.3638,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+129.0,132.0,Setophaga citrina,Hooded Warbler,0.3675,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+135.0,138.0,Seiurus aurocapilla,Ovenbird,0.8713,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+138.0,141.0,Seiurus aurocapilla,Ovenbird,0.4052,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+147.0,150.0,Corvus brachyrhynchos,American Crow,0.5797,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+147.0,150.0,Setophaga citrina,Hooded Warbler,0.3127,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+171.0,174.0,Geothlypis trichas,Common Yellowthroat,0.5509,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+183.0,186.0,Geothlypis trichas,Common Yellowthroat,0.4276,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+192.0,195.0,Setophaga pinus,Pine Warbler,0.5524,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+195.0,198.0,Geothlypis trichas,Common Yellowthroat,0.4069,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+231.0,234.0,Geothlypis trichas,Common Yellowthroat,0.2941,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+234.0,237.0,Seiurus aurocapilla,Ovenbird,0.2697,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+255.0,258.0,Geothlypis trichas,Common Yellowthroat,0.3948,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+258.0,261.0,Geothlypis trichas,Common Yellowthroat,0.3135,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+264.0,267.0,Seiurus aurocapilla,Ovenbird,0.3800,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+270.0,273.0,Geothlypis trichas,Common Yellowthroat,0.6080,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+273.0,276.0,Setophaga citrina,Hooded Warbler,0.3737,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+279.0,282.0,Seiurus aurocapilla,Ovenbird,0.3589,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+282.0,285.0,Setophaga pinus,Pine Warbler,0.7041,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+285.0,288.0,Geothlypis trichas,Common Yellowthroat,0.6799,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+288.0,291.0,Geothlypis trichas,Common Yellowthroat,0.2692,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+291.0,294.0,Seiurus aurocapilla,Ovenbird,0.5017,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+294.0,297.0,Seiurus aurocapilla,Ovenbird,0.5333,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+297.0,300.0,Geothlypis trichas,Common Yellowthroat,0.2903,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+306.0,309.0,Geothlypis trichas,Common Yellowthroat,0.3254,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+315.0,318.0,Geothlypis trichas,Common Yellowthroat,0.4852,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+321.0,324.0,Corvus brachyrhynchos,American Crow,0.7582,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+321.0,324.0,Baeolophus bicolor,Tufted Titmouse,0.3699,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+342.0,345.0,Geothlypis trichas,Common Yellowthroat,0.2748,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+345.0,348.0,Geothlypis trichas,Common Yellowthroat,0.4200,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+354.0,357.0,Setophaga citrina,Hooded Warbler,0.2511,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+363.0,366.0,Baeolophus bicolor,Tufted Titmouse,0.3539,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+366.0,369.0,Seiurus aurocapilla,Ovenbird,0.5120,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+372.0,375.0,Setophaga citrina,Hooded Warbler,0.5797,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+375.0,378.0,Corvus brachyrhynchos,American Crow,0.7934,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+375.0,378.0,Seiurus aurocapilla,Ovenbird,0.4773,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+378.0,381.0,Seiurus aurocapilla,Ovenbird,0.3664,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+387.0,390.0,Corvus brachyrhynchos,American Crow,0.7839,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+387.0,390.0,Seiurus aurocapilla,Ovenbird,0.2933,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+393.0,396.0,Geothlypis trichas,Common Yellowthroat,0.5729,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+393.0,396.0,Pipilo erythrophthalmus,Eastern Towhee,0.4891,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+396.0,399.0,Seiurus aurocapilla,Ovenbird,0.4662,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+399.0,402.0,Seiurus aurocapilla,Ovenbird,0.6164,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+411.0,414.0,Corvus brachyrhynchos,American Crow,0.6303,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+411.0,414.0,Setophaga citrina,Hooded Warbler,0.2672,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+411.0,414.0,Pipilo erythrophthalmus,Eastern Towhee,0.2514,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+423.0,426.0,Corvus brachyrhynchos,American Crow,0.5266,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+432.0,435.0,Setophaga pinus,Pine Warbler,0.7928,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+441.0,444.0,Setophaga citrina,Hooded Warbler,0.2573,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+444.0,447.0,Hylocichla mustelina,Wood Thrush,0.3002,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+453.0,456.0,Geothlypis trichas,Common Yellowthroat,0.2605,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+459.0,462.0,Dryocopus pileatus,Pileated Woodpecker,0.8879,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+462.0,465.0,Dryocopus pileatus,Pileated Woodpecker,0.7471,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+474.0,477.0,Setophaga citrina,Hooded Warbler,0.9543,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+477.0,480.0,Geothlypis trichas,Common Yellowthroat,0.5641,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+483.0,486.0,Seiurus aurocapilla,Ovenbird,0.3326,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+492.0,495.0,Geothlypis trichas,Common Yellowthroat,0.2986,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+498.0,501.0,Corvus brachyrhynchos,American Crow,0.6263,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+513.0,516.0,Corvus brachyrhynchos,American Crow,0.4698,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+513.0,516.0,Setophaga citrina,Hooded Warbler,0.3773,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+516.0,519.0,Seiurus aurocapilla,Ovenbird,0.8198,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+519.0,522.0,Seiurus aurocapilla,Ovenbird,0.5497,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+528.0,531.0,Geothlypis trichas,Common Yellowthroat,0.3437,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+534.0,537.0,Corvus brachyrhynchos,American Crow,0.5390,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+537.0,540.0,Setophaga pinus,Pine Warbler,0.3647,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+543.0,546.0,Geothlypis trichas,Common Yellowthroat,0.5850,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+549.0,552.0,Seiurus aurocapilla,Ovenbird,0.6444,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+570.0,573.0,Geothlypis trichas,Common Yellowthroat,0.5598,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+573.0,576.0,Setophaga pinus,Pine Warbler,0.3343,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+576.0,579.0,Seiurus aurocapilla,Ovenbird,0.8078,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+582.0,585.0,Seiurus aurocapilla,Ovenbird,0.9064,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+585.0,588.0,Geothlypis trichas,Common Yellowthroat,0.3759,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+591.0,594.0,Setophaga pinus,Pine Warbler,0.8042,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+594.0,597.0,Seiurus aurocapilla,Ovenbird,0.7917,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+597.0,600.0,Geothlypis trichas,Common Yellowthroat,0.3469,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+606.0,609.0,Geothlypis trichas,Common Yellowthroat,0.3655,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+609.0,612.0,Seiurus aurocapilla,Ovenbird,0.2883,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+612.0,615.0,Seiurus aurocapilla,Ovenbird,0.3880,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+621.0,624.0,Seiurus aurocapilla,Ovenbird,0.8947,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+624.0,627.0,Seiurus aurocapilla,Ovenbird,0.9809,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+627.0,630.0,Geothlypis trichas,Common Yellowthroat,0.2747,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+639.0,642.0,Seiurus aurocapilla,Ovenbird,0.8302,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+642.0,645.0,Seiurus aurocapilla,Ovenbird,0.4731,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+645.0,648.0,Seiurus aurocapilla,Ovenbird,0.2706,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+648.0,651.0,Seiurus aurocapilla,Ovenbird,0.3757,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+651.0,654.0,Geothlypis trichas,Common Yellowthroat,0.3882,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+657.0,660.0,Seiurus aurocapilla,Ovenbird,0.9653,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+660.0,663.0,Seiurus aurocapilla,Ovenbird,0.3090,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+663.0,666.0,Geothlypis trichas,Common Yellowthroat,0.3459,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+666.0,669.0,Seiurus aurocapilla,Ovenbird,0.8489,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+669.0,672.0,Seiurus aurocapilla,Ovenbird,0.3638,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+675.0,678.0,Seiurus aurocapilla,Ovenbird,0.4701,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+678.0,681.0,Seiurus aurocapilla,Ovenbird,0.8398,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+699.0,702.0,Seiurus aurocapilla,Ovenbird,0.7414,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+702.0,705.0,Setophaga citrina,Hooded Warbler,0.2941,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+705.0,708.0,Setophaga citrina,Hooded Warbler,0.2712,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+717.0,720.0,Seiurus aurocapilla,Ovenbird,0.4241,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+717.0,720.0,Setophaga citrina,Hooded Warbler,0.3694,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+720.0,723.0,Geothlypis trichas,Common Yellowthroat,0.3334,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+726.0,729.0,Setophaga citrina,Hooded Warbler,0.2848,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+729.0,732.0,Setophaga citrina,Hooded Warbler,0.5040,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+732.0,735.0,Setophaga pinus,Pine Warbler,0.4127,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+750.0,753.0,Setophaga citrina,Hooded Warbler,0.5595,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+756.0,759.0,Corvus brachyrhynchos,American Crow,0.4313,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+762.0,765.0,Setophaga citrina,Hooded Warbler,0.4121,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+768.0,771.0,Geothlypis trichas,Common Yellowthroat,0.3219,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+774.0,777.0,Seiurus aurocapilla,Ovenbird,0.6158,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+786.0,789.0,Dryocopus pileatus,Pileated Woodpecker,0.2591,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+789.0,792.0,Setophaga citrina,Hooded Warbler,0.3794,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+819.0,822.0,Geothlypis trichas,Common Yellowthroat,0.4571,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+825.0,828.0,Setophaga citrina,Hooded Warbler,0.5973,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+828.0,831.0,Setophaga citrina,Hooded Warbler,0.7207,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+831.0,834.0,Geothlypis trichas,Common Yellowthroat,0.6287,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+834.0,837.0,Geothlypis trichas,Common Yellowthroat,0.5803,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+837.0,840.0,Dryocopus pileatus,Pileated Woodpecker,0.4711,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+843.0,846.0,Seiurus aurocapilla,Ovenbird,0.3643,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+849.0,852.0,Geothlypis trichas,Common Yellowthroat,0.5251,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+852.0,855.0,Setophaga citrina,Hooded Warbler,0.7905,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+858.0,861.0,Seiurus aurocapilla,Ovenbird,0.6641,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+864.0,867.0,Geothlypis trichas,Common Yellowthroat,0.2795,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+867.0,870.0,Geothlypis trichas,Common Yellowthroat,0.3771,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+867.0,870.0,Setophaga citrina,Hooded Warbler,0.2706,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+873.0,876.0,Seiurus aurocapilla,Ovenbird,0.3732,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+876.0,879.0,Seiurus aurocapilla,Ovenbird,0.4370,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+879.0,882.0,Geothlypis trichas,Common Yellowthroat,0.4207,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+882.0,885.0,Geothlypis trichas,Common Yellowthroat,0.5090,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+891.0,894.0,Molothrus ater,Brown-headed Cowbird,0.2649,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+909.0,912.0,Colaptes auratus,Northern Flicker,0.5099,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+912.0,915.0,Colaptes auratus,Northern Flicker,0.3497,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+924.0,927.0,Seiurus aurocapilla,Ovenbird,0.5487,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+930.0,933.0,Colaptes auratus,Northern Flicker,0.3919,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+936.0,939.0,Geothlypis trichas,Common Yellowthroat,0.6401,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+948.0,951.0,Colaptes auratus,Northern Flicker,0.3812,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+951.0,954.0,Geothlypis trichas,Common Yellowthroat,0.3320,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+951.0,954.0,Colaptes auratus,Northern Flicker,0.3224,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+969.0,972.0,Molothrus ater,Brown-headed Cowbird,0.7755,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+978.0,981.0,Colaptes auratus,Northern Flicker,0.4175,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+984.0,987.0,Molothrus ater,Brown-headed Cowbird,0.9216,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+993.0,996.0,Molothrus ater,Brown-headed Cowbird,0.8351,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+996.0,999.0,Molothrus ater,Brown-headed Cowbird,0.5575,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1002.0,1005.0,Molothrus ater,Brown-headed Cowbird,0.5245,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1008.0,1011.0,Seiurus aurocapilla,Ovenbird,0.8727,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1011.0,1014.0,Molothrus ater,Brown-headed Cowbird,0.7461,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1017.0,1020.0,Colaptes auratus,Northern Flicker,0.3840,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1041.0,1044.0,Colaptes auratus,Northern Flicker,0.3492,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1047.0,1050.0,Colaptes auratus,Northern Flicker,0.3929,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1050.0,1053.0,Colaptes auratus,Northern Flicker,0.3032,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1062.0,1065.0,Molothrus ater,Brown-headed Cowbird,0.7889,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1071.0,1074.0,Molothrus ater,Brown-headed Cowbird,0.3989,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1077.0,1080.0,Setophaga citrina,Hooded Warbler,0.4565,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1083.0,1086.0,Baeolophus bicolor,Tufted Titmouse,0.5460,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1086.0,1089.0,Dryocopus pileatus,Pileated Woodpecker,0.2663,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1092.0,1095.0,Colaptes auratus,Northern Flicker,0.3493,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1101.0,1104.0,Molothrus ater,Brown-headed Cowbird,0.6248,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1104.0,1107.0,Geothlypis trichas,Common Yellowthroat,0.2896,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1110.0,1113.0,Dryocopus pileatus,Pileated Woodpecker,0.5699,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1113.0,1116.0,Colaptes auratus,Northern Flicker,0.2510,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1119.0,1122.0,Molothrus ater,Brown-headed Cowbird,0.7584,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1134.0,1137.0,Pipilo erythrophthalmus,Eastern Towhee,0.9307,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1134.0,1137.0,Corvus brachyrhynchos,American Crow,0.9176,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1134.0,1137.0,Cardinalis cardinalis,Northern Cardinal,0.4425,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1134.0,1137.0,Baeolophus bicolor,Tufted Titmouse,0.3718,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1137.0,1140.0,Dryocopus pileatus,Pileated Woodpecker,0.4285,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1140.0,1143.0,Dryocopus pileatus,Pileated Woodpecker,0.5580,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1143.0,1146.0,Seiurus aurocapilla,Ovenbird,0.7380,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1152.0,1155.0,Pipilo erythrophthalmus,Eastern Towhee,0.5734,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1158.0,1161.0,Corvus brachyrhynchos,American Crow,0.3943,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1161.0,1164.0,Dryocopus pileatus,Pileated Woodpecker,0.5022,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1167.0,1170.0,Corvus brachyrhynchos,American Crow,0.5536,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1170.0,1173.0,Seiurus aurocapilla,Ovenbird,0.4077,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1179.0,1182.0,Pipilo erythrophthalmus,Eastern Towhee,0.5858,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1188.0,1191.0,Pipilo erythrophthalmus,Eastern Towhee,0.4981,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1194.0,1197.0,Molothrus ater,Brown-headed Cowbird,0.4375,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1212.0,1215.0,Pipilo erythrophthalmus,Eastern Towhee,0.7017,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1215.0,1218.0,Geothlypis trichas,Common Yellowthroat,0.3796,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1221.0,1224.0,Pipilo erythrophthalmus,Eastern Towhee,0.5115,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1233.0,1236.0,Dryocopus pileatus,Pileated Woodpecker,0.2823,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1239.0,1242.0,Setophaga pinus,Pine Warbler,0.5933,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1245.0,1248.0,Geothlypis trichas,Common Yellowthroat,0.5433,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1248.0,1251.0,Geothlypis trichas,Common Yellowthroat,0.2646,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1251.0,1254.0,Pipilo erythrophthalmus,Eastern Towhee,0.8383,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1254.0,1257.0,Seiurus aurocapilla,Ovenbird,0.4005,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1254.0,1257.0,Cardinalis cardinalis,Northern Cardinal,0.2581,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1260.0,1263.0,Cardinalis cardinalis,Northern Cardinal,0.3085,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1272.0,1275.0,Seiurus aurocapilla,Ovenbird,0.5934,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1275.0,1278.0,Seiurus aurocapilla,Ovenbird,0.3280,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1284.0,1287.0,Geothlypis trichas,Common Yellowthroat,0.3042,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1290.0,1293.0,Seiurus aurocapilla,Ovenbird,0.4779,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1305.0,1308.0,Geothlypis trichas,Common Yellowthroat,0.2935,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1308.0,1311.0,Baeolophus bicolor,Tufted Titmouse,0.3245,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1311.0,1314.0,Pipilo erythrophthalmus,Eastern Towhee,0.4673,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1314.0,1317.0,Seiurus aurocapilla,Ovenbird,0.2544,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1320.0,1323.0,Geothlypis trichas,Common Yellowthroat,0.4194,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1356.0,1359.0,Geothlypis trichas,Common Yellowthroat,0.4484,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1368.0,1371.0,Setophaga pinus,Pine Warbler,0.8217,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1374.0,1377.0,Geothlypis trichas,Common Yellowthroat,0.4910,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1374.0,1377.0,Setophaga citrina,Hooded Warbler,0.3335,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1377.0,1380.0,Seiurus aurocapilla,Ovenbird,0.2646,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1395.0,1398.0,Seiurus aurocapilla,Ovenbird,0.3526,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1395.0,1398.0,Baeolophus bicolor,Tufted Titmouse,0.2870,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1401.0,1404.0,Setophaga pinus,Pine Warbler,0.3559,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1404.0,1407.0,Setophaga citrina,Hooded Warbler,0.2819,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1410.0,1413.0,Seiurus aurocapilla,Ovenbird,0.6681,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1419.0,1422.0,Setophaga pinus,Pine Warbler,0.9248,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1452.0,1455.0,Setophaga citrina,Hooded Warbler,0.3653,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1458.0,1461.0,Seiurus aurocapilla,Ovenbird,0.2882,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1458.0,1461.0,Setophaga dominica,Yellow-throated Warbler,0.2573,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1461.0,1464.0,Geothlypis trichas,Common Yellowthroat,0.3050,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1476.0,1479.0,Seiurus aurocapilla,Ovenbird,0.4699,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1497.0,1500.0,Setophaga citrina,Hooded Warbler,0.5936,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1503.0,1506.0,Baeolophus bicolor,Tufted Titmouse,0.4634,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1506.0,1509.0,Geothlypis trichas,Common Yellowthroat,0.2902,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1512.0,1515.0,Seiurus aurocapilla,Ovenbird,0.3785,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1518.0,1521.0,Baeolophus bicolor,Tufted Titmouse,0.2765,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1521.0,1524.0,Geothlypis trichas,Common Yellowthroat,0.3040,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1530.0,1533.0,Baeolophus bicolor,Tufted Titmouse,0.2644,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1539.0,1542.0,Geothlypis trichas,Common Yellowthroat,0.2597,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1557.0,1560.0,Setophaga pinus,Pine Warbler,0.4387,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1572.0,1575.0,Geothlypis trichas,Common Yellowthroat,0.3969,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1593.0,1596.0,Corvus brachyrhynchos,American Crow,0.3726,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1605.0,1608.0,Baeolophus bicolor,Tufted Titmouse,0.3602,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1608.0,1611.0,Geothlypis trichas,Common Yellowthroat,0.3405,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1611.0,1614.0,Baeolophus bicolor,Tufted Titmouse,0.4602,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1629.0,1632.0,Corvus brachyrhynchos,American Crow,0.3113,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1635.0,1638.0,Geothlypis trichas,Common Yellowthroat,0.4817,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1638.0,1641.0,Setophaga pinus,Pine Warbler,0.3880,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1641.0,1644.0,Corvus brachyrhynchos,American Crow,0.7797,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1641.0,1644.0,Baeolophus bicolor,Tufted Titmouse,0.5794,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1641.0,1644.0,Pipilo erythrophthalmus,Eastern Towhee,0.2655,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1644.0,1647.0,Corvus brachyrhynchos,American Crow,0.5999,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1644.0,1647.0,Setophaga citrina,Hooded Warbler,0.3206,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1653.0,1656.0,Setophaga pinus,Pine Warbler,0.5430,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1659.0,1662.0,Corvus brachyrhynchos,American Crow,0.2949,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1662.0,1665.0,Setophaga citrina,Hooded Warbler,0.3733,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1665.0,1668.0,Seiurus aurocapilla,Ovenbird,0.3292,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1674.0,1677.0,Setophaga pinus,Pine Warbler,0.3843,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1686.0,1689.0,Geothlypis trichas,Common Yellowthroat,0.4227,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1689.0,1692.0,Pipilo erythrophthalmus,Eastern Towhee,0.6196,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1692.0,1695.0,Geothlypis trichas,Common Yellowthroat,0.2954,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1698.0,1701.0,Geothlypis trichas,Common Yellowthroat,0.3888,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1707.0,1710.0,Limnothlypis swainsonii,Swainson's Warbler,0.2671,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1710.0,1713.0,Pipilo erythrophthalmus,Eastern Towhee,0.3604,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1713.0,1716.0,Setophaga citrina,Hooded Warbler,0.2880,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1716.0,1719.0,Geothlypis trichas,Common Yellowthroat,0.5336,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1719.0,1722.0,Corvus brachyrhynchos,American Crow,0.3159,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1737.0,1740.0,Setophaga citrina,Hooded Warbler,0.4175,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1743.0,1746.0,Corvus brachyrhynchos,American Crow,0.9071,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1743.0,1746.0,Pipilo erythrophthalmus,Eastern Towhee,0.4367,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1746.0,1749.0,Setophaga pinus,Pine Warbler,0.3783,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1752.0,1755.0,Pipilo erythrophthalmus,Eastern Towhee,0.6946,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1764.0,1767.0,Pipilo erythrophthalmus,Eastern Towhee,0.3694,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1767.0,1770.0,Geothlypis trichas,Common Yellowthroat,0.4461,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1770.0,1773.0,Setophaga pinus,Pine Warbler,0.3202,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1773.0,1776.0,Setophaga pinus,Pine Warbler,0.3086,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1776.0,1779.0,Setophaga citrina,Hooded Warbler,0.3820,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1776.0,1779.0,Geothlypis trichas,Common Yellowthroat,0.3012,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1779.0,1782.0,Setophaga citrina,Hooded Warbler,0.2934,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1791.0,1794.0,Pipilo erythrophthalmus,Eastern Towhee,0.9784,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1797.0,1800.0,Geothlypis trichas,Common Yellowthroat,0.5802,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1806.0,1809.0,Setophaga pinus,Pine Warbler,0.4575,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1818.0,1821.0,Pipilo erythrophthalmus,Eastern Towhee,0.3127,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1821.0,1824.0,Setophaga pinus,Pine Warbler,0.7518,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1824.0,1827.0,Setophaga citrina,Hooded Warbler,0.3905,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1824.0,1827.0,Geothlypis trichas,Common Yellowthroat,0.3078,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1830.0,1833.0,Geothlypis trichas,Common Yellowthroat,0.3041,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1833.0,1836.0,Setophaga pinus,Pine Warbler,0.7229,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1836.0,1839.0,Setophaga citrina,Hooded Warbler,0.8324,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1839.0,1842.0,Setophaga citrina,Hooded Warbler,0.5258,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1839.0,1842.0,Geothlypis trichas,Common Yellowthroat,0.4004,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1842.0,1845.0,Corvus brachyrhynchos,American Crow,0.3080,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1848.0,1851.0,Setophaga citrina,Hooded Warbler,0.5287,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1863.0,1866.0,Setophaga citrina,Hooded Warbler,0.2775,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1866.0,1869.0,Setophaga pinus,Pine Warbler,0.4450,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1872.0,1875.0,Hylocichla mustelina,Wood Thrush,0.3142,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1884.0,1887.0,Baeolophus bicolor,Tufted Titmouse,0.4278,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1887.0,1890.0,Pipilo erythrophthalmus,Eastern Towhee,0.8525,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1890.0,1893.0,Setophaga citrina,Hooded Warbler,0.8513,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1896.0,1899.0,Geothlypis trichas,Common Yellowthroat,0.4569,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1920.0,1923.0,Baeolophus bicolor,Tufted Titmouse,0.3178,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1923.0,1926.0,Setophaga pinus,Pine Warbler,0.8675,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1926.0,1929.0,Geothlypis trichas,Common Yellowthroat,0.3701,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1929.0,1932.0,Setophaga citrina,Hooded Warbler,0.3333,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1932.0,1935.0,Baeolophus bicolor,Tufted Titmouse,0.8438,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1935.0,1938.0,Baeolophus bicolor,Tufted Titmouse,0.3204,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1938.0,1941.0,Setophaga pinus,Pine Warbler,0.7024,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1944.0,1947.0,Baeolophus bicolor,Tufted Titmouse,0.2735,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1947.0,1950.0,Setophaga citrina,Hooded Warbler,0.6484,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1953.0,1956.0,Baeolophus bicolor,Tufted Titmouse,0.2870,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1959.0,1962.0,Setophaga pinus,Pine Warbler,0.8735,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1962.0,1965.0,Baeolophus bicolor,Tufted Titmouse,0.5185,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1965.0,1968.0,Seiurus aurocapilla,Ovenbird,0.5143,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1986.0,1989.0,Seiurus aurocapilla,Ovenbird,0.4459,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1995.0,1998.0,Corvus brachyrhynchos,American Crow,0.3539,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1998.0,2001.0,Corvus brachyrhynchos,American Crow,0.3742,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+1998.0,2001.0,Pipilo erythrophthalmus,Eastern Towhee,0.3541,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2004.0,2007.0,Setophaga citrina,Hooded Warbler,0.3792,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2013.0,2016.0,Pipilo erythrophthalmus,Eastern Towhee,0.3614,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2016.0,2019.0,Geothlypis trichas,Common Yellowthroat,0.4748,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2022.0,2025.0,Setophaga pinus,Pine Warbler,0.5776,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2028.0,2031.0,Geothlypis trichas,Common Yellowthroat,0.4464,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2034.0,2037.0,Baeolophus bicolor,Tufted Titmouse,0.2861,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2040.0,2043.0,Setophaga pinus,Pine Warbler,0.8748,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2049.0,2052.0,Setophaga citrina,Hooded Warbler,0.3089,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2055.0,2058.0,Setophaga pinus,Pine Warbler,0.7764,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2061.0,2064.0,Geothlypis trichas,Common Yellowthroat,0.4278,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2070.0,2073.0,Setophaga pinus,Pine Warbler,0.8145,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2085.0,2088.0,Setophaga pinus,Pine Warbler,0.9394,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2091.0,2094.0,Geothlypis trichas,Common Yellowthroat,0.4163,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2094.0,2097.0,Geothlypis trichas,Common Yellowthroat,0.3277,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2100.0,2103.0,Setophaga pinus,Pine Warbler,0.6244,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2109.0,2112.0,Baeolophus bicolor,Tufted Titmouse,0.7936,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2112.0,2115.0,Baeolophus bicolor,Tufted Titmouse,0.5748,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2115.0,2118.0,Setophaga pinus,Pine Warbler,0.6859,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2118.0,2121.0,Setophaga pinus,Pine Warbler,0.4078,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2124.0,2127.0,Baeolophus bicolor,Tufted Titmouse,0.3051,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2142.0,2145.0,Molothrus ater,Brown-headed Cowbird,0.6116,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2154.0,2157.0,Baeolophus bicolor,Tufted Titmouse,0.2530,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2163.0,2166.0,Baeolophus bicolor,Tufted Titmouse,0.4401,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2169.0,2172.0,Baeolophus bicolor,Tufted Titmouse,0.4016,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2175.0,2178.0,Baeolophus bicolor,Tufted Titmouse,0.6877,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2175.0,2178.0,Corvus brachyrhynchos,American Crow,0.3490,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2178.0,2181.0,Setophaga pinus,Pine Warbler,0.3751,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2184.0,2187.0,Baeolophus bicolor,Tufted Titmouse,0.4543,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2187.0,2190.0,Corvus brachyrhynchos,American Crow,0.2976,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2190.0,2193.0,Corvus brachyrhynchos,American Crow,0.3041,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2193.0,2196.0,Corvus brachyrhynchos,American Crow,0.4323,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2193.0,2196.0,Baeolophus bicolor,Tufted Titmouse,0.3919,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2199.0,2202.0,Setophaga pinus,Pine Warbler,0.6888,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2226.0,2229.0,Setophaga pinus,Pine Warbler,0.6467,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2229.0,2232.0,Pipilo erythrophthalmus,Eastern Towhee,0.5794,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2229.0,2232.0,Setophaga pinus,Pine Warbler,0.2760,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2235.0,2238.0,Seiurus aurocapilla,Ovenbird,0.2608,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2247.0,2250.0,Setophaga pinus,Pine Warbler,0.2589,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2253.0,2256.0,Corvus brachyrhynchos,American Crow,0.6771,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2253.0,2256.0,Setophaga citrina,Hooded Warbler,0.2892,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2256.0,2259.0,Corvus brachyrhynchos,American Crow,0.7426,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2256.0,2259.0,Seiurus aurocapilla,Ovenbird,0.5671,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2271.0,2274.0,Corvus brachyrhynchos,American Crow,0.6493,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2271.0,2274.0,Setophaga citrina,Hooded Warbler,0.2823,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2286.0,2289.0,Setophaga pinus,Pine Warbler,0.7508,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2304.0,2307.0,Seiurus aurocapilla,Ovenbird,0.5254,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2310.0,2313.0,Corvus brachyrhynchos,American Crow,0.4138,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2313.0,2316.0,Corvus brachyrhynchos,American Crow,0.2585,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2322.0,2325.0,Setophaga citrina,Hooded Warbler,0.5029,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2325.0,2328.0,Setophaga pinus,Pine Warbler,0.2650,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2334.0,2337.0,Setophaga citrina,Hooded Warbler,0.5526,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2337.0,2340.0,Setophaga pinus,Pine Warbler,0.3783,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2340.0,2343.0,Seiurus aurocapilla,Ovenbird,0.2897,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2346.0,2349.0,Setophaga citrina,Hooded Warbler,0.4773,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2349.0,2352.0,Setophaga pinus,Pine Warbler,0.2690,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2358.0,2361.0,Setophaga citrina,Hooded Warbler,0.2866,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2364.0,2367.0,Setophaga pinus,Pine Warbler,0.5180,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2379.0,2382.0,Pipilo erythrophthalmus,Eastern Towhee,0.3662,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2385.0,2388.0,Setophaga citrina,Hooded Warbler,0.3174,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2391.0,2394.0,Setophaga pinus,Pine Warbler,0.7604,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2397.0,2400.0,Setophaga citrina,Hooded Warbler,0.6579,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2409.0,2412.0,Setophaga pinus,Pine Warbler,0.5958,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2415.0,2418.0,Setophaga citrina,Hooded Warbler,0.5768,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2427.0,2430.0,Setophaga pinus,Pine Warbler,0.4408,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2439.0,2442.0,Setophaga citrina,Hooded Warbler,0.5521,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2454.0,2457.0,Setophaga citrina,Hooded Warbler,0.4791,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2457.0,2460.0,Seiurus aurocapilla,Ovenbird,0.5459,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2466.0,2469.0,Setophaga citrina,Hooded Warbler,0.3418,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2493.0,2496.0,Setophaga citrina,Hooded Warbler,0.6304,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2499.0,2502.0,Seiurus aurocapilla,Ovenbird,0.3287,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2508.0,2511.0,Setophaga citrina,Hooded Warbler,0.5658,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2514.0,2517.0,Cardinalis cardinalis,Northern Cardinal,0.5931,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2523.0,2526.0,Setophaga citrina,Hooded Warbler,0.7051,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2538.0,2541.0,Setophaga citrina,Hooded Warbler,0.6809,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2550.0,2553.0,Setophaga citrina,Hooded Warbler,0.4436,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2565.0,2568.0,Setophaga citrina,Hooded Warbler,0.3158,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2574.0,2577.0,Cardinalis cardinalis,Northern Cardinal,0.5056,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2577.0,2580.0,Cardinalis cardinalis,Northern Cardinal,0.2655,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2580.0,2583.0,Setophaga citrina,Hooded Warbler,0.4656,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2592.0,2595.0,Setophaga citrina,Hooded Warbler,0.8205,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2595.0,2598.0,Setophaga citrina,Hooded Warbler,0.4170,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2598.0,2601.0,Cardinalis cardinalis,Northern Cardinal,0.4738,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2607.0,2610.0,Setophaga citrina,Hooded Warbler,0.6383,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2622.0,2625.0,Setophaga citrina,Hooded Warbler,0.5140,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2625.0,2628.0,Baeolophus bicolor,Tufted Titmouse,0.2704,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2628.0,2631.0,Cardinalis cardinalis,Northern Cardinal,0.4058,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2634.0,2637.0,Setophaga citrina,Hooded Warbler,0.3647,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2637.0,2640.0,Cardinalis cardinalis,Northern Cardinal,0.2858,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2646.0,2649.0,Molothrus ater,Brown-headed Cowbird,0.4116,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2649.0,2652.0,Setophaga citrina,Hooded Warbler,0.2848,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2655.0,2658.0,Cardinalis cardinalis,Northern Cardinal,0.3942,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2658.0,2661.0,Cardinalis cardinalis,Northern Cardinal,0.2932,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2664.0,2667.0,Setophaga citrina,Hooded Warbler,0.4197,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2682.0,2685.0,Molothrus ater,Brown-headed Cowbird,0.7062,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2682.0,2685.0,Poecile carolinensis,Carolina Chickadee,0.3489,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2688.0,2691.0,Setophaga pinus,Pine Warbler,0.8992,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2691.0,2694.0,Setophaga pinus,Pine Warbler,0.7541,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2694.0,2697.0,Baeolophus bicolor,Tufted Titmouse,0.2927,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2703.0,2706.0,Baeolophus bicolor,Tufted Titmouse,0.2729,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2721.0,2724.0,Setophaga citrina,Hooded Warbler,0.3019,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2733.0,2736.0,Setophaga citrina,Hooded Warbler,0.3481,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2739.0,2742.0,Molothrus ater,Brown-headed Cowbird,0.4144,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2751.0,2754.0,Pipilo erythrophthalmus,Eastern Towhee,0.4921,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2760.0,2763.0,Molothrus ater,Brown-headed Cowbird,0.9412,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2769.0,2772.0,Molothrus ater,Brown-headed Cowbird,0.5459,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2772.0,2775.0,Baeolophus bicolor,Tufted Titmouse,0.4837,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2778.0,2781.0,Setophaga citrina,Hooded Warbler,0.4853,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2781.0,2784.0,Molothrus ater,Brown-headed Cowbird,0.6577,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2784.0,2787.0,Molothrus ater,Brown-headed Cowbird,0.6379,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2787.0,2790.0,Molothrus ater,Brown-headed Cowbird,0.9660,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2790.0,2793.0,Setophaga citrina,Hooded Warbler,0.2892,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2793.0,2796.0,Molothrus ater,Brown-headed Cowbird,0.3762,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2796.0,2799.0,Molothrus ater,Brown-headed Cowbird,0.4092,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2808.0,2811.0,Molothrus ater,Brown-headed Cowbird,0.9646,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2814.0,2817.0,Setophaga citrina,Hooded Warbler,0.2940,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2817.0,2820.0,Molothrus ater,Brown-headed Cowbird,0.8963,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2826.0,2829.0,Molothrus ater,Brown-headed Cowbird,0.7854,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2829.0,2832.0,Baeolophus bicolor,Tufted Titmouse,0.4219,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2832.0,2835.0,Baeolophus bicolor,Tufted Titmouse,0.6014,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2835.0,2838.0,Baeolophus bicolor,Tufted Titmouse,0.4047,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2844.0,2847.0,Molothrus ater,Brown-headed Cowbird,0.9559,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2850.0,2853.0,Setophaga citrina,Hooded Warbler,0.2996,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2853.0,2856.0,Setophaga citrina,Hooded Warbler,0.2662,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2856.0,2859.0,Molothrus ater,Brown-headed Cowbird,0.9936,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2859.0,2862.0,Baeolophus bicolor,Tufted Titmouse,0.6322,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2862.0,2865.0,Baeolophus bicolor,Tufted Titmouse,0.4315,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2865.0,2868.0,Setophaga citrina,Hooded Warbler,0.4969,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2868.0,2871.0,Molothrus ater,Brown-headed Cowbird,0.9860,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2871.0,2874.0,Molothrus ater,Brown-headed Cowbird,0.8960,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2880.0,2883.0,Setophaga citrina,Hooded Warbler,0.2997,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2889.0,2892.0,Molothrus ater,Brown-headed Cowbird,0.5284,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2892.0,2895.0,Molothrus ater,Brown-headed Cowbird,0.6163,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2907.0,2910.0,Setophaga pinus,Pine Warbler,0.5929,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2916.0,2919.0,Corvus brachyrhynchos,American Crow,0.3611,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2916.0,2919.0,Baeolophus bicolor,Tufted Titmouse,0.2587,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2964.0,2967.0,Baeolophus bicolor,Tufted Titmouse,0.4035,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2973.0,2976.0,Corvus brachyrhynchos,American Crow,0.3007,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2985.0,2988.0,Baeolophus bicolor,Tufted Titmouse,0.3426,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2997.0,3000.0,Pipilo erythrophthalmus,Eastern Towhee,0.3014,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+2997.0,3000.0,Corvus brachyrhynchos,American Crow,0.2869,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3000.0,3003.0,Corvus brachyrhynchos,American Crow,0.8843,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3000.0,3003.0,Molothrus ater,Brown-headed Cowbird,0.5782,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3000.0,3003.0,Baeolophus bicolor,Tufted Titmouse,0.4585,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3045.0,3048.0,Setophaga pinus,Pine Warbler,0.6415,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3048.0,3051.0,Pipilo erythrophthalmus,Eastern Towhee,0.4945,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3048.0,3051.0,Corvus brachyrhynchos,American Crow,0.3226,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3048.0,3051.0,Setophaga pinus,Pine Warbler,0.2640,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3054.0,3057.0,Pipilo erythrophthalmus,Eastern Towhee,0.5621,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3057.0,3060.0,Setophaga pinus,Pine Warbler,0.7919,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3066.0,3069.0,Setophaga pinus,Pine Warbler,0.8331,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3066.0,3069.0,Corvus brachyrhynchos,American Crow,0.3004,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3069.0,3072.0,Pipilo erythrophthalmus,Eastern Towhee,0.9505,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3069.0,3072.0,Corvus brachyrhynchos,American Crow,0.4472,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3069.0,3072.0,Setophaga pinus,Pine Warbler,0.3273,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3081.0,3084.0,Baeolophus bicolor,Tufted Titmouse,0.4409,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3087.0,3090.0,Setophaga pinus,Pine Warbler,0.6983,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3090.0,3093.0,Setophaga pinus,Pine Warbler,0.7041,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3093.0,3096.0,Corvus brachyrhynchos,American Crow,0.4145,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3102.0,3105.0,Setophaga pinus,Pine Warbler,0.8716,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3114.0,3117.0,Setophaga pinus,Pine Warbler,0.7155,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3123.0,3126.0,Poecile carolinensis,Carolina Chickadee,0.3571,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3126.0,3129.0,Baeolophus bicolor,Tufted Titmouse,0.8844,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3129.0,3132.0,Corvus brachyrhynchos,American Crow,0.3493,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3132.0,3135.0,Corvus brachyrhynchos,American Crow,0.8710,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3135.0,3138.0,Corvus brachyrhynchos,American Crow,0.4989,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3147.0,3150.0,Setophaga citrina,Hooded Warbler,0.3596,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3159.0,3162.0,Corvus brachyrhynchos,American Crow,0.3940,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3162.0,3165.0,Setophaga pinus,Pine Warbler,0.7471,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3171.0,3174.0,Baeolophus bicolor,Tufted Titmouse,0.3990,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3174.0,3177.0,Setophaga pinus,Pine Warbler,0.5787,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3174.0,3177.0,Dryocopus pileatus,Pileated Woodpecker,0.3562,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3189.0,3192.0,Setophaga pinus,Pine Warbler,0.7124,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3192.0,3195.0,Corvus brachyrhynchos,American Crow,0.4857,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3198.0,3201.0,Corvus brachyrhynchos,American Crow,0.4851,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3225.0,3228.0,Corvus brachyrhynchos,American Crow,0.4358,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3228.0,3231.0,Corvus brachyrhynchos,American Crow,0.2844,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3249.0,3252.0,Corvus brachyrhynchos,American Crow,0.3080,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3252.0,3255.0,Seiurus aurocapilla,Ovenbird,0.2695,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3261.0,3264.0,Baeolophus bicolor,Tufted Titmouse,0.4479,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3264.0,3267.0,Baeolophus bicolor,Tufted Titmouse,0.2749,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3270.0,3273.0,Corvus brachyrhynchos,American Crow,0.3105,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3273.0,3276.0,Molothrus ater,Brown-headed Cowbird,0.5832,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3273.0,3276.0,Corvus brachyrhynchos,American Crow,0.3520,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3300.0,3303.0,Setophaga pinus,Pine Warbler,0.3414,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3303.0,3306.0,Corvus brachyrhynchos,American Crow,0.7996,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3303.0,3306.0,Seiurus aurocapilla,Ovenbird,0.4295,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3306.0,3309.0,Corvus brachyrhynchos,American Crow,0.4976,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3306.0,3309.0,Geothlypis trichas,Common Yellowthroat,0.3095,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3309.0,3312.0,Corvus brachyrhynchos,American Crow,0.2553,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3312.0,3315.0,Setophaga pinus,Pine Warbler,0.8387,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3315.0,3318.0,Setophaga pinus,Pine Warbler,0.9258,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3324.0,3327.0,Setophaga pinus,Pine Warbler,0.3476,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3330.0,3333.0,Corvus brachyrhynchos,American Crow,0.3501,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3342.0,3345.0,Seiurus aurocapilla,Ovenbird,0.3072,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3357.0,3360.0,Corvus brachyrhynchos,American Crow,0.3408,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3360.0,3363.0,Corvus brachyrhynchos,American Crow,0.4826,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3363.0,3366.0,Corvus brachyrhynchos,American Crow,0.5878,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3366.0,3369.0,Corvus brachyrhynchos,American Crow,0.2890,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3366.0,3369.0,Seiurus aurocapilla,Ovenbird,0.2862,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3384.0,3387.0,Seiurus aurocapilla,Ovenbird,0.8503,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3387.0,3390.0,Seiurus aurocapilla,Ovenbird,0.3885,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3390.0,3393.0,Corvus brachyrhynchos,American Crow,0.5725,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3393.0,3396.0,Corvus brachyrhynchos,American Crow,0.6152,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3414.0,3417.0,Corvus brachyrhynchos,American Crow,0.3159,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3417.0,3420.0,Corvus brachyrhynchos,American Crow,0.8432,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3420.0,3423.0,Corvus brachyrhynchos,American Crow,0.2858,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3447.0,3450.0,Corvus brachyrhynchos,American Crow,0.6612,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3450.0,3453.0,Corvus brachyrhynchos,American Crow,0.3555,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3468.0,3471.0,Corvus brachyrhynchos,American Crow,0.5362,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3471.0,3474.0,Corvus brachyrhynchos,American Crow,0.3603,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3474.0,3477.0,Seiurus aurocapilla,Ovenbird,0.4343,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3540.0,3543.0,Seiurus aurocapilla,Ovenbird,0.4500,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3543.0,3546.0,Seiurus aurocapilla,Ovenbird,0.7029,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3564.0,3567.0,Pipilo erythrophthalmus,Eastern Towhee,0.4000,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3573.0,3576.0,Seiurus aurocapilla,Ovenbird,0.4612,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3576.0,3579.0,Seiurus aurocapilla,Ovenbird,0.8090,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3582.0,3585.0,Baeolophus bicolor,Tufted Titmouse,0.4516,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3588.0,3591.0,Seiurus aurocapilla,Ovenbird,0.8612,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3588.0,3591.0,Baeolophus bicolor,Tufted Titmouse,0.4280,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav
+3591.0,3594.0,Seiurus aurocapilla,Ovenbird,0.5238,D:\Bird_Anuran_ARUs\IF06\SMM2-31_20260410_061902.wav

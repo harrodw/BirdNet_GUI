@@ -1,0 +1,908 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+0.0,3.0,Corvus brachyrhynchos,American Crow,0.9618,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+0.0,3.0,Pipilo erythrophthalmus,Eastern Towhee,0.3465,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+9.0,12.0,Pipilo erythrophthalmus,Eastern Towhee,0.2902,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+21.0,24.0,Seiurus aurocapilla,Ovenbird,0.6303,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+24.0,27.0,Corvus brachyrhynchos,American Crow,0.3967,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+33.0,36.0,Cardinalis cardinalis,Northern Cardinal,0.8682,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+36.0,39.0,Cardinalis cardinalis,Northern Cardinal,0.7021,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+36.0,39.0,Seiurus aurocapilla,Ovenbird,0.5471,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+42.0,45.0,Pipilo erythrophthalmus,Eastern Towhee,0.9248,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+42.0,45.0,Corvus brachyrhynchos,American Crow,0.6917,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+42.0,45.0,Cardinalis cardinalis,Northern Cardinal,0.3358,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+45.0,48.0,Pipilo erythrophthalmus,Eastern Towhee,0.8133,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+45.0,48.0,Cardinalis cardinalis,Northern Cardinal,0.3059,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+51.0,54.0,Seiurus aurocapilla,Ovenbird,0.3019,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+57.0,60.0,Cardinalis cardinalis,Northern Cardinal,0.3061,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+66.0,69.0,Corvus brachyrhynchos,American Crow,0.8363,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+69.0,72.0,Seiurus aurocapilla,Ovenbird,0.2933,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+78.0,81.0,Corvus brachyrhynchos,American Crow,0.2933,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+84.0,87.0,Pipilo erythrophthalmus,Eastern Towhee,0.8669,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+84.0,87.0,Corvus brachyrhynchos,American Crow,0.8461,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+84.0,87.0,Seiurus aurocapilla,Ovenbird,0.8382,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+84.0,87.0,Cardinalis cardinalis,Northern Cardinal,0.7352,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+93.0,96.0,Corvus brachyrhynchos,American Crow,0.2837,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+96.0,99.0,Pipilo erythrophthalmus,Eastern Towhee,0.5409,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+96.0,99.0,Corvus brachyrhynchos,American Crow,0.4023,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+102.0,105.0,Seiurus aurocapilla,Ovenbird,0.5940,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+105.0,108.0,Pipilo erythrophthalmus,Eastern Towhee,0.7945,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+105.0,108.0,Corvus brachyrhynchos,American Crow,0.3253,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+108.0,111.0,Corvus brachyrhynchos,American Crow,0.3197,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+108.0,111.0,Pipilo erythrophthalmus,Eastern Towhee,0.3181,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+117.0,120.0,Seiurus aurocapilla,Ovenbird,0.4924,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+123.0,126.0,Setophaga citrina,Hooded Warbler,0.2578,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+126.0,129.0,Corvus brachyrhynchos,American Crow,0.8836,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+126.0,129.0,Pipilo erythrophthalmus,Eastern Towhee,0.5958,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+135.0,138.0,Seiurus aurocapilla,Ovenbird,0.7369,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+138.0,141.0,Corvus brachyrhynchos,American Crow,0.6386,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+138.0,141.0,Cardinalis cardinalis,Northern Cardinal,0.2666,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+147.0,150.0,Pipilo erythrophthalmus,Eastern Towhee,0.6304,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+156.0,159.0,Pipilo erythrophthalmus,Eastern Towhee,0.8524,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+168.0,171.0,Seiurus aurocapilla,Ovenbird,0.6580,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+168.0,171.0,Pipilo erythrophthalmus,Eastern Towhee,0.5688,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+174.0,177.0,Pipilo erythrophthalmus,Eastern Towhee,0.5365,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+177.0,180.0,Corvus brachyrhynchos,American Crow,0.9017,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+177.0,180.0,Pipilo erythrophthalmus,Eastern Towhee,0.6127,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+177.0,180.0,Cardinalis cardinalis,Northern Cardinal,0.2740,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+180.0,183.0,Pipilo erythrophthalmus,Eastern Towhee,0.9871,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+180.0,183.0,Corvus brachyrhynchos,American Crow,0.9244,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+183.0,186.0,Corvus brachyrhynchos,American Crow,0.2581,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+186.0,189.0,Setophaga citrina,Hooded Warbler,0.3122,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+189.0,192.0,Pipilo erythrophthalmus,Eastern Towhee,0.8011,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+192.0,195.0,Seiurus aurocapilla,Ovenbird,0.7860,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+192.0,195.0,Pipilo erythrophthalmus,Eastern Towhee,0.6930,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+192.0,195.0,Corvus brachyrhynchos,American Crow,0.3465,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+198.0,201.0,Pipilo erythrophthalmus,Eastern Towhee,0.7226,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+201.0,204.0,Pipilo erythrophthalmus,Eastern Towhee,0.8935,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+201.0,204.0,Corvus brachyrhynchos,American Crow,0.3108,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+204.0,207.0,Corvus brachyrhynchos,American Crow,0.7429,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+204.0,207.0,Geothlypis trichas,Common Yellowthroat,0.3108,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+207.0,210.0,Pipilo erythrophthalmus,Eastern Towhee,0.8212,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+210.0,213.0,Seiurus aurocapilla,Ovenbird,0.6758,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+210.0,213.0,Mniotilta varia,Black-and-white Warbler,0.6757,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+210.0,213.0,Corvus brachyrhynchos,American Crow,0.2931,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+219.0,222.0,Setophaga citrina,Hooded Warbler,0.3483,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+222.0,225.0,Mniotilta varia,Black-and-white Warbler,0.7397,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+222.0,225.0,Pipilo erythrophthalmus,Eastern Towhee,0.6043,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+222.0,225.0,Corvus brachyrhynchos,American Crow,0.3938,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+225.0,228.0,Seiurus aurocapilla,Ovenbird,0.8563,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+225.0,228.0,Corvus brachyrhynchos,American Crow,0.6085,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+228.0,231.0,Seiurus aurocapilla,Ovenbird,0.6775,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+231.0,234.0,Pipilo erythrophthalmus,Eastern Towhee,0.9441,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+231.0,234.0,Corvus brachyrhynchos,American Crow,0.9355,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+231.0,234.0,Cardinalis cardinalis,Northern Cardinal,0.3685,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+234.0,237.0,Mniotilta varia,Black-and-white Warbler,0.7209,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+234.0,237.0,Pipilo erythrophthalmus,Eastern Towhee,0.4581,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+240.0,243.0,Geothlypis trichas,Common Yellowthroat,0.9130,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+243.0,246.0,Seiurus aurocapilla,Ovenbird,0.7742,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+246.0,249.0,Mniotilta varia,Black-and-white Warbler,0.3424,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+249.0,252.0,Geothlypis trichas,Common Yellowthroat,0.7902,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+252.0,255.0,Pipilo erythrophthalmus,Eastern Towhee,0.5843,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+258.0,261.0,Geothlypis trichas,Common Yellowthroat,0.7302,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+261.0,264.0,Cardinalis cardinalis,Northern Cardinal,0.3490,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+261.0,264.0,Seiurus aurocapilla,Ovenbird,0.3033,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+267.0,270.0,Geothlypis trichas,Common Yellowthroat,0.8720,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+270.0,273.0,Mniotilta varia,Black-and-white Warbler,0.9336,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+273.0,276.0,Setophaga citrina,Hooded Warbler,0.3366,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+276.0,279.0,Geothlypis trichas,Common Yellowthroat,0.6256,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+282.0,285.0,Mniotilta varia,Black-and-white Warbler,0.9160,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+285.0,288.0,Geothlypis trichas,Common Yellowthroat,0.7881,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+288.0,291.0,Corvus brachyrhynchos,American Crow,0.2662,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+291.0,294.0,Seiurus aurocapilla,Ovenbird,0.9076,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+291.0,294.0,Corvus brachyrhynchos,American Crow,0.5214,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+294.0,297.0,Geothlypis trichas,Common Yellowthroat,0.3597,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+294.0,297.0,Mniotilta varia,Black-and-white Warbler,0.2697,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+300.0,303.0,Corvus brachyrhynchos,American Crow,0.7311,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+300.0,303.0,Pipilo erythrophthalmus,Eastern Towhee,0.6589,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+303.0,306.0,Geothlypis trichas,Common Yellowthroat,0.9325,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+306.0,309.0,Mniotilta varia,Black-and-white Warbler,0.9048,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+309.0,312.0,Seiurus aurocapilla,Ovenbird,0.7392,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+309.0,312.0,Corvus brachyrhynchos,American Crow,0.4042,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+309.0,312.0,Pipilo erythrophthalmus,Eastern Towhee,0.3474,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+312.0,315.0,Geothlypis trichas,Common Yellowthroat,0.5782,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+315.0,318.0,Mniotilta varia,Black-and-white Warbler,0.3873,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+318.0,321.0,Mniotilta varia,Black-and-white Warbler,0.9716,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+321.0,324.0,Geothlypis trichas,Common Yellowthroat,0.7257,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+324.0,327.0,Setophaga citrina,Hooded Warbler,0.3197,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+330.0,333.0,Mniotilta varia,Black-and-white Warbler,0.4163,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+333.0,336.0,Geothlypis trichas,Common Yellowthroat,0.8192,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+336.0,339.0,Corvus brachyrhynchos,American Crow,0.9102,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+336.0,339.0,Pipilo erythrophthalmus,Eastern Towhee,0.8592,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+339.0,342.0,Pipilo erythrophthalmus,Eastern Towhee,0.3922,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+339.0,342.0,Corvus brachyrhynchos,American Crow,0.3371,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+351.0,354.0,Geothlypis trichas,Common Yellowthroat,0.6876,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+354.0,357.0,Geothlypis trichas,Common Yellowthroat,0.6199,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+357.0,360.0,Mniotilta varia,Black-and-white Warbler,0.5869,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+360.0,363.0,Seiurus aurocapilla,Ovenbird,0.8869,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+360.0,363.0,Pipilo erythrophthalmus,Eastern Towhee,0.4271,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+363.0,366.0,Geothlypis trichas,Common Yellowthroat,0.8285,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+366.0,369.0,Corvus brachyrhynchos,American Crow,0.4092,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+366.0,369.0,Pipilo erythrophthalmus,Eastern Towhee,0.2596,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+369.0,372.0,Mniotilta varia,Black-and-white Warbler,0.9623,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+372.0,375.0,Geothlypis trichas,Common Yellowthroat,0.7104,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+378.0,381.0,Seiurus aurocapilla,Ovenbird,0.7555,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+381.0,384.0,Mniotilta varia,Black-and-white Warbler,0.7971,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+384.0,387.0,Mniotilta varia,Black-and-white Warbler,0.4809,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+384.0,387.0,Geothlypis trichas,Common Yellowthroat,0.4761,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+387.0,390.0,Corvus brachyrhynchos,American Crow,0.8091,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+390.0,393.0,Corvus brachyrhynchos,American Crow,0.5143,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+396.0,399.0,Mniotilta varia,Black-and-white Warbler,0.6120,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+396.0,399.0,Geothlypis trichas,Common Yellowthroat,0.3451,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+399.0,402.0,Corvus brachyrhynchos,American Crow,0.9801,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+399.0,402.0,Pipilo erythrophthalmus,Eastern Towhee,0.3399,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+399.0,402.0,Geothlypis trichas,Common Yellowthroat,0.2923,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+405.0,408.0,Mniotilta varia,Black-and-white Warbler,0.3669,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+408.0,411.0,Geothlypis trichas,Common Yellowthroat,0.3347,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+414.0,417.0,Seiurus aurocapilla,Ovenbird,0.8946,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+417.0,420.0,Geothlypis trichas,Common Yellowthroat,0.5963,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+423.0,426.0,Pipilo erythrophthalmus,Eastern Towhee,0.3526,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+426.0,429.0,Geothlypis trichas,Common Yellowthroat,0.3753,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+432.0,435.0,Setophaga pinus,Pine Warbler,0.3392,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+444.0,447.0,Geothlypis trichas,Common Yellowthroat,0.4208,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+450.0,453.0,Seiurus aurocapilla,Ovenbird,0.6195,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+453.0,456.0,Geothlypis trichas,Common Yellowthroat,0.2832,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+462.0,465.0,Geothlypis trichas,Common Yellowthroat,0.4848,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+465.0,468.0,Setophaga dominica,Yellow-throated Warbler,0.5096,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+489.0,492.0,Setophaga pinus,Pine Warbler,0.3199,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+492.0,495.0,Setophaga pinus,Pine Warbler,0.4905,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+510.0,513.0,Setophaga pinus,Pine Warbler,0.7105,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+513.0,516.0,Setophaga pinus,Pine Warbler,0.5876,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+519.0,522.0,Setophaga pinus,Pine Warbler,0.8069,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+522.0,525.0,Seiurus aurocapilla,Ovenbird,0.9362,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+522.0,525.0,Cardinalis cardinalis,Northern Cardinal,0.5050,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+528.0,531.0,Setophaga pinus,Pine Warbler,0.3144,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+531.0,534.0,Setophaga pinus,Pine Warbler,0.3831,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+540.0,543.0,Seiurus aurocapilla,Ovenbird,0.4183,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+546.0,549.0,Setophaga pinus,Pine Warbler,0.3775,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+552.0,555.0,Setophaga pinus,Pine Warbler,0.7370,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+555.0,558.0,Seiurus aurocapilla,Ovenbird,0.2983,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+558.0,561.0,Pipilo erythrophthalmus,Eastern Towhee,0.3015,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+564.0,567.0,Setophaga pinus,Pine Warbler,0.6589,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+567.0,570.0,Pipilo erythrophthalmus,Eastern Towhee,0.3204,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+570.0,573.0,Setophaga pinus,Pine Warbler,0.5148,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+573.0,576.0,Pipilo erythrophthalmus,Eastern Towhee,0.5708,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+573.0,576.0,Seiurus aurocapilla,Ovenbird,0.3696,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+582.0,585.0,Setophaga pinus,Pine Warbler,0.4559,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+585.0,588.0,Piranga olivacea,Scarlet Tanager,0.2554,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+588.0,591.0,Pipilo erythrophthalmus,Eastern Towhee,0.5238,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+591.0,594.0,Pipilo erythrophthalmus,Eastern Towhee,0.8603,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+591.0,594.0,Seiurus aurocapilla,Ovenbird,0.3955,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+594.0,597.0,Setophaga pinus,Pine Warbler,0.8522,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+597.0,600.0,Pipilo erythrophthalmus,Eastern Towhee,0.9021,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+600.0,603.0,Setophaga pinus,Pine Warbler,0.2653,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+603.0,606.0,Pipilo erythrophthalmus,Eastern Towhee,0.8805,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+606.0,609.0,Setophaga pinus,Pine Warbler,0.6133,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+609.0,612.0,Pipilo erythrophthalmus,Eastern Towhee,0.5516,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+609.0,612.0,Seiurus aurocapilla,Ovenbird,0.2625,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+612.0,615.0,Setophaga pinus,Pine Warbler,0.3579,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+615.0,618.0,Pipilo erythrophthalmus,Eastern Towhee,0.9277,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+618.0,621.0,Setophaga pinus,Pine Warbler,0.8640,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+621.0,624.0,Pipilo erythrophthalmus,Eastern Towhee,0.7940,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+627.0,630.0,Pipilo erythrophthalmus,Eastern Towhee,0.6609,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+627.0,630.0,Seiurus aurocapilla,Ovenbird,0.6416,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+630.0,633.0,Setophaga pinus,Pine Warbler,0.3382,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+636.0,639.0,Pipilo erythrophthalmus,Eastern Towhee,0.6822,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+639.0,642.0,Setophaga pinus,Pine Warbler,0.4692,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+642.0,645.0,Seiurus aurocapilla,Ovenbird,0.8641,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+645.0,648.0,Setophaga pinus,Pine Warbler,0.3322,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+648.0,651.0,Pipilo erythrophthalmus,Eastern Towhee,0.2802,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+654.0,657.0,Pipilo erythrophthalmus,Eastern Towhee,0.5327,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+654.0,657.0,Mniotilta varia,Black-and-white Warbler,0.2678,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+657.0,660.0,Setophaga pinus,Pine Warbler,0.8907,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+660.0,663.0,Pipilo erythrophthalmus,Eastern Towhee,0.8875,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+663.0,666.0,Seiurus aurocapilla,Ovenbird,0.4149,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+666.0,669.0,Pipilo erythrophthalmus,Eastern Towhee,0.8531,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+678.0,681.0,Setophaga pinus,Pine Warbler,0.2686,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+681.0,684.0,Pipilo erythrophthalmus,Eastern Towhee,0.3916,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+681.0,684.0,Seiurus aurocapilla,Ovenbird,0.3796,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+687.0,690.0,Pipilo erythrophthalmus,Eastern Towhee,0.4126,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+687.0,690.0,Geothlypis trichas,Common Yellowthroat,0.2983,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+690.0,693.0,Parkesia motacilla,Louisiana Waterthrush,0.3529,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+693.0,696.0,Pipilo erythrophthalmus,Eastern Towhee,0.8726,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+696.0,699.0,Geothlypis trichas,Common Yellowthroat,0.8517,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+699.0,702.0,Setophaga citrina,Hooded Warbler,0.4281,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+705.0,708.0,Pipilo erythrophthalmus,Eastern Towhee,0.4217,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+705.0,708.0,Setophaga pinus,Pine Warbler,0.4137,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+708.0,711.0,Geothlypis trichas,Common Yellowthroat,0.9168,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+711.0,714.0,Pipilo erythrophthalmus,Eastern Towhee,0.9040,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+714.0,717.0,Pipilo erythrophthalmus,Eastern Towhee,0.3081,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+717.0,720.0,Geothlypis trichas,Common Yellowthroat,0.7548,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+723.0,726.0,Corvus brachyrhynchos,American Crow,0.4337,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+726.0,729.0,Pipilo erythrophthalmus,Eastern Towhee,0.4568,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+729.0,732.0,Geothlypis trichas,Common Yellowthroat,0.7182,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+732.0,735.0,Setophaga pinus,Pine Warbler,0.6450,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+735.0,738.0,Setophaga pinus,Pine Warbler,0.5026,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+747.0,750.0,Geothlypis trichas,Common Yellowthroat,0.3504,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+750.0,753.0,Geothlypis trichas,Common Yellowthroat,0.7662,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+759.0,762.0,Geothlypis trichas,Common Yellowthroat,0.6251,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+762.0,765.0,Setophaga pinus,Pine Warbler,0.9487,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+768.0,771.0,Geothlypis trichas,Common Yellowthroat,0.5890,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+771.0,774.0,Setophaga pinus,Pine Warbler,0.2716,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+774.0,777.0,Seiurus aurocapilla,Ovenbird,0.7313,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+780.0,783.0,Geothlypis trichas,Common Yellowthroat,0.7646,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+783.0,786.0,Setophaga pinus,Pine Warbler,0.8536,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+789.0,792.0,Geothlypis trichas,Common Yellowthroat,0.6471,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+798.0,801.0,Geothlypis trichas,Common Yellowthroat,0.2696,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+801.0,804.0,Geothlypis trichas,Common Yellowthroat,0.7466,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+807.0,810.0,Setophaga pinus,Pine Warbler,0.7201,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+810.0,813.0,Geothlypis trichas,Common Yellowthroat,0.8628,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+813.0,816.0,Seiurus aurocapilla,Ovenbird,0.6657,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+822.0,825.0,Geothlypis trichas,Common Yellowthroat,0.7797,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+825.0,828.0,Setophaga pinus,Pine Warbler,0.2904,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+831.0,834.0,Geothlypis trichas,Common Yellowthroat,0.6491,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+837.0,840.0,Setophaga pinus,Pine Warbler,0.8387,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+840.0,843.0,Setophaga pinus,Pine Warbler,0.3804,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+843.0,846.0,Geothlypis trichas,Common Yellowthroat,0.8895,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+846.0,849.0,Setophaga pinus,Pine Warbler,0.2799,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+849.0,852.0,Setophaga pinus,Pine Warbler,0.3518,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+849.0,852.0,Mniotilta varia,Black-and-white Warbler,0.2868,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+852.0,855.0,Seiurus aurocapilla,Ovenbird,0.8599,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+855.0,858.0,Geothlypis trichas,Common Yellowthroat,0.9391,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+861.0,864.0,Setophaga pinus,Pine Warbler,0.2833,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+867.0,870.0,Geothlypis trichas,Common Yellowthroat,0.8350,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+873.0,876.0,Seiurus aurocapilla,Ovenbird,0.4410,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+879.0,882.0,Geothlypis trichas,Common Yellowthroat,0.7281,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+882.0,885.0,Setophaga pinus,Pine Warbler,0.2819,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+882.0,885.0,Cardinalis cardinalis,Northern Cardinal,0.2741,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+885.0,888.0,Corvus ossifragus,Fish Crow,0.6229,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+888.0,891.0,Seiurus aurocapilla,Ovenbird,0.7188,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+891.0,894.0,Geothlypis trichas,Common Yellowthroat,0.8450,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+894.0,897.0,Setophaga pinus,Pine Warbler,0.3953,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+900.0,903.0,Setophaga pinus,Pine Warbler,0.4835,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+903.0,906.0,Geothlypis trichas,Common Yellowthroat,0.5725,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+906.0,909.0,Setophaga pinus,Pine Warbler,0.3325,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+909.0,912.0,Setophaga pinus,Pine Warbler,0.9182,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+915.0,918.0,Geothlypis trichas,Common Yellowthroat,0.7288,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+921.0,924.0,Seiurus aurocapilla,Ovenbird,0.9388,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+924.0,927.0,Setophaga pinus,Pine Warbler,0.7111,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+930.0,933.0,Geothlypis trichas,Common Yellowthroat,0.6257,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+936.0,939.0,Seiurus aurocapilla,Ovenbird,0.6468,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+939.0,942.0,Setophaga citrina,Hooded Warbler,0.5097,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+942.0,945.0,Vireo griseus,White-eyed Vireo,0.8173,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+942.0,945.0,Geothlypis trichas,Common Yellowthroat,0.2502,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+945.0,948.0,Setophaga pinus,Pine Warbler,0.8000,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+948.0,951.0,Vireo griseus,White-eyed Vireo,0.9219,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+951.0,954.0,Geothlypis trichas,Common Yellowthroat,0.7685,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+954.0,957.0,Geothlypis trichas,Common Yellowthroat,0.4336,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+957.0,960.0,Vireo griseus,White-eyed Vireo,0.9589,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+960.0,963.0,Setophaga pinus,Pine Warbler,0.6722,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+963.0,966.0,Geothlypis trichas,Common Yellowthroat,0.4020,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+966.0,969.0,Parkesia motacilla,Louisiana Waterthrush,0.2685,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+972.0,975.0,Seiurus aurocapilla,Ovenbird,0.4089,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+972.0,975.0,Setophaga pinus,Pine Warbler,0.3472,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+975.0,978.0,Geothlypis trichas,Common Yellowthroat,0.5128,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+978.0,981.0,Setophaga pinus,Pine Warbler,0.8465,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+981.0,984.0,Setophaga pinus,Pine Warbler,0.6815,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+987.0,990.0,Geothlypis trichas,Common Yellowthroat,0.4455,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+990.0,993.0,Vireo griseus,White-eyed Vireo,0.7685,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+996.0,999.0,Geothlypis trichas,Common Yellowthroat,0.7408,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+999.0,1002.0,Limnothlypis swainsonii,Swainson's Warbler,0.7732,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+999.0,1002.0,Setophaga dominica,Yellow-throated Warbler,0.7538,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+999.0,1002.0,Parkesia motacilla,Louisiana Waterthrush,0.4045,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1002.0,1005.0,Cardinalis cardinalis,Northern Cardinal,0.5595,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1002.0,1005.0,Geothlypis trichas,Common Yellowthroat,0.2700,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1005.0,1008.0,Setophaga pinus,Pine Warbler,0.7444,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1008.0,1011.0,Geothlypis trichas,Common Yellowthroat,0.6833,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1014.0,1017.0,Vireo griseus,White-eyed Vireo,0.9718,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1017.0,1020.0,Vireo griseus,White-eyed Vireo,0.9917,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1020.0,1023.0,Geothlypis trichas,Common Yellowthroat,0.8000,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1023.0,1026.0,Vireo griseus,White-eyed Vireo,0.7851,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1026.0,1029.0,Geothlypis trichas,Common Yellowthroat,0.2720,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1029.0,1032.0,Vireo griseus,White-eyed Vireo,0.9080,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1032.0,1035.0,Geothlypis trichas,Common Yellowthroat,0.5335,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1035.0,1038.0,Limnothlypis swainsonii,Swainson's Warbler,0.4572,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1035.0,1038.0,Setophaga dominica,Yellow-throated Warbler,0.2978,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1038.0,1041.0,Vireo griseus,White-eyed Vireo,0.9638,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1044.0,1047.0,Vireo griseus,White-eyed Vireo,0.7992,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1047.0,1050.0,Vireo griseus,White-eyed Vireo,0.7328,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1053.0,1056.0,Vireo griseus,White-eyed Vireo,0.9812,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1059.0,1062.0,Vireo griseus,White-eyed Vireo,0.8110,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1062.0,1065.0,Vireo griseus,White-eyed Vireo,0.8109,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1065.0,1068.0,Seiurus aurocapilla,Ovenbird,0.4702,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1068.0,1071.0,Vireo griseus,White-eyed Vireo,0.8628,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1071.0,1074.0,Vireo griseus,White-eyed Vireo,0.7444,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1074.0,1077.0,Vireo griseus,White-eyed Vireo,0.8960,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1077.0,1080.0,Vireo griseus,White-eyed Vireo,0.3062,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1080.0,1083.0,Vireo griseus,White-eyed Vireo,0.5968,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1083.0,1086.0,Vireo griseus,White-eyed Vireo,0.7631,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1086.0,1089.0,Vireo griseus,White-eyed Vireo,0.8305,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1089.0,1092.0,Vireo griseus,White-eyed Vireo,0.9636,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1092.0,1095.0,Geothlypis trichas,Common Yellowthroat,0.7121,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1095.0,1098.0,Vireo griseus,White-eyed Vireo,0.9012,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1101.0,1104.0,Vireo griseus,White-eyed Vireo,0.5320,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1104.0,1107.0,Empidonax virescens,Acadian Flycatcher,0.9487,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1104.0,1107.0,Vireo griseus,White-eyed Vireo,0.2953,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1107.0,1110.0,Geothlypis trichas,Common Yellowthroat,0.3442,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1110.0,1113.0,Vireo griseus,White-eyed Vireo,0.9396,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1116.0,1119.0,Vireo griseus,White-eyed Vireo,0.9418,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1125.0,1128.0,Vireo griseus,White-eyed Vireo,0.9523,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1128.0,1131.0,Vireo griseus,White-eyed Vireo,0.9573,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1131.0,1134.0,Geothlypis trichas,Common Yellowthroat,0.7709,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1134.0,1137.0,Vireo griseus,White-eyed Vireo,0.8194,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1137.0,1140.0,Vireo griseus,White-eyed Vireo,0.9242,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1140.0,1143.0,Vireo griseus,White-eyed Vireo,0.9157,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1146.0,1149.0,Vireo griseus,White-eyed Vireo,0.7029,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1149.0,1152.0,Vireo griseus,White-eyed Vireo,0.5853,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1152.0,1155.0,Vireo griseus,White-eyed Vireo,0.9198,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1155.0,1158.0,Geothlypis trichas,Common Yellowthroat,0.8789,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1158.0,1161.0,Vireo griseus,White-eyed Vireo,0.7262,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1161.0,1164.0,Vireo griseus,White-eyed Vireo,0.8442,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1167.0,1170.0,Empidonax virescens,Acadian Flycatcher,0.7004,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1170.0,1173.0,Vireo griseus,White-eyed Vireo,0.7212,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1173.0,1176.0,Vireo griseus,White-eyed Vireo,0.8119,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1176.0,1179.0,Empidonax virescens,Acadian Flycatcher,0.7132,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1179.0,1182.0,Vireo griseus,White-eyed Vireo,0.5918,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1182.0,1185.0,Vireo griseus,White-eyed Vireo,0.7900,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1185.0,1188.0,Hylocichla mustelina,Wood Thrush,0.2795,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1194.0,1197.0,Seiurus aurocapilla,Ovenbird,0.3259,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1197.0,1200.0,Vireo griseus,White-eyed Vireo,0.6737,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1200.0,1203.0,Geothlypis trichas,Common Yellowthroat,0.3241,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1203.0,1206.0,Vireo griseus,White-eyed Vireo,0.4829,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1209.0,1212.0,Vireo griseus,White-eyed Vireo,0.3769,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1209.0,1212.0,Seiurus aurocapilla,Ovenbird,0.2561,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1212.0,1215.0,Seiurus aurocapilla,Ovenbird,0.8788,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1212.0,1215.0,Mniotilta varia,Black-and-white Warbler,0.2773,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1215.0,1218.0,Geothlypis trichas,Common Yellowthroat,0.5885,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1221.0,1224.0,Geothlypis trichas,Common Yellowthroat,0.8685,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1224.0,1227.0,Vireo griseus,White-eyed Vireo,0.6573,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1230.0,1233.0,Vireo griseus,White-eyed Vireo,0.8824,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1236.0,1239.0,Geothlypis trichas,Common Yellowthroat,0.7744,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1239.0,1242.0,Vireo griseus,White-eyed Vireo,0.8754,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1245.0,1248.0,Vireo griseus,White-eyed Vireo,0.4285,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1248.0,1251.0,Geothlypis trichas,Common Yellowthroat,0.2702,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1251.0,1254.0,Vireo griseus,White-eyed Vireo,0.4510,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1254.0,1257.0,Hylocichla mustelina,Wood Thrush,0.6413,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1254.0,1257.0,Vireo griseus,White-eyed Vireo,0.4099,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1266.0,1269.0,Vireo griseus,White-eyed Vireo,0.5689,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1269.0,1272.0,Vireo griseus,White-eyed Vireo,0.4652,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1275.0,1278.0,Vireo griseus,White-eyed Vireo,0.8878,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1281.0,1284.0,Vireo griseus,White-eyed Vireo,0.7851,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1287.0,1290.0,Seiurus aurocapilla,Ovenbird,0.9353,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1290.0,1293.0,Vireo griseus,White-eyed Vireo,0.8209,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1293.0,1296.0,Hylocichla mustelina,Wood Thrush,0.2770,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1296.0,1299.0,Vireo griseus,White-eyed Vireo,0.7808,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1299.0,1302.0,Vireo griseus,White-eyed Vireo,0.8314,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1302.0,1305.0,Geothlypis trichas,Common Yellowthroat,0.5714,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1305.0,1308.0,Vireo griseus,White-eyed Vireo,0.5661,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1308.0,1311.0,Vireo griseus,White-eyed Vireo,0.3554,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1314.0,1317.0,Vireo griseus,White-eyed Vireo,0.5587,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1320.0,1323.0,Geothlypis trichas,Common Yellowthroat,0.8170,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1323.0,1326.0,Vireo griseus,White-eyed Vireo,0.4756,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1326.0,1329.0,Seiurus aurocapilla,Ovenbird,0.8232,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1329.0,1332.0,Vireo griseus,White-eyed Vireo,0.5014,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1335.0,1338.0,Vireo griseus,White-eyed Vireo,0.7929,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1338.0,1341.0,Piranga rubra,Summer Tanager,0.6462,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1338.0,1341.0,Vireo griseus,White-eyed Vireo,0.4119,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1344.0,1347.0,Piranga rubra,Summer Tanager,0.5917,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1344.0,1347.0,Vireo griseus,White-eyed Vireo,0.3996,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1350.0,1353.0,Vireo griseus,White-eyed Vireo,0.8321,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1359.0,1362.0,Vireo griseus,White-eyed Vireo,0.6054,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1374.0,1377.0,Seiurus aurocapilla,Ovenbird,0.8279,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1377.0,1380.0,Vireo griseus,White-eyed Vireo,0.8050,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1383.0,1386.0,Setophaga citrina,Hooded Warbler,0.2735,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1386.0,1389.0,Seiurus aurocapilla,Ovenbird,0.6678,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1386.0,1389.0,Mniotilta varia,Black-and-white Warbler,0.2934,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1395.0,1398.0,Geothlypis trichas,Common Yellowthroat,0.3897,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1398.0,1401.0,Seiurus aurocapilla,Ovenbird,0.9161,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1401.0,1404.0,Parkesia motacilla,Louisiana Waterthrush,0.2602,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1404.0,1407.0,Setophaga citrina,Hooded Warbler,0.5419,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1410.0,1413.0,Seiurus aurocapilla,Ovenbird,0.5050,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1416.0,1419.0,Seiurus aurocapilla,Ovenbird,0.9579,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1419.0,1422.0,Seiurus aurocapilla,Ovenbird,0.4804,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1422.0,1425.0,Vireo griseus,White-eyed Vireo,0.6758,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1428.0,1431.0,Vireo griseus,White-eyed Vireo,0.4577,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1434.0,1437.0,Seiurus aurocapilla,Ovenbird,0.7264,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1437.0,1440.0,Seiurus aurocapilla,Ovenbird,0.8942,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1443.0,1446.0,Vireo griseus,White-eyed Vireo,0.5506,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1449.0,1452.0,Vireo griseus,White-eyed Vireo,0.7412,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1452.0,1455.0,Geothlypis trichas,Common Yellowthroat,0.4016,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1455.0,1458.0,Mniotilta varia,Black-and-white Warbler,0.2817,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1458.0,1461.0,Vireo griseus,White-eyed Vireo,0.3080,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1461.0,1464.0,Vireo griseus,White-eyed Vireo,0.5963,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1467.0,1470.0,Vireo griseus,White-eyed Vireo,0.5711,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1473.0,1476.0,Seiurus aurocapilla,Ovenbird,0.3677,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1476.0,1479.0,Vireo griseus,White-eyed Vireo,0.6296,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1479.0,1482.0,Piranga rubra,Summer Tanager,0.3822,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1479.0,1482.0,Vireo griseus,White-eyed Vireo,0.2597,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1482.0,1485.0,Seiurus aurocapilla,Ovenbird,0.4832,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1485.0,1488.0,Seiurus aurocapilla,Ovenbird,0.7752,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1491.0,1494.0,Vireo griseus,White-eyed Vireo,0.4900,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1503.0,1506.0,Seiurus aurocapilla,Ovenbird,0.2822,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1515.0,1518.0,Seiurus aurocapilla,Ovenbird,0.8571,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1518.0,1521.0,Vireo griseus,White-eyed Vireo,0.6386,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1521.0,1524.0,Vireo griseus,White-eyed Vireo,0.6451,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1530.0,1533.0,Vireo griseus,White-eyed Vireo,0.4151,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1533.0,1536.0,Setophaga pinus,Pine Warbler,0.6126,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1536.0,1539.0,Vireo griseus,White-eyed Vireo,0.3402,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1542.0,1545.0,Seiurus aurocapilla,Ovenbird,0.5919,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1545.0,1548.0,Vireo griseus,White-eyed Vireo,0.5139,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1551.0,1554.0,Geothlypis trichas,Common Yellowthroat,0.8187,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1560.0,1563.0,Vireo griseus,White-eyed Vireo,0.9410,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1563.0,1566.0,Geothlypis trichas,Common Yellowthroat,0.3097,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1566.0,1569.0,Vireo griseus,White-eyed Vireo,0.9013,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1569.0,1572.0,Seiurus aurocapilla,Ovenbird,0.6666,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1572.0,1575.0,Vireo griseus,White-eyed Vireo,0.9745,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1575.0,1578.0,Pipilo erythrophthalmus,Eastern Towhee,0.4665,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1578.0,1581.0,Vireo griseus,White-eyed Vireo,0.9305,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1581.0,1584.0,Geothlypis trichas,Common Yellowthroat,0.4211,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1584.0,1587.0,Vireo griseus,White-eyed Vireo,0.9475,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1587.0,1590.0,Mniotilta varia,Black-and-white Warbler,0.4544,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1590.0,1593.0,Vireo griseus,White-eyed Vireo,0.9836,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1593.0,1596.0,Vireo griseus,White-eyed Vireo,0.9620,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1599.0,1602.0,Vireo griseus,White-eyed Vireo,0.5392,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1602.0,1605.0,Vireo griseus,White-eyed Vireo,0.5683,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1605.0,1608.0,Vireo griseus,White-eyed Vireo,0.4181,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1608.0,1611.0,Vireo griseus,White-eyed Vireo,0.9812,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1611.0,1614.0,Seiurus aurocapilla,Ovenbird,0.7192,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1617.0,1620.0,Vireo griseus,White-eyed Vireo,0.9779,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1620.0,1623.0,Geothlypis trichas,Common Yellowthroat,0.9610,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1623.0,1626.0,Vireo griseus,White-eyed Vireo,0.5904,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1626.0,1629.0,Vireo griseus,White-eyed Vireo,0.8204,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1629.0,1632.0,Vireo griseus,White-eyed Vireo,0.9471,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1632.0,1635.0,Geothlypis trichas,Common Yellowthroat,0.9506,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1635.0,1638.0,Vireo griseus,White-eyed Vireo,0.9814,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1641.0,1644.0,Seiurus aurocapilla,Ovenbird,0.9862,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1644.0,1647.0,Geothlypis trichas,Common Yellowthroat,0.3837,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1647.0,1650.0,Vireo griseus,White-eyed Vireo,0.7954,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1653.0,1656.0,Vireo griseus,White-eyed Vireo,0.9382,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1656.0,1659.0,Seiurus aurocapilla,Ovenbird,0.5257,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1659.0,1662.0,Geothlypis trichas,Common Yellowthroat,0.9676,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1662.0,1665.0,Vireo griseus,White-eyed Vireo,0.7536,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1671.0,1674.0,Geothlypis trichas,Common Yellowthroat,0.9523,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1674.0,1677.0,Seiurus aurocapilla,Ovenbird,0.5605,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1680.0,1683.0,Vireo griseus,White-eyed Vireo,0.9707,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1683.0,1686.0,Setophaga citrina,Hooded Warbler,0.3045,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1683.0,1686.0,Geothlypis trichas,Common Yellowthroat,0.2911,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1686.0,1689.0,Geothlypis trichas,Common Yellowthroat,0.8113,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1686.0,1689.0,Setophaga citrina,Hooded Warbler,0.3141,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1689.0,1692.0,Vireo griseus,White-eyed Vireo,0.9684,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1692.0,1695.0,Pipilo erythrophthalmus,Eastern Towhee,0.9619,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1692.0,1695.0,Setophaga citrina,Hooded Warbler,0.3126,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1695.0,1698.0,Geothlypis trichas,Common Yellowthroat,0.5366,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1698.0,1701.0,Geothlypis trichas,Common Yellowthroat,0.7681,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1698.0,1701.0,Setophaga citrina,Hooded Warbler,0.2618,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1701.0,1704.0,Vireo griseus,White-eyed Vireo,0.8130,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1704.0,1707.0,Seiurus aurocapilla,Ovenbird,0.4045,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1707.0,1710.0,Geothlypis trichas,Common Yellowthroat,0.7643,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1710.0,1713.0,Geothlypis trichas,Common Yellowthroat,0.8075,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1713.0,1716.0,Vireo griseus,White-eyed Vireo,0.9477,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1725.0,1728.0,Vireo griseus,White-eyed Vireo,0.8134,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1728.0,1731.0,Seiurus aurocapilla,Ovenbird,0.3390,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1731.0,1734.0,Pipilo erythrophthalmus,Eastern Towhee,0.5074,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1731.0,1734.0,Mniotilta varia,Black-and-white Warbler,0.4139,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1734.0,1737.0,Vireo griseus,White-eyed Vireo,0.8388,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1737.0,1740.0,Icteria virens,Yellow-breasted Chat,0.8344,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1737.0,1740.0,Geothlypis trichas,Common Yellowthroat,0.7962,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1740.0,1743.0,Vireo griseus,White-eyed Vireo,0.7625,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1743.0,1746.0,Vireo griseus,White-eyed Vireo,0.8326,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1749.0,1752.0,Geothlypis trichas,Common Yellowthroat,0.8669,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1752.0,1755.0,Vireo griseus,White-eyed Vireo,0.9115,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1755.0,1758.0,Vireo griseus,White-eyed Vireo,0.9678,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1758.0,1761.0,Vireo griseus,White-eyed Vireo,0.3238,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1761.0,1764.0,Vireo griseus,White-eyed Vireo,0.9629,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1764.0,1767.0,Seiurus aurocapilla,Ovenbird,0.7775,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1767.0,1770.0,Seiurus aurocapilla,Ovenbird,0.3365,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1773.0,1776.0,Vireo griseus,White-eyed Vireo,0.9365,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1776.0,1779.0,Geothlypis trichas,Common Yellowthroat,0.8742,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1779.0,1782.0,Vireo griseus,White-eyed Vireo,0.5691,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1779.0,1782.0,Geothlypis trichas,Common Yellowthroat,0.3295,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1782.0,1785.0,Seiurus aurocapilla,Ovenbird,0.4286,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1785.0,1788.0,Seiurus aurocapilla,Ovenbird,0.6065,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1791.0,1794.0,Geothlypis trichas,Common Yellowthroat,0.4976,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1794.0,1797.0,Geothlypis trichas,Common Yellowthroat,0.7780,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1794.0,1797.0,Setophaga citrina,Hooded Warbler,0.2913,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1797.0,1800.0,Vireo griseus,White-eyed Vireo,0.9382,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1800.0,1803.0,Seiurus aurocapilla,Ovenbird,0.7724,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1803.0,1806.0,Geothlypis trichas,Common Yellowthroat,0.5562,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1806.0,1809.0,Geothlypis trichas,Common Yellowthroat,0.3573,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1809.0,1812.0,Vireo griseus,White-eyed Vireo,0.9287,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1815.0,1818.0,Vireo griseus,White-eyed Vireo,0.9295,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1818.0,1821.0,Geothlypis trichas,Common Yellowthroat,0.5998,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1821.0,1824.0,Vireo griseus,White-eyed Vireo,0.8160,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1824.0,1827.0,Seiurus aurocapilla,Ovenbird,0.5562,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1827.0,1830.0,Vireo griseus,White-eyed Vireo,0.8716,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1830.0,1833.0,Geothlypis trichas,Common Yellowthroat,0.8791,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1833.0,1836.0,Vireo griseus,White-eyed Vireo,0.9230,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1836.0,1839.0,Vireo griseus,White-eyed Vireo,0.9427,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1839.0,1842.0,Pipilo erythrophthalmus,Eastern Towhee,0.3233,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1842.0,1845.0,Vireo griseus,White-eyed Vireo,0.9026,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1845.0,1848.0,Seiurus aurocapilla,Ovenbird,0.9861,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1848.0,1851.0,Vireo griseus,White-eyed Vireo,0.9862,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1854.0,1857.0,Vireo griseus,White-eyed Vireo,0.9211,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1857.0,1860.0,Vireo griseus,White-eyed Vireo,0.9527,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1860.0,1863.0,Setophaga pinus,Pine Warbler,0.8710,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1863.0,1866.0,Vireo griseus,White-eyed Vireo,0.9465,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1869.0,1872.0,Vireo griseus,White-eyed Vireo,0.9545,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1872.0,1875.0,Piranga rubra,Summer Tanager,0.4227,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1875.0,1878.0,Vireo griseus,White-eyed Vireo,0.5010,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1878.0,1881.0,Geothlypis trichas,Common Yellowthroat,0.2831,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1881.0,1884.0,Setophaga dominica,Yellow-throated Warbler,0.3790,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1881.0,1884.0,Setophaga citrina,Hooded Warbler,0.3469,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1884.0,1887.0,Vireo griseus,White-eyed Vireo,0.7405,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1884.0,1887.0,Piranga rubra,Summer Tanager,0.3204,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1887.0,1890.0,Vireo griseus,White-eyed Vireo,0.7548,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1893.0,1896.0,Vireo griseus,White-eyed Vireo,0.2500,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1896.0,1899.0,Vireo griseus,White-eyed Vireo,0.7420,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1902.0,1905.0,Vireo griseus,White-eyed Vireo,0.7116,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1905.0,1908.0,Piranga rubra,Summer Tanager,0.9370,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1908.0,1911.0,Vireo griseus,White-eyed Vireo,0.3336,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1911.0,1914.0,Vireo griseus,White-eyed Vireo,0.8388,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1914.0,1917.0,Seiurus aurocapilla,Ovenbird,0.8010,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1920.0,1923.0,Vireo griseus,White-eyed Vireo,0.9060,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1923.0,1926.0,Vireo griseus,White-eyed Vireo,0.8112,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1926.0,1929.0,Vireo griseus,White-eyed Vireo,0.8617,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1926.0,1929.0,Piranga rubra,Summer Tanager,0.2581,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1929.0,1932.0,Geothlypis trichas,Common Yellowthroat,0.5904,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1932.0,1935.0,Pipilo erythrophthalmus,Eastern Towhee,0.4452,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1935.0,1938.0,Vireo griseus,White-eyed Vireo,0.6585,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1938.0,1941.0,Seiurus aurocapilla,Ovenbird,0.9544,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1941.0,1944.0,Vireo griseus,White-eyed Vireo,0.5385,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1944.0,1947.0,Geothlypis trichas,Common Yellowthroat,0.5189,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1947.0,1950.0,Vireo griseus,White-eyed Vireo,0.5881,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1950.0,1953.0,Pipilo erythrophthalmus,Eastern Towhee,0.7500,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1953.0,1956.0,Pipilo erythrophthalmus,Eastern Towhee,0.8650,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1959.0,1962.0,Pipilo erythrophthalmus,Eastern Towhee,0.6654,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1962.0,1965.0,Pipilo erythrophthalmus,Eastern Towhee,0.6424,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1962.0,1965.0,Mniotilta varia,Black-and-white Warbler,0.5379,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1965.0,1968.0,Seiurus aurocapilla,Ovenbird,0.8279,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1971.0,1974.0,Vireo griseus,White-eyed Vireo,0.7569,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1971.0,1974.0,Piranga rubra,Summer Tanager,0.6584,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1974.0,1977.0,Pipilo erythrophthalmus,Eastern Towhee,0.6233,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1977.0,1980.0,Pipilo erythrophthalmus,Eastern Towhee,0.3979,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1983.0,1986.0,Geothlypis trichas,Common Yellowthroat,0.3869,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1986.0,1989.0,Pipilo erythrophthalmus,Eastern Towhee,0.4688,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1986.0,1989.0,Mniotilta varia,Black-and-white Warbler,0.3163,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1989.0,1992.0,Seiurus aurocapilla,Ovenbird,0.9108,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1995.0,1998.0,Geothlypis trichas,Common Yellowthroat,0.5933,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+1998.0,2001.0,Pipilo erythrophthalmus,Eastern Towhee,0.3955,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2004.0,2007.0,Pipilo erythrophthalmus,Eastern Towhee,0.4793,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2007.0,2010.0,Seiurus aurocapilla,Ovenbird,0.7636,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2013.0,2016.0,Pipilo erythrophthalmus,Eastern Towhee,0.9859,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2016.0,2019.0,Pipilo erythrophthalmus,Eastern Towhee,0.6341,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2016.0,2019.0,Geothlypis trichas,Common Yellowthroat,0.2785,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2019.0,2022.0,Mniotilta varia,Black-and-white Warbler,0.3692,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2019.0,2022.0,Pipilo erythrophthalmus,Eastern Towhee,0.3382,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2022.0,2025.0,Geothlypis trichas,Common Yellowthroat,0.6870,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2025.0,2028.0,Piranga rubra,Summer Tanager,0.3977,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2028.0,2031.0,Seiurus aurocapilla,Ovenbird,0.7616,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2031.0,2034.0,Seiurus aurocapilla,Ovenbird,0.8014,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2034.0,2037.0,Geothlypis trichas,Common Yellowthroat,0.6782,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2043.0,2046.0,Geothlypis trichas,Common Yellowthroat,0.4995,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2046.0,2049.0,Setophaga citrina,Hooded Warbler,0.3127,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2052.0,2055.0,Pipilo erythrophthalmus,Eastern Towhee,0.4975,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2052.0,2055.0,Seiurus aurocapilla,Ovenbird,0.4324,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2055.0,2058.0,Seiurus aurocapilla,Ovenbird,0.5490,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2058.0,2061.0,Setophaga citrina,Hooded Warbler,0.3334,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2058.0,2061.0,Geothlypis trichas,Common Yellowthroat,0.2869,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2067.0,2070.0,Geothlypis trichas,Common Yellowthroat,0.6789,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2073.0,2076.0,Setophaga pinus,Pine Warbler,0.6472,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2076.0,2079.0,Seiurus aurocapilla,Ovenbird,0.8842,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2079.0,2082.0,Setophaga citrina,Hooded Warbler,0.5837,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2079.0,2082.0,Geothlypis trichas,Common Yellowthroat,0.2589,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2079.0,2082.0,Pipilo erythrophthalmus,Eastern Towhee,0.2542,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2085.0,2088.0,Pipilo erythrophthalmus,Eastern Towhee,0.9030,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2085.0,2088.0,Setophaga pinus,Pine Warbler,0.3712,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2088.0,2091.0,Pipilo erythrophthalmus,Eastern Towhee,0.8804,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2091.0,2094.0,Geothlypis trichas,Common Yellowthroat,0.7973,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2094.0,2097.0,Setophaga dominica,Yellow-throated Warbler,0.2696,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2097.0,2100.0,Seiurus aurocapilla,Ovenbird,0.7283,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2097.0,2100.0,Pipilo erythrophthalmus,Eastern Towhee,0.6420,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2100.0,2103.0,Seiurus aurocapilla,Ovenbird,0.9379,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2103.0,2106.0,Setophaga citrina,Hooded Warbler,0.5279,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2106.0,2109.0,Geothlypis trichas,Common Yellowthroat,0.2756,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2112.0,2115.0,Pipilo erythrophthalmus,Eastern Towhee,0.8967,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2115.0,2118.0,Vireo griseus,White-eyed Vireo,0.5071,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2121.0,2124.0,Seiurus aurocapilla,Ovenbird,0.9585,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2124.0,2127.0,Vireo griseus,White-eyed Vireo,0.2511,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2133.0,2136.0,Setophaga citrina,Hooded Warbler,0.4762,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2139.0,2142.0,Pipilo erythrophthalmus,Eastern Towhee,0.3352,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2142.0,2145.0,Geothlypis trichas,Common Yellowthroat,0.4933,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2145.0,2148.0,Seiurus aurocapilla,Ovenbird,0.6825,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2157.0,2160.0,Geothlypis trichas,Common Yellowthroat,0.5129,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2160.0,2163.0,Vireo griseus,White-eyed Vireo,0.4086,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2166.0,2169.0,Seiurus aurocapilla,Ovenbird,0.6784,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2169.0,2172.0,Geothlypis trichas,Common Yellowthroat,0.3084,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2172.0,2175.0,Vireo griseus,White-eyed Vireo,0.2509,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2175.0,2178.0,Pipilo erythrophthalmus,Eastern Towhee,0.3576,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2175.0,2178.0,Corvus brachyrhynchos,American Crow,0.2559,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2175.0,2178.0,Mniotilta varia,Black-and-white Warbler,0.2549,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2178.0,2181.0,Vireo griseus,White-eyed Vireo,0.3232,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2178.0,2181.0,Setophaga pinus,Pine Warbler,0.2913,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2184.0,2187.0,Seiurus aurocapilla,Ovenbird,0.8944,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2187.0,2190.0,Geothlypis trichas,Common Yellowthroat,0.6553,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2202.0,2205.0,Geothlypis trichas,Common Yellowthroat,0.3689,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2205.0,2208.0,Vireo griseus,White-eyed Vireo,0.5601,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2208.0,2211.0,Seiurus aurocapilla,Ovenbird,0.3883,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2214.0,2217.0,Setophaga citrina,Hooded Warbler,0.2530,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2226.0,2229.0,Setophaga pinus,Pine Warbler,0.5854,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2229.0,2232.0,Seiurus aurocapilla,Ovenbird,0.7104,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2238.0,2241.0,Vireo griseus,White-eyed Vireo,0.5122,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2244.0,2247.0,Geothlypis trichas,Common Yellowthroat,0.5229,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2247.0,2250.0,Seiurus aurocapilla,Ovenbird,0.5825,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2250.0,2253.0,Seiurus aurocapilla,Ovenbird,0.9638,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2253.0,2256.0,Pipilo erythrophthalmus,Eastern Towhee,0.4741,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2262.0,2265.0,Pipilo erythrophthalmus,Eastern Towhee,0.7999,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2265.0,2268.0,Setophaga pinus,Pine Warbler,0.5368,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2274.0,2277.0,Corvus brachyrhynchos,American Crow,0.4538,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2283.0,2286.0,Geothlypis trichas,Common Yellowthroat,0.7590,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2289.0,2292.0,Setophaga pinus,Pine Warbler,0.3674,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2292.0,2295.0,Seiurus aurocapilla,Ovenbird,0.9688,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2292.0,2295.0,Pipilo erythrophthalmus,Eastern Towhee,0.5807,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2292.0,2295.0,Corvus brachyrhynchos,American Crow,0.3121,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2295.0,2298.0,Seiurus aurocapilla,Ovenbird,0.9330,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2298.0,2301.0,Geothlypis trichas,Common Yellowthroat,0.7498,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2304.0,2307.0,Pipilo erythrophthalmus,Eastern Towhee,0.8654,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2313.0,2316.0,Geothlypis trichas,Common Yellowthroat,0.8220,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2316.0,2319.0,Seiurus aurocapilla,Ovenbird,0.9652,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2325.0,2328.0,Setophaga citrina,Hooded Warbler,0.5089,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2328.0,2331.0,Geothlypis trichas,Common Yellowthroat,0.4733,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2337.0,2340.0,Seiurus aurocapilla,Ovenbird,0.9016,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2340.0,2343.0,Seiurus aurocapilla,Ovenbird,0.9300,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2343.0,2346.0,Setophaga citrina,Hooded Warbler,0.2520,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2361.0,2364.0,Seiurus aurocapilla,Ovenbird,0.8482,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2364.0,2367.0,Sitta pusilla,Brown-headed Nuthatch,0.8746,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2367.0,2370.0,Sitta pusilla,Brown-headed Nuthatch,0.9518,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2370.0,2373.0,Sitta pusilla,Brown-headed Nuthatch,0.9864,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2373.0,2376.0,Sitta pusilla,Brown-headed Nuthatch,0.9712,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2376.0,2379.0,Sitta pusilla,Brown-headed Nuthatch,0.9611,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2379.0,2382.0,Sitta pusilla,Brown-headed Nuthatch,0.9841,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2382.0,2385.0,Seiurus aurocapilla,Ovenbird,0.7214,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2385.0,2388.0,Sitta pusilla,Brown-headed Nuthatch,0.9093,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2388.0,2391.0,Sitta pusilla,Brown-headed Nuthatch,0.9548,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2391.0,2394.0,Sitta pusilla,Brown-headed Nuthatch,0.9873,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2394.0,2397.0,Sitta pusilla,Brown-headed Nuthatch,0.7973,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2397.0,2400.0,Sitta pusilla,Brown-headed Nuthatch,0.8715,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2400.0,2403.0,Sitta pusilla,Brown-headed Nuthatch,0.9848,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2403.0,2406.0,Sitta pusilla,Brown-headed Nuthatch,0.5201,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2406.0,2409.0,Sitta pusilla,Brown-headed Nuthatch,0.2563,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2409.0,2412.0,Sitta pusilla,Brown-headed Nuthatch,0.9922,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2412.0,2415.0,Sitta pusilla,Brown-headed Nuthatch,0.8643,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2415.0,2418.0,Sitta pusilla,Brown-headed Nuthatch,0.8378,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2418.0,2421.0,Sitta pusilla,Brown-headed Nuthatch,0.9429,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2421.0,2424.0,Sitta pusilla,Brown-headed Nuthatch,0.9482,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2424.0,2427.0,Sitta pusilla,Brown-headed Nuthatch,0.8423,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2427.0,2430.0,Seiurus aurocapilla,Ovenbird,0.8033,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2430.0,2433.0,Sitta pusilla,Brown-headed Nuthatch,0.9291,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2433.0,2436.0,Sitta pusilla,Brown-headed Nuthatch,0.9962,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2436.0,2439.0,Sitta pusilla,Brown-headed Nuthatch,0.9692,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2439.0,2442.0,Sitta pusilla,Brown-headed Nuthatch,0.9870,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2445.0,2448.0,Sitta pusilla,Brown-headed Nuthatch,0.9769,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2451.0,2454.0,Seiurus aurocapilla,Ovenbird,0.9332,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2454.0,2457.0,Seiurus aurocapilla,Ovenbird,0.6175,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2457.0,2460.0,Geothlypis trichas,Common Yellowthroat,0.3828,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2463.0,2466.0,Pipilo erythrophthalmus,Eastern Towhee,0.4847,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2472.0,2475.0,Seiurus aurocapilla,Ovenbird,0.8069,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2481.0,2484.0,Geothlypis trichas,Common Yellowthroat,0.2811,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2484.0,2487.0,Mniotilta varia,Black-and-white Warbler,0.5710,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2484.0,2487.0,Cardinalis cardinalis,Northern Cardinal,0.3099,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2493.0,2496.0,Seiurus aurocapilla,Ovenbird,0.4020,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2496.0,2499.0,Seiurus aurocapilla,Ovenbird,0.8927,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2508.0,2511.0,Geothlypis trichas,Common Yellowthroat,0.7110,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2514.0,2517.0,Seiurus aurocapilla,Ovenbird,0.7327,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2517.0,2520.0,Piranga olivacea,Scarlet Tanager,0.3101,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2520.0,2523.0,Geothlypis trichas,Common Yellowthroat,0.4337,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2532.0,2535.0,Seiurus aurocapilla,Ovenbird,0.3718,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2535.0,2538.0,Seiurus aurocapilla,Ovenbird,0.8613,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2541.0,2544.0,Cardinalis cardinalis,Northern Cardinal,0.4547,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2541.0,2544.0,Pipilo erythrophthalmus,Eastern Towhee,0.4516,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2541.0,2544.0,Hylocichla mustelina,Wood Thrush,0.3571,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2550.0,2553.0,Cardinalis cardinalis,Northern Cardinal,0.2647,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2553.0,2556.0,Vireo griseus,White-eyed Vireo,0.3044,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2556.0,2559.0,Seiurus aurocapilla,Ovenbird,0.9728,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2571.0,2574.0,Geothlypis trichas,Common Yellowthroat,0.4634,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2580.0,2583.0,Seiurus aurocapilla,Ovenbird,0.9776,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2592.0,2595.0,Hylocichla mustelina,Wood Thrush,0.3645,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2598.0,2601.0,Seiurus aurocapilla,Ovenbird,0.6728,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2601.0,2604.0,Seiurus aurocapilla,Ovenbird,0.8411,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2604.0,2607.0,Sitta pusilla,Brown-headed Nuthatch,0.5801,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2619.0,2622.0,Pipilo erythrophthalmus,Eastern Towhee,0.3747,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2622.0,2625.0,Seiurus aurocapilla,Ovenbird,0.8941,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2631.0,2634.0,Dryobates pubescens,Downy Woodpecker,0.7493,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2643.0,2646.0,Sitta pusilla,Brown-headed Nuthatch,0.6820,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2646.0,2649.0,Seiurus aurocapilla,Ovenbird,0.8993,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2658.0,2661.0,Sitta pusilla,Brown-headed Nuthatch,0.7387,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2667.0,2670.0,Seiurus aurocapilla,Ovenbird,0.4809,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2670.0,2673.0,Seiurus aurocapilla,Ovenbird,0.9325,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2685.0,2688.0,Sitta pusilla,Brown-headed Nuthatch,0.6514,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2688.0,2691.0,Geothlypis trichas,Common Yellowthroat,0.4496,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2688.0,2691.0,Setophaga citrina,Hooded Warbler,0.3429,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2691.0,2694.0,Seiurus aurocapilla,Ovenbird,0.2696,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2694.0,2697.0,Sitta pusilla,Brown-headed Nuthatch,0.5123,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2694.0,2697.0,Seiurus aurocapilla,Ovenbird,0.4210,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2697.0,2700.0,Piranga rubra,Summer Tanager,0.7971,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2709.0,2712.0,Sitta pusilla,Brown-headed Nuthatch,0.6888,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2712.0,2715.0,Seiurus aurocapilla,Ovenbird,0.8919,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2730.0,2733.0,Geothlypis trichas,Common Yellowthroat,0.4244,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2733.0,2736.0,Seiurus aurocapilla,Ovenbird,0.5639,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2736.0,2739.0,Sitta pusilla,Brown-headed Nuthatch,0.9228,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2751.0,2754.0,Seiurus aurocapilla,Ovenbird,0.8412,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2760.0,2763.0,Pipilo erythrophthalmus,Eastern Towhee,0.3148,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2769.0,2772.0,Geothlypis trichas,Common Yellowthroat,0.2961,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2772.0,2775.0,Seiurus aurocapilla,Ovenbird,0.8945,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2775.0,2778.0,Seiurus aurocapilla,Ovenbird,0.6839,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2781.0,2784.0,Geothlypis trichas,Common Yellowthroat,0.3554,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2787.0,2790.0,Setophaga dominica,Yellow-throated Warbler,0.2652,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2793.0,2796.0,Seiurus aurocapilla,Ovenbird,0.9437,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2796.0,2799.0,Seiurus aurocapilla,Ovenbird,0.8186,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2802.0,2805.0,Piranga olivacea,Scarlet Tanager,0.2727,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2805.0,2808.0,Geothlypis trichas,Common Yellowthroat,0.3587,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2808.0,2811.0,Setophaga dominica,Yellow-throated Warbler,0.3093,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2808.0,2811.0,Setophaga citrina,Hooded Warbler,0.2781,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2814.0,2817.0,Seiurus aurocapilla,Ovenbird,0.9343,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2817.0,2820.0,Seiurus aurocapilla,Ovenbird,0.5018,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2820.0,2823.0,Geothlypis trichas,Common Yellowthroat,0.3883,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2835.0,2838.0,Seiurus aurocapilla,Ovenbird,0.9697,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2838.0,2841.0,Seiurus aurocapilla,Ovenbird,0.9303,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2859.0,2862.0,Seiurus aurocapilla,Ovenbird,0.5451,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2862.0,2865.0,Pipilo erythrophthalmus,Eastern Towhee,0.3993,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2874.0,2877.0,Limnothlypis swainsonii,Swainson's Warbler,0.3378,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2880.0,2883.0,Seiurus aurocapilla,Ovenbird,0.9824,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2886.0,2889.0,Geothlypis trichas,Common Yellowthroat,0.3692,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2889.0,2892.0,Parkesia motacilla,Louisiana Waterthrush,0.4291,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2889.0,2892.0,Setophaga citrina,Hooded Warbler,0.3955,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2889.0,2892.0,Limnothlypis swainsonii,Swainson's Warbler,0.3428,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2895.0,2898.0,Pipilo erythrophthalmus,Eastern Towhee,0.4947,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2904.0,2907.0,Seiurus aurocapilla,Ovenbird,0.9710,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2907.0,2910.0,Seiurus aurocapilla,Ovenbird,0.9808,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2913.0,2916.0,Piranga rubra,Summer Tanager,0.3869,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2919.0,2922.0,Pipilo erythrophthalmus,Eastern Towhee,0.2620,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2922.0,2925.0,Piranga rubra,Summer Tanager,0.6572,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2928.0,2931.0,Seiurus aurocapilla,Ovenbird,0.7187,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2931.0,2934.0,Setophaga pinus,Pine Warbler,0.7547,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2931.0,2934.0,Seiurus aurocapilla,Ovenbird,0.7457,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2943.0,2946.0,Setophaga pinus,Pine Warbler,0.7268,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2952.0,2955.0,Setophaga pinus,Pine Warbler,0.5478,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2955.0,2958.0,Seiurus aurocapilla,Ovenbird,0.7565,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2961.0,2964.0,Setophaga pinus,Pine Warbler,0.4134,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2970.0,2973.0,Setophaga pinus,Pine Warbler,0.9115,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2973.0,2976.0,Seiurus aurocapilla,Ovenbird,0.8552,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2976.0,2979.0,Geothlypis trichas,Common Yellowthroat,0.2607,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2979.0,2982.0,Setophaga pinus,Pine Warbler,0.2887,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2988.0,2991.0,Setophaga pinus,Pine Warbler,0.8503,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2991.0,2994.0,Geothlypis trichas,Common Yellowthroat,0.4564,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2994.0,2997.0,Limnothlypis swainsonii,Swainson's Warbler,0.5771,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+2997.0,3000.0,Setophaga pinus,Pine Warbler,0.5566,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3006.0,3009.0,Setophaga pinus,Pine Warbler,0.7031,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3009.0,3012.0,Geothlypis trichas,Common Yellowthroat,0.9602,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3012.0,3015.0,Vireo griseus,White-eyed Vireo,0.5084,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3015.0,3018.0,Setophaga pinus,Pine Warbler,0.9051,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3018.0,3021.0,Seiurus aurocapilla,Ovenbird,0.6083,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3021.0,3024.0,Geothlypis trichas,Common Yellowthroat,0.7198,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3024.0,3027.0,Geothlypis trichas,Common Yellowthroat,0.7470,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3030.0,3033.0,Setophaga pinus,Pine Warbler,0.8569,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3033.0,3036.0,Setophaga pinus,Pine Warbler,0.8980,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3036.0,3039.0,Geothlypis trichas,Common Yellowthroat,0.7650,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3039.0,3042.0,Geothlypis trichas,Common Yellowthroat,0.6825,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3042.0,3045.0,Setophaga pinus,Pine Warbler,0.6540,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3045.0,3048.0,Seiurus aurocapilla,Ovenbird,0.7995,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3048.0,3051.0,Geothlypis trichas,Common Yellowthroat,0.9380,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3054.0,3057.0,Setophaga pinus,Pine Warbler,0.9831,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3060.0,3063.0,Geothlypis trichas,Common Yellowthroat,0.8680,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3063.0,3066.0,Setophaga pinus,Pine Warbler,0.6039,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3066.0,3069.0,Seiurus aurocapilla,Ovenbird,0.9813,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3072.0,3075.0,Geothlypis trichas,Common Yellowthroat,0.9534,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3075.0,3078.0,Mniotilta varia,Black-and-white Warbler,0.4879,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3081.0,3084.0,Setophaga pinus,Pine Warbler,0.9547,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3084.0,3087.0,Geothlypis trichas,Common Yellowthroat,0.9489,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3090.0,3093.0,Seiurus aurocapilla,Ovenbird,0.9278,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3093.0,3096.0,Setophaga pinus,Pine Warbler,0.9814,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3096.0,3099.0,Geothlypis trichas,Common Yellowthroat,0.9588,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3099.0,3102.0,Setophaga pinus,Pine Warbler,0.7318,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3102.0,3105.0,Mniotilta varia,Black-and-white Warbler,0.2607,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3108.0,3111.0,Geothlypis trichas,Common Yellowthroat,0.9666,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3111.0,3114.0,Setophaga pinus,Pine Warbler,0.3272,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3114.0,3117.0,Seiurus aurocapilla,Ovenbird,0.8828,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3120.0,3123.0,Geothlypis trichas,Common Yellowthroat,0.9315,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3123.0,3126.0,Setophaga pinus,Pine Warbler,0.3428,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3126.0,3129.0,Mniotilta varia,Black-and-white Warbler,0.5608,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3129.0,3132.0,Setophaga pinus,Pine Warbler,0.8495,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3132.0,3135.0,Geothlypis trichas,Common Yellowthroat,0.8818,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3144.0,3147.0,Geothlypis trichas,Common Yellowthroat,0.9063,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3147.0,3150.0,Setophaga citrina,Hooded Warbler,0.4694,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3156.0,3159.0,Geothlypis trichas,Common Yellowthroat,0.8021,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3159.0,3162.0,Setophaga citrina,Hooded Warbler,0.2679,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3168.0,3171.0,Geothlypis trichas,Common Yellowthroat,0.9479,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3177.0,3180.0,Cardinalis cardinalis,Northern Cardinal,0.4323,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3180.0,3183.0,Geothlypis trichas,Common Yellowthroat,0.4723,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3183.0,3186.0,Geothlypis trichas,Common Yellowthroat,0.3949,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3186.0,3189.0,Seiurus aurocapilla,Ovenbird,0.4561,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3189.0,3192.0,Setophaga pinus,Pine Warbler,0.7867,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3192.0,3195.0,Setophaga pinus,Pine Warbler,0.4541,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3195.0,3198.0,Geothlypis trichas,Common Yellowthroat,0.7515,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3198.0,3201.0,Setophaga citrina,Hooded Warbler,0.5338,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3198.0,3201.0,Geothlypis trichas,Common Yellowthroat,0.4509,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3204.0,3207.0,Seiurus aurocapilla,Ovenbird,0.9113,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3207.0,3210.0,Seiurus aurocapilla,Ovenbird,0.9656,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3210.0,3213.0,Geothlypis trichas,Common Yellowthroat,0.9768,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3222.0,3225.0,Geothlypis trichas,Common Yellowthroat,0.9154,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3225.0,3228.0,Seiurus aurocapilla,Ovenbird,0.9504,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3228.0,3231.0,Seiurus aurocapilla,Ovenbird,0.8951,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3234.0,3237.0,Geothlypis trichas,Common Yellowthroat,0.4341,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3237.0,3240.0,Geothlypis trichas,Common Yellowthroat,0.8800,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3237.0,3240.0,Setophaga citrina,Hooded Warbler,0.3082,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3243.0,3246.0,Mniotilta varia,Black-and-white Warbler,0.3672,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3246.0,3249.0,Seiurus aurocapilla,Ovenbird,0.9755,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3249.0,3252.0,Geothlypis trichas,Common Yellowthroat,0.8637,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3252.0,3255.0,Geothlypis trichas,Common Yellowthroat,0.5860,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3252.0,3255.0,Setophaga citrina,Hooded Warbler,0.5467,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3264.0,3267.0,Geothlypis trichas,Common Yellowthroat,0.6037,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3267.0,3270.0,Setophaga citrina,Hooded Warbler,0.3334,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3276.0,3279.0,Geothlypis trichas,Common Yellowthroat,0.8760,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3279.0,3282.0,Setophaga citrina,Hooded Warbler,0.7548,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3279.0,3282.0,Parkesia motacilla,Louisiana Waterthrush,0.5324,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3285.0,3288.0,Seiurus aurocapilla,Ovenbird,0.8731,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3288.0,3291.0,Seiurus aurocapilla,Ovenbird,0.9226,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3291.0,3294.0,Geothlypis trichas,Common Yellowthroat,0.9661,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3300.0,3303.0,Parkesia motacilla,Louisiana Waterthrush,0.2670,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3303.0,3306.0,Geothlypis trichas,Common Yellowthroat,0.7943,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3306.0,3309.0,Geothlypis trichas,Common Yellowthroat,0.3903,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3315.0,3318.0,Vireo griseus,White-eyed Vireo,0.4164,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3318.0,3321.0,Geothlypis trichas,Common Yellowthroat,0.9518,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3324.0,3327.0,Setophaga pinus,Pine Warbler,0.6495,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3327.0,3330.0,Seiurus aurocapilla,Ovenbird,0.9744,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3333.0,3336.0,Geothlypis trichas,Common Yellowthroat,0.6133,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3342.0,3345.0,Geothlypis trichas,Common Yellowthroat,0.3295,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3345.0,3348.0,Geothlypis trichas,Common Yellowthroat,0.9183,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3348.0,3351.0,Seiurus aurocapilla,Ovenbird,0.9104,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3351.0,3354.0,Seiurus aurocapilla,Ovenbird,0.8392,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3357.0,3360.0,Geothlypis trichas,Common Yellowthroat,0.4100,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3357.0,3360.0,Setophaga citrina,Hooded Warbler,0.2808,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3360.0,3363.0,Geothlypis trichas,Common Yellowthroat,0.6053,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3360.0,3363.0,Setophaga citrina,Hooded Warbler,0.5200,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3366.0,3369.0,Setophaga pinus,Pine Warbler,0.6461,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3369.0,3372.0,Seiurus aurocapilla,Ovenbird,0.9832,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3372.0,3375.0,Seiurus aurocapilla,Ovenbird,0.8201,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3375.0,3378.0,Geothlypis trichas,Common Yellowthroat,0.8918,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3378.0,3381.0,Vireo griseus,White-eyed Vireo,0.3830,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3381.0,3384.0,Setophaga pinus,Pine Warbler,0.2910,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3387.0,3390.0,Geothlypis trichas,Common Yellowthroat,0.7715,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3390.0,3393.0,Setophaga citrina,Hooded Warbler,0.4000,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3393.0,3396.0,Seiurus aurocapilla,Ovenbird,0.8419,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3402.0,3405.0,Limnothlypis swainsonii,Swainson's Warbler,0.2580,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3408.0,3411.0,Geothlypis trichas,Common Yellowthroat,0.9574,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3411.0,3414.0,Seiurus aurocapilla,Ovenbird,0.8028,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3414.0,3417.0,Seiurus aurocapilla,Ovenbird,0.8451,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3423.0,3426.0,Pipilo erythrophthalmus,Eastern Towhee,0.3847,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3426.0,3429.0,Geothlypis trichas,Common Yellowthroat,0.9621,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3435.0,3438.0,Seiurus aurocapilla,Ovenbird,0.5497,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3438.0,3441.0,Geothlypis trichas,Common Yellowthroat,0.6020,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3447.0,3450.0,Setophaga pinus,Pine Warbler,0.8073,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3453.0,3456.0,Seiurus aurocapilla,Ovenbird,0.5959,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3465.0,3468.0,Pipilo erythrophthalmus,Eastern Towhee,0.6526,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3471.0,3474.0,Pipilo erythrophthalmus,Eastern Towhee,0.3164,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3474.0,3477.0,Seiurus aurocapilla,Ovenbird,0.8616,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3477.0,3480.0,Seiurus aurocapilla,Ovenbird,0.3377,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3486.0,3489.0,Setophaga pinus,Pine Warbler,0.6406,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3492.0,3495.0,Setophaga pinus,Pine Warbler,0.4109,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3495.0,3498.0,Pipilo erythrophthalmus,Eastern Towhee,0.7812,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3495.0,3498.0,Seiurus aurocapilla,Ovenbird,0.6081,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3498.0,3501.0,Pipilo erythrophthalmus,Eastern Towhee,0.7313,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3498.0,3501.0,Setophaga pinus,Pine Warbler,0.2744,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3504.0,3507.0,Geothlypis trichas,Common Yellowthroat,0.6815,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3507.0,3510.0,Setophaga pinus,Pine Warbler,0.4675,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3513.0,3516.0,Vireo griseus,White-eyed Vireo,0.4230,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3516.0,3519.0,Geothlypis trichas,Common Yellowthroat,0.8722,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3519.0,3522.0,Seiurus aurocapilla,Ovenbird,0.8074,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3525.0,3528.0,Geothlypis trichas,Common Yellowthroat,0.7051,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3528.0,3531.0,Geothlypis trichas,Common Yellowthroat,0.8331,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3534.0,3537.0,Sitta pusilla,Brown-headed Nuthatch,0.2659,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3537.0,3540.0,Sitta pusilla,Brown-headed Nuthatch,0.4351,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3540.0,3543.0,Geothlypis trichas,Common Yellowthroat,0.4014,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3543.0,3546.0,Sitta pusilla,Brown-headed Nuthatch,0.9501,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3546.0,3549.0,Sitta pusilla,Brown-headed Nuthatch,0.8811,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3549.0,3552.0,Sitta pusilla,Brown-headed Nuthatch,0.9647,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3552.0,3555.0,Geothlypis trichas,Common Yellowthroat,0.8522,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3555.0,3558.0,Sitta pusilla,Brown-headed Nuthatch,0.9670,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3558.0,3561.0,Sitta pusilla,Brown-headed Nuthatch,0.8973,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3564.0,3567.0,Sitta pusilla,Brown-headed Nuthatch,0.6610,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3564.0,3567.0,Setophaga pinus,Pine Warbler,0.5763,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3567.0,3570.0,Geothlypis trichas,Common Yellowthroat,0.9153,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3570.0,3573.0,Sitta pusilla,Brown-headed Nuthatch,0.9166,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3573.0,3576.0,Setophaga pinus,Pine Warbler,0.4862,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3573.0,3576.0,Sitta pusilla,Brown-headed Nuthatch,0.4520,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3576.0,3579.0,Sitta pusilla,Brown-headed Nuthatch,0.9934,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3579.0,3582.0,Geothlypis trichas,Common Yellowthroat,0.5897,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3582.0,3585.0,Sitta pusilla,Brown-headed Nuthatch,0.6111,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3585.0,3588.0,Sitta pusilla,Brown-headed Nuthatch,0.4629,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3591.0,3594.0,Geothlypis trichas,Common Yellowthroat,0.8806,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav
+3597.0,3600.0,Sitta pusilla,Brown-headed Nuthatch,0.5572,D:\Bird_Anuran_ARUs\IF01\SMM2-27_20260404_052700.wav

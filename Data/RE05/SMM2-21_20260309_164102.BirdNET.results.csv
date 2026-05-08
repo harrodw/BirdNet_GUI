@@ -1,0 +1,427 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+0.0,3.0,Corvus brachyrhynchos,American Crow,0.4348,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3.0,6.0,Corvus brachyrhynchos,American Crow,0.3424,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+9.0,12.0,Sialia sialis,Eastern Bluebird,0.9453,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+15.0,18.0,Sialia sialis,Eastern Bluebird,0.4173,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+21.0,24.0,Sialia sialis,Eastern Bluebird,0.5031,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+39.0,42.0,Dryobates villosus,Hairy Woodpecker,0.4714,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+51.0,54.0,Engine,Engine,0.2808,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+63.0,66.0,Engine,Engine,0.5184,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+84.0,87.0,Setophaga pinus,Pine Warbler,0.7624,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+87.0,90.0,Zenaida macroura,Mourning Dove,0.5160,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+90.0,93.0,Colaptes auratus,Northern Flicker,0.3062,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+96.0,99.0,Colaptes auratus,Northern Flicker,0.4030,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+102.0,105.0,Setophaga pinus,Pine Warbler,0.9684,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+105.0,108.0,Setophaga pinus,Pine Warbler,0.7722,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+111.0,114.0,Colaptes auratus,Northern Flicker,0.5487,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+114.0,117.0,Setophaga pinus,Pine Warbler,0.7416,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+117.0,120.0,Corvus brachyrhynchos,American Crow,0.2755,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+120.0,123.0,Corvus brachyrhynchos,American Crow,0.6306,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+126.0,129.0,Setophaga pinus,Pine Warbler,0.6518,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+141.0,144.0,Setophaga pinus,Pine Warbler,0.5457,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+156.0,159.0,Corvus brachyrhynchos,American Crow,0.4484,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+180.0,183.0,Corvus brachyrhynchos,American Crow,0.9507,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+183.0,186.0,Colaptes auratus,Northern Flicker,0.5342,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+195.0,198.0,Corvus brachyrhynchos,American Crow,0.2581,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+198.0,201.0,Corvus brachyrhynchos,American Crow,0.8169,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+201.0,204.0,Corvus brachyrhynchos,American Crow,0.3198,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+204.0,207.0,Colaptes auratus,Northern Flicker,0.3229,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+207.0,210.0,Corvus brachyrhynchos,American Crow,0.6441,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+207.0,210.0,Cardinalis cardinalis,Northern Cardinal,0.3847,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+210.0,213.0,Corvus brachyrhynchos,American Crow,0.9932,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+213.0,216.0,Corvus brachyrhynchos,American Crow,0.9235,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+222.0,225.0,Corvus brachyrhynchos,American Crow,0.7660,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+276.0,279.0,Corvus brachyrhynchos,American Crow,0.4375,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+309.0,312.0,Meleagris gallopavo,Wild Turkey,0.3148,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+318.0,321.0,Corvus brachyrhynchos,American Crow,0.3238,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+324.0,327.0,Corvus brachyrhynchos,American Crow,0.6675,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+336.0,339.0,Corvus brachyrhynchos,American Crow,0.6127,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+339.0,342.0,Corvus brachyrhynchos,American Crow,0.4083,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+378.0,381.0,Corvus brachyrhynchos,American Crow,0.2582,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+405.0,408.0,Corvus brachyrhynchos,American Crow,0.5401,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+426.0,429.0,Poecile carolinensis,Carolina Chickadee,0.7565,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+441.0,444.0,Setophaga pinus,Pine Warbler,0.6617,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+486.0,489.0,Poecile carolinensis,Carolina Chickadee,0.9227,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+489.0,492.0,Poecile carolinensis,Carolina Chickadee,0.3048,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+504.0,507.0,Melanerpes carolinus,Red-bellied Woodpecker,0.5983,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+510.0,513.0,Setophaga pinus,Pine Warbler,0.8786,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+519.0,522.0,Corvus brachyrhynchos,American Crow,0.2716,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+564.0,567.0,Engine,Engine,0.4265,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+570.0,573.0,Engine,Engine,0.5939,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+573.0,576.0,Engine,Engine,0.3040,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+576.0,579.0,Engine,Engine,0.6763,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+597.0,600.0,Setophaga pinus,Pine Warbler,0.3644,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+612.0,615.0,Engine,Engine,0.4776,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+618.0,621.0,Engine,Engine,0.3236,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+621.0,624.0,Engine,Engine,0.9091,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+639.0,642.0,Setophaga pinus,Pine Warbler,0.5638,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+648.0,651.0,Setophaga pinus,Pine Warbler,0.2827,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+657.0,660.0,Setophaga pinus,Pine Warbler,0.3136,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+675.0,678.0,Setophaga pinus,Pine Warbler,0.2928,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+693.0,696.0,Meleagris gallopavo,Wild Turkey,0.4810,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+702.0,705.0,Zenaida macroura,Mourning Dove,0.6337,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+705.0,708.0,Zenaida macroura,Mourning Dove,0.3075,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+714.0,717.0,Corvus brachyrhynchos,American Crow,0.6720,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+717.0,720.0,Baeolophus bicolor,Tufted Titmouse,0.3888,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+717.0,720.0,Zenaida macroura,Mourning Dove,0.3542,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+726.0,729.0,Baeolophus bicolor,Tufted Titmouse,0.2941,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+729.0,732.0,Dryocopus pileatus,Pileated Woodpecker,0.6998,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+732.0,735.0,Zenaida macroura,Mourning Dove,0.8681,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+735.0,738.0,Zenaida macroura,Mourning Dove,0.4021,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+750.0,753.0,Baeolophus bicolor,Tufted Titmouse,0.3937,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+753.0,756.0,Zenaida macroura,Mourning Dove,0.5649,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+756.0,759.0,Zenaida macroura,Mourning Dove,0.6037,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+792.0,795.0,Sialia sialis,Eastern Bluebird,0.9701,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+828.0,831.0,Colaptes auratus,Northern Flicker,0.5227,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+831.0,834.0,Colaptes auratus,Northern Flicker,0.5532,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+834.0,837.0,Setophaga pinus,Pine Warbler,0.4731,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+849.0,852.0,Zenaida macroura,Mourning Dove,0.2633,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+858.0,861.0,Setophaga pinus,Pine Warbler,0.3062,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+876.0,879.0,Setophaga pinus,Pine Warbler,0.6346,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+879.0,882.0,Setophaga pinus,Pine Warbler,0.2690,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+891.0,894.0,Colaptes auratus,Northern Flicker,0.2536,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+951.0,954.0,Zenaida macroura,Mourning Dove,0.4612,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+957.0,960.0,Sialia sialis,Eastern Bluebird,0.7312,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1029.0,1032.0,Setophaga pinus,Pine Warbler,0.8531,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1041.0,1044.0,Setophaga pinus,Pine Warbler,0.9425,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1044.0,1047.0,Setophaga pinus,Pine Warbler,0.8215,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1050.0,1053.0,Setophaga pinus,Pine Warbler,0.2589,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1053.0,1056.0,Zenaida macroura,Mourning Dove,0.7421,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1053.0,1056.0,Setophaga pinus,Pine Warbler,0.4213,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1056.0,1059.0,Zenaida macroura,Mourning Dove,0.6900,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1056.0,1059.0,Setophaga pinus,Pine Warbler,0.5420,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1068.0,1071.0,Setophaga pinus,Pine Warbler,0.8343,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1071.0,1074.0,Zenaida macroura,Mourning Dove,0.4896,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1074.0,1077.0,Setophaga pinus,Pine Warbler,0.2846,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1080.0,1083.0,Setophaga pinus,Pine Warbler,0.4787,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1083.0,1086.0,Setophaga pinus,Pine Warbler,0.8083,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1086.0,1089.0,Zenaida macroura,Mourning Dove,0.3971,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1089.0,1092.0,Zenaida macroura,Mourning Dove,0.5430,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1089.0,1092.0,Setophaga pinus,Pine Warbler,0.3520,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1098.0,1101.0,Setophaga pinus,Pine Warbler,0.6754,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1101.0,1104.0,Zenaida macroura,Mourning Dove,0.6670,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1104.0,1107.0,Setophaga pinus,Pine Warbler,0.4858,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1104.0,1107.0,Zenaida macroura,Mourning Dove,0.4437,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1110.0,1113.0,Setophaga pinus,Pine Warbler,0.9159,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1113.0,1116.0,Strix varia,Barred Owl,0.2906,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1116.0,1119.0,Setophaga pinus,Pine Warbler,0.5106,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1116.0,1119.0,Zenaida macroura,Mourning Dove,0.3869,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1125.0,1128.0,Corvus brachyrhynchos,American Crow,0.6505,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1128.0,1131.0,Setophaga pinus,Pine Warbler,0.8002,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1131.0,1134.0,Setophaga pinus,Pine Warbler,0.2519,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1134.0,1137.0,Strix varia,Barred Owl,0.4360,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1137.0,1140.0,Zenaida macroura,Mourning Dove,0.6614,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1140.0,1143.0,Setophaga pinus,Pine Warbler,0.4138,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1149.0,1152.0,Setophaga pinus,Pine Warbler,0.8085,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1155.0,1158.0,Setophaga pinus,Pine Warbler,0.9149,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1164.0,1167.0,Setophaga pinus,Pine Warbler,0.8049,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1170.0,1173.0,Setophaga pinus,Pine Warbler,0.8309,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1176.0,1179.0,Zenaida macroura,Mourning Dove,0.3644,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1179.0,1182.0,Setophaga pinus,Pine Warbler,0.7514,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1182.0,1185.0,Setophaga pinus,Pine Warbler,0.7949,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1188.0,1191.0,Baeolophus bicolor,Tufted Titmouse,0.2557,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1206.0,1209.0,Setophaga pinus,Pine Warbler,0.7473,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1215.0,1218.0,Setophaga pinus,Pine Warbler,0.5922,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1230.0,1233.0,Setophaga pinus,Pine Warbler,0.6905,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1242.0,1245.0,Corvus brachyrhynchos,American Crow,0.8203,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1257.0,1260.0,Setophaga pinus,Pine Warbler,0.7193,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1281.0,1284.0,Corvus ossifragus,Fish Crow,0.6348,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1287.0,1290.0,Corvus ossifragus,Fish Crow,0.3580,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1311.0,1314.0,Meleagris gallopavo,Wild Turkey,0.3846,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1314.0,1317.0,Meleagris gallopavo,Wild Turkey,0.3335,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1338.0,1341.0,Sialia sialis,Eastern Bluebird,0.4634,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1365.0,1368.0,Charadrius vociferus,Killdeer,0.4745,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1377.0,1380.0,Charadrius vociferus,Killdeer,0.7096,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1380.0,1383.0,Charadrius vociferus,Killdeer,0.3456,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1383.0,1386.0,Charadrius vociferus,Killdeer,0.4679,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1395.0,1398.0,Charadrius vociferus,Killdeer,0.8985,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1398.0,1401.0,Charadrius vociferus,Killdeer,0.9438,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1401.0,1404.0,Charadrius vociferus,Killdeer,0.9351,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1404.0,1407.0,Charadrius vociferus,Killdeer,0.9347,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1410.0,1413.0,Charadrius vociferus,Killdeer,0.9325,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1425.0,1428.0,Charadrius vociferus,Killdeer,0.8864,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1428.0,1431.0,Charadrius vociferus,Killdeer,0.2523,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1434.0,1437.0,Dryocopus pileatus,Pileated Woodpecker,0.7306,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1434.0,1437.0,Zenaida macroura,Mourning Dove,0.5052,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1437.0,1440.0,Dryocopus pileatus,Pileated Woodpecker,0.7875,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1449.0,1452.0,Zenaida macroura,Mourning Dove,0.7524,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1461.0,1464.0,Charadrius vociferus,Killdeer,0.5403,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1464.0,1467.0,Zenaida macroura,Mourning Dove,0.2879,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1479.0,1482.0,Zenaida macroura,Mourning Dove,0.7270,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1482.0,1485.0,Zenaida macroura,Mourning Dove,0.3170,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1488.0,1491.0,Zenaida macroura,Mourning Dove,0.8969,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1494.0,1497.0,Zenaida macroura,Mourning Dove,0.9845,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1506.0,1509.0,Dryobates villosus,Hairy Woodpecker,0.3906,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1515.0,1518.0,Corvus brachyrhynchos,American Crow,0.4981,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1551.0,1554.0,Dryobates villosus,Hairy Woodpecker,0.2800,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1590.0,1593.0,Zenaida macroura,Mourning Dove,0.3238,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1602.0,1605.0,Zenaida macroura,Mourning Dove,0.6592,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1605.0,1608.0,Zenaida macroura,Mourning Dove,0.9831,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1611.0,1614.0,Charadrius vociferus,Killdeer,0.8463,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1614.0,1617.0,Charadrius vociferus,Killdeer,0.9143,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1617.0,1620.0,Dryobates villosus,Hairy Woodpecker,0.3690,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1629.0,1632.0,Zenaida macroura,Mourning Dove,0.6260,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1638.0,1641.0,Zenaida macroura,Mourning Dove,0.4845,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1644.0,1647.0,Spizella pusilla,Field Sparrow,0.3560,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1656.0,1659.0,Zenaida macroura,Mourning Dove,0.6006,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1662.0,1665.0,Zenaida macroura,Mourning Dove,0.7665,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1680.0,1683.0,Zenaida macroura,Mourning Dove,0.8603,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1686.0,1689.0,Zenaida macroura,Mourning Dove,0.6067,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1704.0,1707.0,Zenaida macroura,Mourning Dove,0.3544,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1710.0,1713.0,Engine,Engine,0.4248,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1713.0,1716.0,Zenaida macroura,Mourning Dove,0.2763,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1716.0,1719.0,Corvus brachyrhynchos,American Crow,0.5573,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1719.0,1722.0,Corvus brachyrhynchos,American Crow,0.3153,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1722.0,1725.0,Zenaida macroura,Mourning Dove,0.8580,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1740.0,1743.0,Zenaida macroura,Mourning Dove,0.3790,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1761.0,1764.0,Zenaida macroura,Mourning Dove,0.9679,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1776.0,1779.0,Zenaida macroura,Mourning Dove,0.3217,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1779.0,1782.0,Zenaida macroura,Mourning Dove,0.8400,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1800.0,1803.0,Sialia sialis,Eastern Bluebird,0.6726,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1803.0,1806.0,Zenaida macroura,Mourning Dove,0.7593,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1806.0,1809.0,Zenaida macroura,Mourning Dove,0.9251,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1818.0,1821.0,Sialia sialis,Eastern Bluebird,0.9917,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1821.0,1824.0,Sialia sialis,Eastern Bluebird,0.2616,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1836.0,1839.0,Zenaida macroura,Mourning Dove,0.5573,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1848.0,1851.0,Zenaida macroura,Mourning Dove,0.9511,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1851.0,1854.0,Setophaga pinus,Pine Warbler,0.8834,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1857.0,1860.0,Corvus brachyrhynchos,American Crow,0.6185,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1860.0,1863.0,Corvus brachyrhynchos,American Crow,0.3833,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1863.0,1866.0,Zenaida macroura,Mourning Dove,0.7112,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1866.0,1869.0,Zenaida macroura,Mourning Dove,0.9587,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1881.0,1884.0,Sialia sialis,Eastern Bluebird,0.7550,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1887.0,1890.0,Colaptes auratus,Northern Flicker,0.7764,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1890.0,1893.0,Colaptes auratus,Northern Flicker,0.7221,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1896.0,1899.0,Setophaga pinus,Pine Warbler,0.3362,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1899.0,1902.0,Setophaga pinus,Pine Warbler,0.5624,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1908.0,1911.0,Engine,Engine,0.4756,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1914.0,1917.0,Setophaga pinus,Pine Warbler,0.8017,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1926.0,1929.0,Setophaga pinus,Pine Warbler,0.6214,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1926.0,1929.0,Spizella passerina,Chipping Sparrow,0.3299,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1935.0,1938.0,Setophaga pinus,Pine Warbler,0.6662,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1941.0,1944.0,Zenaida macroura,Mourning Dove,0.7860,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1944.0,1947.0,Setophaga pinus,Pine Warbler,0.7656,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1950.0,1953.0,Setophaga pinus,Pine Warbler,0.5584,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1956.0,1959.0,Setophaga pinus,Pine Warbler,0.5302,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1980.0,1983.0,Setophaga pinus,Pine Warbler,0.8531,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1989.0,1992.0,Setophaga pinus,Pine Warbler,0.7869,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+1995.0,1998.0,Setophaga pinus,Pine Warbler,0.7141,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2004.0,2007.0,Setophaga pinus,Pine Warbler,0.3085,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2010.0,2013.0,Setophaga pinus,Pine Warbler,0.3529,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2016.0,2019.0,Zenaida macroura,Mourning Dove,0.7465,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2019.0,2022.0,Setophaga pinus,Pine Warbler,0.8969,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2031.0,2034.0,Corvus brachyrhynchos,American Crow,0.4462,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2037.0,2040.0,Zenaida macroura,Mourning Dove,0.4548,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2043.0,2046.0,Setophaga pinus,Pine Warbler,0.7302,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2046.0,2049.0,Zenaida macroura,Mourning Dove,0.5410,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2049.0,2052.0,Zenaida macroura,Mourning Dove,0.9322,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2058.0,2061.0,Setophaga pinus,Pine Warbler,0.7756,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2058.0,2061.0,Zenaida macroura,Mourning Dove,0.5356,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2064.0,2067.0,Setophaga pinus,Pine Warbler,0.6139,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2067.0,2070.0,Setophaga pinus,Pine Warbler,0.5589,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2070.0,2073.0,Zenaida macroura,Mourning Dove,0.9055,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2073.0,2076.0,Setophaga pinus,Pine Warbler,0.7367,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2073.0,2076.0,Zenaida macroura,Mourning Dove,0.2534,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2079.0,2082.0,Setophaga pinus,Pine Warbler,0.6634,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2085.0,2088.0,Strix varia,Barred Owl,0.6080,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2088.0,2091.0,Zenaida macroura,Mourning Dove,0.6292,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2097.0,2100.0,Setophaga pinus,Pine Warbler,0.5829,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2100.0,2103.0,Zenaida macroura,Mourning Dove,0.4169,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2106.0,2109.0,Charadrius vociferus,Killdeer,0.7991,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2109.0,2112.0,Charadrius vociferus,Killdeer,0.9117,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2112.0,2115.0,Charadrius vociferus,Killdeer,0.9824,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2115.0,2118.0,Setophaga pinus,Pine Warbler,0.9362,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2118.0,2121.0,Setophaga pinus,Pine Warbler,0.2813,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2124.0,2127.0,Setophaga pinus,Pine Warbler,0.4993,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2133.0,2136.0,Zenaida macroura,Mourning Dove,0.2664,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2139.0,2142.0,Setophaga pinus,Pine Warbler,0.3013,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2145.0,2148.0,Setophaga pinus,Pine Warbler,0.7599,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2148.0,2151.0,Setophaga pinus,Pine Warbler,0.5112,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2154.0,2157.0,Setophaga pinus,Pine Warbler,0.6874,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2160.0,2163.0,Setophaga pinus,Pine Warbler,0.5074,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2163.0,2166.0,Setophaga pinus,Pine Warbler,0.4306,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2166.0,2169.0,Zenaida macroura,Mourning Dove,0.3890,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2169.0,2172.0,Zenaida macroura,Mourning Dove,0.8126,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2178.0,2181.0,Cardinalis cardinalis,Northern Cardinal,0.5276,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2178.0,2181.0,Colaptes auratus,Northern Flicker,0.4873,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2184.0,2187.0,Setophaga pinus,Pine Warbler,0.8853,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2184.0,2187.0,Zenaida macroura,Mourning Dove,0.6332,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2190.0,2193.0,Sialia sialis,Eastern Bluebird,0.4712,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2193.0,2196.0,Colaptes auratus,Northern Flicker,0.3751,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2205.0,2208.0,Setophaga pinus,Pine Warbler,0.7199,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2208.0,2211.0,Setophaga pinus,Pine Warbler,0.7029,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2214.0,2217.0,Colaptes auratus,Northern Flicker,0.2784,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2223.0,2226.0,Setophaga pinus,Pine Warbler,0.7940,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2235.0,2238.0,Setophaga pinus,Pine Warbler,0.8263,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2244.0,2247.0,Setophaga pinus,Pine Warbler,0.2768,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2247.0,2250.0,Sialia sialis,Eastern Bluebird,0.4346,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2256.0,2259.0,Setophaga pinus,Pine Warbler,0.5191,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2256.0,2259.0,Sialia sialis,Eastern Bluebird,0.4657,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2259.0,2262.0,Setophaga pinus,Pine Warbler,0.3706,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2262.0,2265.0,Sialia sialis,Eastern Bluebird,0.8151,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2265.0,2268.0,Sialia sialis,Eastern Bluebird,0.9207,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2268.0,2271.0,Sialia sialis,Eastern Bluebird,0.9111,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2271.0,2274.0,Corvus brachyrhynchos,American Crow,0.8299,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2274.0,2277.0,Corvus brachyrhynchos,American Crow,0.6049,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2280.0,2283.0,Colaptes auratus,Northern Flicker,0.3028,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2286.0,2289.0,Charadrius vociferus,Killdeer,0.6480,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2292.0,2295.0,Sialia sialis,Eastern Bluebird,0.7742,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2310.0,2313.0,Colaptes auratus,Northern Flicker,0.6950,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2313.0,2316.0,Charadrius vociferus,Killdeer,0.9478,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2316.0,2319.0,Charadrius vociferus,Killdeer,0.8188,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2325.0,2328.0,Colaptes auratus,Northern Flicker,0.4286,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2328.0,2331.0,Charadrius vociferus,Killdeer,0.2936,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2334.0,2337.0,Charadrius vociferus,Killdeer,0.7926,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2337.0,2340.0,Engine,Engine,0.4840,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2346.0,2349.0,Charadrius vociferus,Killdeer,0.7113,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2349.0,2352.0,Charadrius vociferus,Killdeer,0.9026,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2352.0,2355.0,Charadrius vociferus,Killdeer,0.7538,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2367.0,2370.0,Setophaga pinus,Pine Warbler,0.6151,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2373.0,2376.0,Charadrius vociferus,Killdeer,0.4642,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2382.0,2385.0,Charadrius vociferus,Killdeer,0.7090,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2385.0,2388.0,Colaptes auratus,Northern Flicker,0.3496,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2388.0,2391.0,Colaptes auratus,Northern Flicker,0.8530,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2394.0,2397.0,Charadrius vociferus,Killdeer,0.9314,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2400.0,2403.0,Setophaga pinus,Pine Warbler,0.3685,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2409.0,2412.0,Charadrius vociferus,Killdeer,0.7785,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2418.0,2421.0,Charadrius vociferus,Killdeer,0.7528,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2424.0,2427.0,Colaptes auratus,Northern Flicker,0.4694,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2436.0,2439.0,Zenaida macroura,Mourning Dove,0.4230,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2454.0,2457.0,Charadrius vociferus,Killdeer,0.9150,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2457.0,2460.0,Charadrius vociferus,Killdeer,0.5943,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2460.0,2463.0,Charadrius vociferus,Killdeer,0.9347,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2463.0,2466.0,Charadrius vociferus,Killdeer,0.5514,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2466.0,2469.0,Charadrius vociferus,Killdeer,0.6488,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2469.0,2472.0,Charadrius vociferus,Killdeer,0.4049,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2472.0,2475.0,Charadrius vociferus,Killdeer,0.4631,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2505.0,2508.0,Zenaida macroura,Mourning Dove,0.5268,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2511.0,2514.0,Zenaida macroura,Mourning Dove,0.3493,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2514.0,2517.0,Zenaida macroura,Mourning Dove,0.9086,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2520.0,2523.0,Zenaida macroura,Mourning Dove,0.3446,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2526.0,2529.0,Zenaida macroura,Mourning Dove,0.9705,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2535.0,2538.0,Charadrius vociferus,Killdeer,0.6915,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2538.0,2541.0,Charadrius vociferus,Killdeer,0.9390,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2541.0,2544.0,Charadrius vociferus,Killdeer,0.9214,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2544.0,2547.0,Charadrius vociferus,Killdeer,0.9811,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2547.0,2550.0,Charadrius vociferus,Killdeer,0.9800,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2550.0,2553.0,Charadrius vociferus,Killdeer,0.9796,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2553.0,2556.0,Charadrius vociferus,Killdeer,0.9806,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2556.0,2559.0,Charadrius vociferus,Killdeer,0.8752,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2559.0,2562.0,Charadrius vociferus,Killdeer,0.5302,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2562.0,2565.0,Charadrius vociferus,Killdeer,0.2644,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2568.0,2571.0,Charadrius vociferus,Killdeer,0.9498,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2571.0,2574.0,Charadrius vociferus,Killdeer,0.6002,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2577.0,2580.0,Zenaida macroura,Mourning Dove,0.2775,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2580.0,2583.0,Setophaga pinus,Pine Warbler,0.9816,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2583.0,2586.0,Setophaga pinus,Pine Warbler,0.8219,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2586.0,2589.0,Zenaida macroura,Mourning Dove,0.8982,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2586.0,2589.0,Colaptes auratus,Northern Flicker,0.4478,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2589.0,2592.0,Colaptes auratus,Northern Flicker,0.7571,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2589.0,2592.0,Zenaida macroura,Mourning Dove,0.2705,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2592.0,2595.0,Setophaga pinus,Pine Warbler,0.9713,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2595.0,2598.0,Setophaga pinus,Pine Warbler,0.8496,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2595.0,2598.0,Zenaida macroura,Mourning Dove,0.2585,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2601.0,2604.0,Zenaida macroura,Mourning Dove,0.9767,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2604.0,2607.0,Zenaida macroura,Mourning Dove,0.5923,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2607.0,2610.0,Setophaga pinus,Pine Warbler,0.9429,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2619.0,2622.0,Zenaida macroura,Mourning Dove,0.5808,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2622.0,2625.0,Corvus brachyrhynchos,American Crow,0.3650,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2634.0,2637.0,Setophaga pinus,Pine Warbler,0.8029,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2637.0,2640.0,Corvus brachyrhynchos,American Crow,0.2786,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2643.0,2646.0,Setophaga pinus,Pine Warbler,0.3670,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2646.0,2649.0,Zenaida macroura,Mourning Dove,0.8761,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2655.0,2658.0,Setophaga pinus,Pine Warbler,0.5665,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2661.0,2664.0,Zenaida macroura,Mourning Dove,0.9660,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2664.0,2667.0,Setophaga pinus,Pine Warbler,0.8060,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2676.0,2679.0,Setophaga pinus,Pine Warbler,0.5852,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2679.0,2682.0,Zenaida macroura,Mourning Dove,0.5863,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2679.0,2682.0,Setophaga pinus,Pine Warbler,0.5186,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2682.0,2685.0,Corvus brachyrhynchos,American Crow,0.3219,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2694.0,2697.0,Zenaida macroura,Mourning Dove,0.7617,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2694.0,2697.0,Engine,Engine,0.3100,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2697.0,2700.0,Corvus brachyrhynchos,American Crow,0.4857,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2697.0,2700.0,Zenaida macroura,Mourning Dove,0.3570,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2700.0,2703.0,Setophaga pinus,Pine Warbler,0.4428,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2709.0,2712.0,Corvus brachyrhynchos,American Crow,0.4491,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2709.0,2712.0,Setophaga pinus,Pine Warbler,0.4392,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2715.0,2718.0,Zenaida macroura,Mourning Dove,0.3283,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2718.0,2721.0,Corvus brachyrhynchos,American Crow,0.3009,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2730.0,2733.0,Setophaga pinus,Pine Warbler,0.9353,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2733.0,2736.0,Zenaida macroura,Mourning Dove,0.8447,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2736.0,2739.0,Zenaida macroura,Mourning Dove,0.4665,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2760.0,2763.0,Setophaga pinus,Pine Warbler,0.3868,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2772.0,2775.0,Thryothorus ludovicianus,Carolina Wren,0.3762,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2775.0,2778.0,Setophaga pinus,Pine Warbler,0.3925,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2787.0,2790.0,Setophaga pinus,Pine Warbler,0.6069,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2802.0,2805.0,Spizella pusilla,Field Sparrow,0.6400,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2817.0,2820.0,Spizella pusilla,Field Sparrow,0.3082,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2820.0,2823.0,Zenaida macroura,Mourning Dove,0.3330,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2835.0,2838.0,Zenaida macroura,Mourning Dove,0.5333,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2838.0,2841.0,Zenaida macroura,Mourning Dove,0.4522,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2850.0,2853.0,Dryobates villosus,Hairy Woodpecker,0.5892,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2868.0,2871.0,Setophaga pinus,Pine Warbler,0.3032,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2868.0,2871.0,Spizella passerina,Chipping Sparrow,0.2598,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2880.0,2883.0,Spizella pusilla,Field Sparrow,0.7807,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2892.0,2895.0,Dryobates villosus,Hairy Woodpecker,0.4021,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2895.0,2898.0,Dryobates villosus,Hairy Woodpecker,0.8947,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2904.0,2907.0,Zenaida macroura,Mourning Dove,0.3575,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2919.0,2922.0,Zenaida macroura,Mourning Dove,0.6089,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2922.0,2925.0,Corvus brachyrhynchos,American Crow,0.6041,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2925.0,2928.0,Corvus brachyrhynchos,American Crow,0.7569,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2937.0,2940.0,Zenaida macroura,Mourning Dove,0.3569,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2964.0,2967.0,Corvus brachyrhynchos,American Crow,0.3688,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2970.0,2973.0,Colaptes auratus,Northern Flicker,0.5118,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+2970.0,2973.0,Cardinalis cardinalis,Northern Cardinal,0.2764,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3051.0,3054.0,Zenaida macroura,Mourning Dove,0.2854,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3054.0,3057.0,Colaptes auratus,Northern Flicker,0.5933,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3057.0,3060.0,Cardinalis cardinalis,Northern Cardinal,0.6462,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3057.0,3060.0,Colaptes auratus,Northern Flicker,0.4911,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3075.0,3078.0,Engine,Engine,0.2733,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3090.0,3093.0,Engine,Engine,0.4695,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3093.0,3096.0,Colaptes auratus,Northern Flicker,0.9194,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3099.0,3102.0,Zenaida macroura,Mourning Dove,0.4691,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3105.0,3108.0,Zenaida macroura,Mourning Dove,0.2889,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3108.0,3111.0,Zenaida macroura,Mourning Dove,0.3244,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3111.0,3114.0,Colaptes auratus,Northern Flicker,0.7593,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3111.0,3114.0,Engine,Engine,0.2904,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3114.0,3117.0,Engine,Engine,0.3569,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3120.0,3123.0,Sialia sialis,Eastern Bluebird,0.6249,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3132.0,3135.0,Engine,Engine,0.7894,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3138.0,3141.0,Sialia sialis,Eastern Bluebird,0.3583,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3150.0,3153.0,Sialia sialis,Eastern Bluebird,0.7321,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3168.0,3171.0,Turdus migratorius,American Robin,0.3406,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3192.0,3195.0,Sialia sialis,Eastern Bluebird,0.3362,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3207.0,3210.0,Sialia sialis,Eastern Bluebird,0.6249,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3210.0,3213.0,Sialia sialis,Eastern Bluebird,0.9921,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3222.0,3225.0,Sialia sialis,Eastern Bluebird,0.9943,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3234.0,3237.0,Turdus migratorius,American Robin,0.2689,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3240.0,3243.0,Turdus migratorius,American Robin,0.2926,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3252.0,3255.0,Engine,Engine,0.6496,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3255.0,3258.0,Turdus migratorius,American Robin,0.3373,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3261.0,3264.0,Engine,Engine,0.4689,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3264.0,3267.0,Engine,Engine,0.4863,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3267.0,3270.0,Engine,Engine,0.6959,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3270.0,3273.0,Engine,Engine,0.6281,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3273.0,3276.0,Engine,Engine,0.6426,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3294.0,3297.0,Setophaga pinus,Pine Warbler,0.7258,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3297.0,3300.0,Setophaga pinus,Pine Warbler,0.5337,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3306.0,3309.0,Setophaga pinus,Pine Warbler,0.5389,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3315.0,3318.0,Setophaga pinus,Pine Warbler,0.5935,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3318.0,3321.0,Setophaga pinus,Pine Warbler,0.5531,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3336.0,3339.0,Colaptes auratus,Northern Flicker,0.6750,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3336.0,3339.0,Cardinalis cardinalis,Northern Cardinal,0.2957,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3354.0,3357.0,Colaptes auratus,Northern Flicker,0.7605,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3357.0,3360.0,Colaptes auratus,Northern Flicker,0.6364,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3375.0,3378.0,Dryocopus pileatus,Pileated Woodpecker,0.4147,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3396.0,3399.0,Setophaga pinus,Pine Warbler,0.6424,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3465.0,3468.0,Dryocopus pileatus,Pileated Woodpecker,0.9059,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3468.0,3471.0,Dryocopus pileatus,Pileated Woodpecker,0.7091,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3471.0,3474.0,Colaptes auratus,Northern Flicker,0.8114,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3471.0,3474.0,Cardinalis cardinalis,Northern Cardinal,0.3273,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3474.0,3477.0,Colaptes auratus,Northern Flicker,0.7218,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3495.0,3498.0,Dryocopus pileatus,Pileated Woodpecker,0.9773,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3498.0,3501.0,Dryocopus pileatus,Pileated Woodpecker,0.6430,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3507.0,3510.0,Zenaida macroura,Mourning Dove,0.4367,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3513.0,3516.0,Setophaga pinus,Pine Warbler,0.7229,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3528.0,3531.0,Colaptes auratus,Northern Flicker,0.8174,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav
+3531.0,3534.0,Colaptes auratus,Northern Flicker,0.6954,D:\Bird_Anuran_ARUs\RE05\SMM2-21_20260309_164102.wav

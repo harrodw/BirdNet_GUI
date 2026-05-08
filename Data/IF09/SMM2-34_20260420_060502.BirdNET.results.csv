@@ -1,0 +1,532 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+0.0,3.0,Setophaga dominica,Yellow-throated Warbler,0.4382,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3.0,6.0,Seiurus aurocapilla,Ovenbird,0.6845,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+15.0,18.0,Setophaga dominica,Yellow-throated Warbler,0.4961,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+21.0,24.0,Setophaga dominica,Yellow-throated Warbler,0.5344,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+30.0,33.0,Seiurus aurocapilla,Ovenbird,0.8039,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+48.0,51.0,Seiurus aurocapilla,Ovenbird,0.7864,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+84.0,87.0,Seiurus aurocapilla,Ovenbird,0.8354,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+84.0,87.0,Cardinalis cardinalis,Northern Cardinal,0.3724,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+105.0,108.0,Seiurus aurocapilla,Ovenbird,0.7865,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+111.0,114.0,Cardinalis cardinalis,Northern Cardinal,0.2686,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+123.0,126.0,Molothrus ater,Brown-headed Cowbird,0.4692,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+129.0,132.0,Poecile carolinensis,Carolina Chickadee,0.2669,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+132.0,135.0,Seiurus aurocapilla,Ovenbird,0.3237,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+150.0,153.0,Cardinalis cardinalis,Northern Cardinal,0.3922,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+162.0,165.0,Poecile carolinensis,Carolina Chickadee,0.2815,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+168.0,171.0,Seiurus aurocapilla,Ovenbird,0.3605,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+171.0,174.0,Corvus brachyrhynchos,American Crow,0.2799,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+174.0,177.0,Setophaga pinus,Pine Warbler,0.4259,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+180.0,183.0,Molothrus ater,Brown-headed Cowbird,0.8908,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+186.0,189.0,Molothrus ater,Brown-headed Cowbird,0.6315,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+189.0,192.0,Cardinalis cardinalis,Northern Cardinal,0.3332,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+207.0,210.0,Molothrus ater,Brown-headed Cowbird,0.4670,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+210.0,213.0,Poecile carolinensis,Carolina Chickadee,0.5361,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+210.0,213.0,Corvus brachyrhynchos,American Crow,0.5139,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+216.0,219.0,Molothrus ater,Brown-headed Cowbird,0.4050,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+219.0,222.0,Poecile carolinensis,Carolina Chickadee,0.3398,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+222.0,225.0,Molothrus ater,Brown-headed Cowbird,0.3573,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+228.0,231.0,Seiurus aurocapilla,Ovenbird,0.4869,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+234.0,237.0,Poecile carolinensis,Carolina Chickadee,0.5087,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+237.0,240.0,Molothrus ater,Brown-headed Cowbird,0.4663,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+240.0,243.0,Molothrus ater,Brown-headed Cowbird,0.2889,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+243.0,246.0,Molothrus ater,Brown-headed Cowbird,0.6502,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+249.0,252.0,Poecile carolinensis,Carolina Chickadee,0.5778,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+255.0,258.0,Seiurus aurocapilla,Ovenbird,0.7797,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+258.0,261.0,Cardinalis cardinalis,Northern Cardinal,0.3316,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+261.0,264.0,Molothrus ater,Brown-headed Cowbird,0.8800,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+279.0,282.0,Seiurus aurocapilla,Ovenbird,0.4338,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+288.0,291.0,Molothrus ater,Brown-headed Cowbird,0.4591,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+291.0,294.0,Molothrus ater,Brown-headed Cowbird,0.7429,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+294.0,297.0,Seiurus aurocapilla,Ovenbird,0.5601,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+297.0,300.0,Seiurus aurocapilla,Ovenbird,0.6565,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+303.0,306.0,Molothrus ater,Brown-headed Cowbird,0.5889,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+315.0,318.0,Seiurus aurocapilla,Ovenbird,0.5670,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+318.0,321.0,Seiurus aurocapilla,Ovenbird,0.8090,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+324.0,327.0,Seiurus aurocapilla,Ovenbird,0.3450,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+327.0,330.0,Colaptes auratus,Northern Flicker,0.2597,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+330.0,333.0,Corvus brachyrhynchos,American Crow,0.3469,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+333.0,336.0,Corvus brachyrhynchos,American Crow,0.8374,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+333.0,336.0,Cardinalis cardinalis,Northern Cardinal,0.4085,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+339.0,342.0,Seiurus aurocapilla,Ovenbird,0.4132,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+342.0,345.0,Seiurus aurocapilla,Ovenbird,0.7190,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+345.0,348.0,Seiurus aurocapilla,Ovenbird,0.6164,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+360.0,363.0,Seiurus aurocapilla,Ovenbird,0.7365,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+363.0,366.0,Seiurus aurocapilla,Ovenbird,0.7667,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+366.0,369.0,Seiurus aurocapilla,Ovenbird,0.7159,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+366.0,369.0,Corvus brachyrhynchos,American Crow,0.3959,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+369.0,372.0,Corvus brachyrhynchos,American Crow,0.7666,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+369.0,372.0,Seiurus aurocapilla,Ovenbird,0.7011,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+381.0,384.0,Seiurus aurocapilla,Ovenbird,0.5488,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+384.0,387.0,Seiurus aurocapilla,Ovenbird,0.7219,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+399.0,402.0,Seiurus aurocapilla,Ovenbird,0.4489,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+402.0,405.0,Seiurus aurocapilla,Ovenbird,0.9296,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+417.0,420.0,Setophaga pinus,Pine Warbler,0.2597,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+420.0,423.0,Seiurus aurocapilla,Ovenbird,0.8346,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+423.0,426.0,Seiurus aurocapilla,Ovenbird,0.8460,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+435.0,438.0,Cardinalis cardinalis,Northern Cardinal,0.3877,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+438.0,441.0,Seiurus aurocapilla,Ovenbird,0.8610,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+441.0,444.0,Seiurus aurocapilla,Ovenbird,0.7589,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+444.0,447.0,Cardinalis cardinalis,Northern Cardinal,0.2862,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+447.0,450.0,Cardinalis cardinalis,Northern Cardinal,0.3378,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+459.0,462.0,Seiurus aurocapilla,Ovenbird,0.8028,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+465.0,468.0,Cardinalis cardinalis,Northern Cardinal,0.4326,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+477.0,480.0,Seiurus aurocapilla,Ovenbird,0.5469,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+480.0,483.0,Seiurus aurocapilla,Ovenbird,0.6507,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+483.0,486.0,Seiurus aurocapilla,Ovenbird,0.3517,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+489.0,492.0,Cardinalis cardinalis,Northern Cardinal,0.3403,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+495.0,498.0,Seiurus aurocapilla,Ovenbird,0.7729,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+504.0,507.0,Seiurus aurocapilla,Ovenbird,0.3758,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+519.0,522.0,Seiurus aurocapilla,Ovenbird,0.3850,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+528.0,531.0,Seiurus aurocapilla,Ovenbird,0.2672,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+540.0,543.0,Seiurus aurocapilla,Ovenbird,0.5323,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+543.0,546.0,Seiurus aurocapilla,Ovenbird,0.5946,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+546.0,549.0,Corvus brachyrhynchos,American Crow,0.2705,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+552.0,555.0,Seiurus aurocapilla,Ovenbird,0.3915,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+561.0,564.0,Seiurus aurocapilla,Ovenbird,0.6439,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+567.0,570.0,Corvus brachyrhynchos,American Crow,0.3585,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+573.0,576.0,Seiurus aurocapilla,Ovenbird,0.7158,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+573.0,576.0,Corvus brachyrhynchos,American Crow,0.3344,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+576.0,579.0,Corvus brachyrhynchos,American Crow,0.5458,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+582.0,585.0,Seiurus aurocapilla,Ovenbird,0.9320,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+582.0,585.0,Corvus brachyrhynchos,American Crow,0.7169,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+585.0,588.0,Corvus brachyrhynchos,American Crow,0.3920,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+591.0,594.0,Corvus brachyrhynchos,American Crow,0.3828,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+594.0,597.0,Seiurus aurocapilla,Ovenbird,0.4483,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+594.0,597.0,Corvus brachyrhynchos,American Crow,0.3035,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+603.0,606.0,Seiurus aurocapilla,Ovenbird,0.9127,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+612.0,615.0,Corvus brachyrhynchos,American Crow,0.5657,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+615.0,618.0,Corvus brachyrhynchos,American Crow,0.6755,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+618.0,621.0,Corvus brachyrhynchos,American Crow,0.5823,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+621.0,624.0,Seiurus aurocapilla,Ovenbird,0.9811,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+621.0,624.0,Corvus brachyrhynchos,American Crow,0.9105,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+624.0,627.0,Corvus brachyrhynchos,American Crow,0.2895,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+633.0,636.0,Corvus brachyrhynchos,American Crow,0.2717,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+639.0,642.0,Corvus brachyrhynchos,American Crow,0.3331,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+642.0,645.0,Seiurus aurocapilla,Ovenbird,0.9892,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+642.0,645.0,Corvus brachyrhynchos,American Crow,0.8336,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+645.0,648.0,Seiurus aurocapilla,Ovenbird,0.3717,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+648.0,651.0,Corvus brachyrhynchos,American Crow,0.4174,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+651.0,654.0,Corvus brachyrhynchos,American Crow,0.6165,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+660.0,663.0,Seiurus aurocapilla,Ovenbird,0.2794,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+663.0,666.0,Seiurus aurocapilla,Ovenbird,0.3207,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+666.0,669.0,Baeolophus bicolor,Tufted Titmouse,0.6119,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+672.0,675.0,Corvus brachyrhynchos,American Crow,0.5186,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+675.0,678.0,Baeolophus bicolor,Tufted Titmouse,0.2940,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+678.0,681.0,Seiurus aurocapilla,Ovenbird,0.6538,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+684.0,687.0,Molothrus ater,Brown-headed Cowbird,0.7364,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+690.0,693.0,Molothrus ater,Brown-headed Cowbird,0.5677,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+690.0,693.0,Corvus brachyrhynchos,American Crow,0.2666,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+693.0,696.0,Molothrus ater,Brown-headed Cowbird,0.4580,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+696.0,699.0,Seiurus aurocapilla,Ovenbird,0.8012,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+696.0,699.0,Corvus brachyrhynchos,American Crow,0.2792,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+705.0,708.0,Baeolophus bicolor,Tufted Titmouse,0.3875,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+708.0,711.0,Corvus brachyrhynchos,American Crow,0.3332,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+714.0,717.0,Seiurus aurocapilla,Ovenbird,0.9332,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+717.0,720.0,Corvus brachyrhynchos,American Crow,0.4817,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+720.0,723.0,Corvus brachyrhynchos,American Crow,0.9819,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+720.0,723.0,Baeolophus bicolor,Tufted Titmouse,0.5276,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+726.0,729.0,Baeolophus bicolor,Tufted Titmouse,0.3346,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+726.0,729.0,Corvus brachyrhynchos,American Crow,0.2798,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+735.0,738.0,Seiurus aurocapilla,Ovenbird,0.9429,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+735.0,738.0,Corvus brachyrhynchos,American Crow,0.6958,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+735.0,738.0,Baeolophus bicolor,Tufted Titmouse,0.5398,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+738.0,741.0,Corvus brachyrhynchos,American Crow,0.7200,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+744.0,747.0,Corvus brachyrhynchos,American Crow,0.6136,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+750.0,753.0,Corvus brachyrhynchos,American Crow,0.5379,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+753.0,756.0,Seiurus aurocapilla,Ovenbird,0.8742,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+753.0,756.0,Corvus brachyrhynchos,American Crow,0.4127,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+759.0,762.0,Corvus brachyrhynchos,American Crow,0.9430,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+762.0,765.0,Corvus brachyrhynchos,American Crow,0.6530,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+768.0,771.0,Baeolophus bicolor,Tufted Titmouse,0.2953,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+771.0,774.0,Seiurus aurocapilla,Ovenbird,0.8988,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+771.0,774.0,Corvus brachyrhynchos,American Crow,0.6855,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+774.0,777.0,Setophaga pinus,Pine Warbler,0.8385,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+777.0,780.0,Setophaga pinus,Pine Warbler,0.7550,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+780.0,783.0,Colaptes auratus,Northern Flicker,0.2661,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+786.0,789.0,Corvus brachyrhynchos,American Crow,0.3361,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+795.0,798.0,Corvus brachyrhynchos,American Crow,0.3367,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+801.0,804.0,Corvus brachyrhynchos,American Crow,0.3784,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+804.0,807.0,Corvus brachyrhynchos,American Crow,0.2879,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+825.0,828.0,Corvus brachyrhynchos,American Crow,0.2510,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+831.0,834.0,Corvus brachyrhynchos,American Crow,0.6990,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+834.0,837.0,Corvus brachyrhynchos,American Crow,0.8457,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+843.0,846.0,Corvus brachyrhynchos,American Crow,0.2566,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+849.0,852.0,Corvus brachyrhynchos,American Crow,0.8662,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+852.0,855.0,Corvus brachyrhynchos,American Crow,0.6922,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+852.0,855.0,Molothrus ater,Brown-headed Cowbird,0.2973,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+858.0,861.0,Corvus brachyrhynchos,American Crow,0.5265,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+861.0,864.0,Corvus brachyrhynchos,American Crow,0.4022,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+864.0,867.0,Corvus brachyrhynchos,American Crow,0.5304,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+879.0,882.0,Corvus brachyrhynchos,American Crow,0.5911,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+882.0,885.0,Corvus brachyrhynchos,American Crow,0.6807,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+885.0,888.0,Corvus brachyrhynchos,American Crow,0.4708,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+891.0,894.0,Corvus brachyrhynchos,American Crow,0.8589,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+900.0,903.0,Corvus brachyrhynchos,American Crow,0.6679,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+912.0,915.0,Setophaga pinus,Pine Warbler,0.4392,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+921.0,924.0,Corvus brachyrhynchos,American Crow,0.8694,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+924.0,927.0,Corvus brachyrhynchos,American Crow,0.3566,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+930.0,933.0,Corvus brachyrhynchos,American Crow,0.2651,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+933.0,936.0,Corvus brachyrhynchos,American Crow,0.7434,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+942.0,945.0,Corvus brachyrhynchos,American Crow,0.5471,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+945.0,948.0,Corvus brachyrhynchos,American Crow,0.4277,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+945.0,948.0,Molothrus ater,Brown-headed Cowbird,0.3846,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+948.0,951.0,Molothrus ater,Brown-headed Cowbird,0.3938,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+948.0,951.0,Corvus brachyrhynchos,American Crow,0.3172,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+954.0,957.0,Molothrus ater,Brown-headed Cowbird,0.8293,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+957.0,960.0,Molothrus ater,Brown-headed Cowbird,0.7170,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+957.0,960.0,Corvus brachyrhynchos,American Crow,0.5117,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+963.0,966.0,Corvus brachyrhynchos,American Crow,0.6438,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+969.0,972.0,Meleagris gallopavo,Wild Turkey,0.5306,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+978.0,981.0,Corvus brachyrhynchos,American Crow,0.6754,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+984.0,987.0,Corvus brachyrhynchos,American Crow,0.2860,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+999.0,1002.0,Corvus brachyrhynchos,American Crow,0.3293,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1011.0,1014.0,Corvus brachyrhynchos,American Crow,0.3484,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1020.0,1023.0,Corvus brachyrhynchos,American Crow,0.4352,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1029.0,1032.0,Corvus brachyrhynchos,American Crow,0.5366,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1029.0,1032.0,Pipilo erythrophthalmus,Eastern Towhee,0.4626,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1032.0,1035.0,Corvus brachyrhynchos,American Crow,0.5080,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1038.0,1041.0,Corvus brachyrhynchos,American Crow,0.7074,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1041.0,1044.0,Setophaga pinus,Pine Warbler,0.5533,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1047.0,1050.0,Setophaga pinus,Pine Warbler,0.8733,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1050.0,1053.0,Setophaga pinus,Pine Warbler,0.6503,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1056.0,1059.0,Corvus brachyrhynchos,American Crow,0.7357,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1059.0,1062.0,Setophaga pinus,Pine Warbler,0.4093,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1062.0,1065.0,Setophaga pinus,Pine Warbler,0.7679,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1065.0,1068.0,Corvus brachyrhynchos,American Crow,0.3251,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1068.0,1071.0,Setophaga pinus,Pine Warbler,0.8314,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1074.0,1077.0,Corvus brachyrhynchos,American Crow,0.9266,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1074.0,1077.0,Molothrus ater,Brown-headed Cowbird,0.8050,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1083.0,1086.0,Poecile carolinensis,Carolina Chickadee,0.2541,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1086.0,1089.0,Corvus brachyrhynchos,American Crow,0.5248,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1089.0,1092.0,Corvus brachyrhynchos,American Crow,0.6341,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1092.0,1095.0,Corvus brachyrhynchos,American Crow,0.6322,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1095.0,1098.0,Seiurus aurocapilla,Ovenbird,0.5637,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1098.0,1101.0,Corvus brachyrhynchos,American Crow,0.4677,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1101.0,1104.0,Setophaga pinus,Pine Warbler,0.2994,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1104.0,1107.0,Setophaga pinus,Pine Warbler,0.7606,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1107.0,1110.0,Corvus brachyrhynchos,American Crow,0.3607,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1110.0,1113.0,Corvus brachyrhynchos,American Crow,0.3347,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1113.0,1116.0,Corvus brachyrhynchos,American Crow,0.9852,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1113.0,1116.0,Setophaga pinus,Pine Warbler,0.3396,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1116.0,1119.0,Seiurus aurocapilla,Ovenbird,0.8709,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1125.0,1128.0,Setophaga pinus,Pine Warbler,0.8017,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1128.0,1131.0,Setophaga pinus,Pine Warbler,0.3270,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1134.0,1137.0,Seiurus aurocapilla,Ovenbird,0.6314,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1137.0,1140.0,Setophaga pinus,Pine Warbler,0.8108,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1152.0,1155.0,Corvus brachyrhynchos,American Crow,0.3791,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1155.0,1158.0,Setophaga pinus,Pine Warbler,0.5934,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1158.0,1161.0,Parkesia motacilla,Louisiana Waterthrush,0.3471,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1167.0,1170.0,Setophaga pinus,Pine Warbler,0.7009,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1176.0,1179.0,Seiurus aurocapilla,Ovenbird,0.6501,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1179.0,1182.0,Setophaga pinus,Pine Warbler,0.6510,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1188.0,1191.0,Corvus brachyrhynchos,American Crow,0.2827,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1194.0,1197.0,Setophaga pinus,Pine Warbler,0.5331,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1197.0,1200.0,Setophaga pinus,Pine Warbler,0.6812,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1200.0,1203.0,Seiurus aurocapilla,Ovenbird,0.5220,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1209.0,1212.0,Molothrus ater,Brown-headed Cowbird,0.4059,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1215.0,1218.0,Setophaga pinus,Pine Warbler,0.9018,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1221.0,1224.0,Seiurus aurocapilla,Ovenbird,0.3453,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1224.0,1227.0,Setophaga pinus,Pine Warbler,0.8818,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1227.0,1230.0,Setophaga pinus,Pine Warbler,0.7450,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1236.0,1239.0,Setophaga pinus,Pine Warbler,0.9731,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1242.0,1245.0,Seiurus aurocapilla,Ovenbird,0.5659,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1245.0,1248.0,Setophaga pinus,Pine Warbler,0.8092,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1254.0,1257.0,Setophaga pinus,Pine Warbler,0.7435,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1257.0,1260.0,Setophaga pinus,Pine Warbler,0.8577,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1260.0,1263.0,Corvus brachyrhynchos,American Crow,0.3762,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1263.0,1266.0,Seiurus aurocapilla,Ovenbird,0.2540,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1269.0,1272.0,Setophaga pinus,Pine Warbler,0.9308,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1311.0,1314.0,Seiurus aurocapilla,Ovenbird,0.7375,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1311.0,1314.0,Corvus brachyrhynchos,American Crow,0.5123,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1335.0,1338.0,Seiurus aurocapilla,Ovenbird,0.6579,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1338.0,1341.0,Setophaga pinus,Pine Warbler,0.9022,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1341.0,1344.0,Setophaga pinus,Pine Warbler,0.8799,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1359.0,1362.0,Setophaga pinus,Pine Warbler,0.5349,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1362.0,1365.0,Setophaga pinus,Pine Warbler,0.9704,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1368.0,1371.0,Corvus brachyrhynchos,American Crow,0.3081,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1380.0,1383.0,Corvus brachyrhynchos,American Crow,0.2521,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1383.0,1386.0,Seiurus aurocapilla,Ovenbird,0.8348,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1392.0,1395.0,Corvus brachyrhynchos,American Crow,0.4301,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1401.0,1404.0,Corvus brachyrhynchos,American Crow,0.2791,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1404.0,1407.0,Setophaga pinus,Pine Warbler,0.3716,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1410.0,1413.0,Seiurus aurocapilla,Ovenbird,0.8726,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1416.0,1419.0,Corvus brachyrhynchos,American Crow,0.4856,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1422.0,1425.0,Setophaga pinus,Pine Warbler,0.6102,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1425.0,1428.0,Corvus brachyrhynchos,American Crow,0.2954,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1431.0,1434.0,Seiurus aurocapilla,Ovenbird,0.6899,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1434.0,1437.0,Setophaga pinus,Pine Warbler,0.6447,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1437.0,1440.0,Pipilo erythrophthalmus,Eastern Towhee,0.2820,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1437.0,1440.0,Setophaga pinus,Pine Warbler,0.2506,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1443.0,1446.0,Setophaga pinus,Pine Warbler,0.9827,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1446.0,1449.0,Seiurus aurocapilla,Ovenbird,0.2713,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1449.0,1452.0,Setophaga pinus,Pine Warbler,0.8790,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1455.0,1458.0,Seiurus aurocapilla,Ovenbird,0.8934,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1458.0,1461.0,Setophaga pinus,Pine Warbler,0.5080,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1461.0,1464.0,Corvus brachyrhynchos,American Crow,0.5056,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1470.0,1473.0,Setophaga pinus,Pine Warbler,0.5965,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1476.0,1479.0,Setophaga pinus,Pine Warbler,0.4864,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1476.0,1479.0,Seiurus aurocapilla,Ovenbird,0.3241,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1479.0,1482.0,Setophaga pinus,Pine Warbler,0.7877,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1482.0,1485.0,Setophaga pinus,Pine Warbler,0.5290,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1485.0,1488.0,Setophaga pinus,Pine Warbler,0.9587,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1488.0,1491.0,Setophaga pinus,Pine Warbler,0.7798,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1497.0,1500.0,Seiurus aurocapilla,Ovenbird,0.5710,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1500.0,1503.0,Seiurus aurocapilla,Ovenbird,0.2928,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1503.0,1506.0,Setophaga pinus,Pine Warbler,0.9531,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1521.0,1524.0,Seiurus aurocapilla,Ovenbird,0.5882,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1524.0,1527.0,Setophaga pinus,Pine Warbler,0.4339,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1533.0,1536.0,Setophaga pinus,Pine Warbler,0.3694,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1536.0,1539.0,Setophaga pinus,Pine Warbler,0.9416,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1539.0,1542.0,Setophaga pinus,Pine Warbler,0.8373,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1542.0,1545.0,Setophaga pinus,Pine Warbler,0.4622,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1548.0,1551.0,Setophaga pinus,Pine Warbler,0.4623,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1551.0,1554.0,Seiurus aurocapilla,Ovenbird,0.3163,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1569.0,1572.0,Seiurus aurocapilla,Ovenbird,0.3850,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1572.0,1575.0,Setophaga pinus,Pine Warbler,0.9595,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1575.0,1578.0,Setophaga pinus,Pine Warbler,0.9236,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1581.0,1584.0,Setophaga pinus,Pine Warbler,0.9694,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1584.0,1587.0,Setophaga pinus,Pine Warbler,0.6207,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1587.0,1590.0,Seiurus aurocapilla,Ovenbird,0.6892,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1587.0,1590.0,Corvus brachyrhynchos,American Crow,0.4004,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1590.0,1593.0,Setophaga pinus,Pine Warbler,0.9638,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1596.0,1599.0,Setophaga pinus,Pine Warbler,0.9376,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1599.0,1602.0,Setophaga pinus,Pine Warbler,0.5213,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1599.0,1602.0,Pipilo erythrophthalmus,Eastern Towhee,0.2961,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1605.0,1608.0,Setophaga pinus,Pine Warbler,0.9132,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1608.0,1611.0,Corvus brachyrhynchos,American Crow,0.2607,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1611.0,1614.0,Corvus brachyrhynchos,American Crow,0.3229,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1614.0,1617.0,Setophaga pinus,Pine Warbler,0.9532,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1617.0,1620.0,Corvus brachyrhynchos,American Crow,0.3612,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1620.0,1623.0,Seiurus aurocapilla,Ovenbird,0.5592,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1623.0,1626.0,Setophaga pinus,Pine Warbler,0.9259,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1626.0,1629.0,Setophaga pinus,Pine Warbler,0.8445,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1632.0,1635.0,Setophaga pinus,Pine Warbler,0.4304,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1635.0,1638.0,Setophaga pinus,Pine Warbler,0.9589,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1644.0,1647.0,Corvus brachyrhynchos,American Crow,0.3823,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1647.0,1650.0,Seiurus aurocapilla,Ovenbird,0.8652,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1650.0,1653.0,Seiurus aurocapilla,Ovenbird,0.5320,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1650.0,1653.0,Corvus brachyrhynchos,American Crow,0.4375,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1653.0,1656.0,Poecile carolinensis,Carolina Chickadee,0.3092,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1656.0,1659.0,Setophaga pinus,Pine Warbler,0.9429,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1659.0,1662.0,Setophaga pinus,Pine Warbler,0.9689,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1662.0,1665.0,Pipilo erythrophthalmus,Eastern Towhee,0.4054,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1662.0,1665.0,Corvus brachyrhynchos,American Crow,0.3300,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1734.0,1737.0,Cardinalis cardinalis,Northern Cardinal,0.5321,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1752.0,1755.0,Corvus brachyrhynchos,American Crow,0.8037,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1758.0,1761.0,Cardinalis cardinalis,Northern Cardinal,0.4343,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1761.0,1764.0,Seiurus aurocapilla,Ovenbird,0.2662,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1773.0,1776.0,Cardinalis cardinalis,Northern Cardinal,0.3818,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1773.0,1776.0,Melanerpes carolinus,Red-bellied Woodpecker,0.3354,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1797.0,1800.0,Seiurus aurocapilla,Ovenbird,0.4136,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1800.0,1803.0,Cardinalis cardinalis,Northern Cardinal,0.2670,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1809.0,1812.0,Cardinalis cardinalis,Northern Cardinal,0.2895,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1821.0,1824.0,Seiurus aurocapilla,Ovenbird,0.8907,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1821.0,1824.0,Cardinalis cardinalis,Northern Cardinal,0.2809,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1824.0,1827.0,Seiurus aurocapilla,Ovenbird,0.7018,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1827.0,1830.0,Cardinalis cardinalis,Northern Cardinal,0.7728,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1833.0,1836.0,Cardinalis cardinalis,Northern Cardinal,0.2701,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1839.0,1842.0,Cardinalis cardinalis,Northern Cardinal,0.2765,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1845.0,1848.0,Seiurus aurocapilla,Ovenbird,0.9144,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1845.0,1848.0,Cardinalis cardinalis,Northern Cardinal,0.2972,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1848.0,1851.0,Seiurus aurocapilla,Ovenbird,0.3534,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1866.0,1869.0,Cardinalis cardinalis,Northern Cardinal,0.3305,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1869.0,1872.0,Seiurus aurocapilla,Ovenbird,0.5277,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1869.0,1872.0,Cardinalis cardinalis,Northern Cardinal,0.4731,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1872.0,1875.0,Cardinalis cardinalis,Northern Cardinal,0.6799,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1881.0,1884.0,Cardinalis cardinalis,Northern Cardinal,0.3237,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1887.0,1890.0,Seiurus aurocapilla,Ovenbird,0.5040,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1908.0,1911.0,Seiurus aurocapilla,Ovenbird,0.4902,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1923.0,1926.0,Seiurus aurocapilla,Ovenbird,0.2836,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1938.0,1941.0,Setophaga pinus,Pine Warbler,0.3297,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1950.0,1953.0,Setophaga pinus,Pine Warbler,0.4313,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1989.0,1992.0,Setophaga pinus,Pine Warbler,0.7820,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1992.0,1995.0,Setophaga pinus,Pine Warbler,0.8385,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1995.0,1998.0,Setophaga pinus,Pine Warbler,0.6939,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+1998.0,2001.0,Cardinalis cardinalis,Northern Cardinal,0.3119,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2004.0,2007.0,Setophaga pinus,Pine Warbler,0.7126,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2007.0,2010.0,Setophaga pinus,Pine Warbler,0.7592,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2010.0,2013.0,Setophaga pinus,Pine Warbler,0.2512,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2016.0,2019.0,Setophaga pinus,Pine Warbler,0.5488,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2019.0,2022.0,Setophaga pinus,Pine Warbler,0.5932,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2022.0,2025.0,Poecile carolinensis,Carolina Chickadee,0.2598,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2025.0,2028.0,Poecile carolinensis,Carolina Chickadee,0.4714,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2028.0,2031.0,Setophaga pinus,Pine Warbler,0.3448,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2031.0,2034.0,Setophaga pinus,Pine Warbler,0.3786,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2034.0,2037.0,Poecile carolinensis,Carolina Chickadee,0.6377,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2034.0,2037.0,Setophaga pinus,Pine Warbler,0.3319,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2037.0,2040.0,Poecile carolinensis,Carolina Chickadee,0.2704,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2043.0,2046.0,Setophaga pinus,Pine Warbler,0.6995,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2046.0,2049.0,Cardinalis cardinalis,Northern Cardinal,0.3077,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2049.0,2052.0,Setophaga pinus,Pine Warbler,0.6378,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2052.0,2055.0,Setophaga pinus,Pine Warbler,0.4526,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2055.0,2058.0,Setophaga pinus,Pine Warbler,0.9709,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2058.0,2061.0,Setophaga pinus,Pine Warbler,0.7030,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2061.0,2064.0,Setophaga pinus,Pine Warbler,0.8581,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2064.0,2067.0,Cardinalis cardinalis,Northern Cardinal,0.5560,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2070.0,2073.0,Setophaga pinus,Pine Warbler,0.5885,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2073.0,2076.0,Setophaga pinus,Pine Warbler,0.4102,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2079.0,2082.0,Cardinalis cardinalis,Northern Cardinal,0.4346,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2082.0,2085.0,Cardinalis cardinalis,Northern Cardinal,0.3285,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2088.0,2091.0,Setophaga pinus,Pine Warbler,0.7479,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2091.0,2094.0,Setophaga pinus,Pine Warbler,0.3765,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2097.0,2100.0,Setophaga pinus,Pine Warbler,0.2684,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2103.0,2106.0,Setophaga pinus,Pine Warbler,0.6736,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2106.0,2109.0,Setophaga pinus,Pine Warbler,0.5038,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2124.0,2127.0,Poecile carolinensis,Carolina Chickadee,0.2982,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2130.0,2133.0,Setophaga pinus,Pine Warbler,0.4379,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2133.0,2136.0,Setophaga pinus,Pine Warbler,0.6328,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2139.0,2142.0,Setophaga pinus,Pine Warbler,0.5190,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2145.0,2148.0,Setophaga pinus,Pine Warbler,0.2971,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2148.0,2151.0,Setophaga pinus,Pine Warbler,0.3017,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2154.0,2157.0,Setophaga pinus,Pine Warbler,0.3466,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2166.0,2169.0,Setophaga pinus,Pine Warbler,0.5938,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2175.0,2178.0,Setophaga pinus,Pine Warbler,0.3582,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2181.0,2184.0,Setophaga pinus,Pine Warbler,0.2706,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2214.0,2217.0,Setophaga pinus,Pine Warbler,0.4729,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2217.0,2220.0,Setophaga pinus,Pine Warbler,0.2781,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2220.0,2223.0,Dryocopus pileatus,Pileated Woodpecker,0.3247,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2271.0,2274.0,Parkesia motacilla,Louisiana Waterthrush,0.4101,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2298.0,2301.0,Strix varia,Barred Owl,0.3616,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2304.0,2307.0,Meleagris gallopavo,Wild Turkey,0.2622,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2307.0,2310.0,Setophaga pinus,Pine Warbler,0.6828,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2310.0,2313.0,Setophaga pinus,Pine Warbler,0.2748,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2331.0,2334.0,Seiurus aurocapilla,Ovenbird,0.3645,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2388.0,2391.0,Seiurus aurocapilla,Ovenbird,0.2796,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2391.0,2394.0,Seiurus aurocapilla,Ovenbird,0.8125,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2409.0,2412.0,Corvus brachyrhynchos,American Crow,0.3088,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2418.0,2421.0,Seiurus aurocapilla,Ovenbird,0.6838,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2430.0,2433.0,Baeolophus bicolor,Tufted Titmouse,0.3522,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2436.0,2439.0,Setophaga dominica,Yellow-throated Warbler,0.4451,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2442.0,2445.0,Seiurus aurocapilla,Ovenbird,0.3706,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2445.0,2448.0,Seiurus aurocapilla,Ovenbird,0.2501,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2448.0,2451.0,Baeolophus bicolor,Tufted Titmouse,0.2581,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2451.0,2454.0,Setophaga dominica,Yellow-throated Warbler,0.6801,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2454.0,2457.0,Setophaga dominica,Yellow-throated Warbler,0.6092,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2457.0,2460.0,Setophaga dominica,Yellow-throated Warbler,0.2565,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2469.0,2472.0,Seiurus aurocapilla,Ovenbird,0.2550,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2484.0,2487.0,Corvus brachyrhynchos,American Crow,0.6120,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2508.0,2511.0,Baeolophus bicolor,Tufted Titmouse,0.4274,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2511.0,2514.0,Baeolophus bicolor,Tufted Titmouse,0.7957,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2514.0,2517.0,Baeolophus bicolor,Tufted Titmouse,0.8462,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2517.0,2520.0,Seiurus aurocapilla,Ovenbird,0.4544,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2526.0,2529.0,Corvus brachyrhynchos,American Crow,0.6629,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2529.0,2532.0,Corvus brachyrhynchos,American Crow,0.3006,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2535.0,2538.0,Setophaga pinus,Pine Warbler,0.9657,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2538.0,2541.0,Setophaga pinus,Pine Warbler,0.7973,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2550.0,2553.0,Baeolophus bicolor,Tufted Titmouse,0.2734,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2568.0,2571.0,Seiurus aurocapilla,Ovenbird,0.8206,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2571.0,2574.0,Seiurus aurocapilla,Ovenbird,0.8338,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2595.0,2598.0,Seiurus aurocapilla,Ovenbird,0.8280,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2601.0,2604.0,Molothrus ater,Brown-headed Cowbird,0.3188,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2634.0,2637.0,Corvus brachyrhynchos,American Crow,0.9287,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2637.0,2640.0,Seiurus aurocapilla,Ovenbird,0.8942,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2637.0,2640.0,Corvus brachyrhynchos,American Crow,0.8627,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2640.0,2643.0,Corvus brachyrhynchos,American Crow,0.5755,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2643.0,2646.0,Seiurus aurocapilla,Ovenbird,0.5388,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2646.0,2649.0,Corvus brachyrhynchos,American Crow,0.5370,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2658.0,2661.0,Corvus brachyrhynchos,American Crow,0.8646,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2661.0,2664.0,Seiurus aurocapilla,Ovenbird,0.7502,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2661.0,2664.0,Baeolophus bicolor,Tufted Titmouse,0.5082,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2661.0,2664.0,Corvus brachyrhynchos,American Crow,0.4397,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2664.0,2667.0,Seiurus aurocapilla,Ovenbird,0.5194,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2670.0,2673.0,Corvus brachyrhynchos,American Crow,0.8958,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2670.0,2673.0,Seiurus aurocapilla,Ovenbird,0.7453,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2670.0,2673.0,Hylocichla mustelina,Wood Thrush,0.3226,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2676.0,2679.0,Corvus brachyrhynchos,American Crow,0.4739,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2694.0,2697.0,Corvus brachyrhynchos,American Crow,0.4516,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2733.0,2736.0,Seiurus aurocapilla,Ovenbird,0.8724,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2742.0,2745.0,Baeolophus bicolor,Tufted Titmouse,0.3178,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2760.0,2763.0,Seiurus aurocapilla,Ovenbird,0.3985,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2778.0,2781.0,Seiurus aurocapilla,Ovenbird,0.3924,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2796.0,2799.0,Molothrus ater,Brown-headed Cowbird,0.5093,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2802.0,2805.0,Molothrus ater,Brown-headed Cowbird,0.4260,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2808.0,2811.0,Seiurus aurocapilla,Ovenbird,0.4169,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2817.0,2820.0,Seiurus aurocapilla,Ovenbird,0.6313,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2838.0,2841.0,Seiurus aurocapilla,Ovenbird,0.5240,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2841.0,2844.0,Seiurus aurocapilla,Ovenbird,0.2629,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2847.0,2850.0,Engine,Engine,0.2597,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2886.0,2889.0,Seiurus aurocapilla,Ovenbird,0.3020,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2895.0,2898.0,Setophaga pinus,Pine Warbler,0.7992,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2901.0,2904.0,Molothrus ater,Brown-headed Cowbird,0.3895,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2916.0,2919.0,Setophaga pinus,Pine Warbler,0.2558,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2922.0,2925.0,Setophaga pinus,Pine Warbler,0.8017,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2925.0,2928.0,Setophaga pinus,Pine Warbler,0.3688,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2931.0,2934.0,Setophaga pinus,Pine Warbler,0.6401,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2937.0,2940.0,Seiurus aurocapilla,Ovenbird,0.3468,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2940.0,2943.0,Setophaga pinus,Pine Warbler,0.6387,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2949.0,2952.0,Setophaga pinus,Pine Warbler,0.9575,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2958.0,2961.0,Setophaga pinus,Pine Warbler,0.9495,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2961.0,2964.0,Setophaga pinus,Pine Warbler,0.7842,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2964.0,2967.0,Baeolophus bicolor,Tufted Titmouse,0.7200,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2970.0,2973.0,Setophaga pinus,Pine Warbler,0.9093,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2973.0,2976.0,Setophaga pinus,Pine Warbler,0.4389,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2979.0,2982.0,Setophaga pinus,Pine Warbler,0.8014,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2985.0,2988.0,Baeolophus bicolor,Tufted Titmouse,0.3341,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2991.0,2994.0,Setophaga pinus,Pine Warbler,0.4083,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2994.0,2997.0,Setophaga pinus,Pine Warbler,0.9619,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2997.0,3000.0,Seiurus aurocapilla,Ovenbird,0.7461,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+2997.0,3000.0,Hylocichla mustelina,Wood Thrush,0.2503,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3003.0,3006.0,Setophaga pinus,Pine Warbler,0.7071,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3012.0,3015.0,Poecile carolinensis,Carolina Chickadee,0.6155,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3015.0,3018.0,Setophaga pinus,Pine Warbler,0.8705,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3027.0,3030.0,Setophaga pinus,Pine Warbler,0.3360,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3033.0,3036.0,Poecile carolinensis,Carolina Chickadee,0.5508,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3036.0,3039.0,Setophaga pinus,Pine Warbler,0.6963,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3039.0,3042.0,Poecile carolinensis,Carolina Chickadee,0.2619,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3045.0,3048.0,Seiurus aurocapilla,Ovenbird,0.3959,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3045.0,3048.0,Corvus brachyrhynchos,American Crow,0.3663,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3054.0,3057.0,Setophaga pinus,Pine Warbler,0.3973,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3057.0,3060.0,Baeolophus bicolor,Tufted Titmouse,0.3955,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3075.0,3078.0,Poecile carolinensis,Carolina Chickadee,0.6100,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3078.0,3081.0,Poecile carolinensis,Carolina Chickadee,0.2756,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3087.0,3090.0,Poecile carolinensis,Carolina Chickadee,0.4843,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3090.0,3093.0,Corvus brachyrhynchos,American Crow,0.4922,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3096.0,3099.0,Poecile carolinensis,Carolina Chickadee,0.9030,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3099.0,3102.0,Poecile carolinensis,Carolina Chickadee,0.8969,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3102.0,3105.0,Poecile carolinensis,Carolina Chickadee,0.8978,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3105.0,3108.0,Poecile carolinensis,Carolina Chickadee,0.7252,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3108.0,3111.0,Poecile carolinensis,Carolina Chickadee,0.5105,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3111.0,3114.0,Poecile carolinensis,Carolina Chickadee,0.8841,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3114.0,3117.0,Poecile carolinensis,Carolina Chickadee,0.7198,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3117.0,3120.0,Poecile carolinensis,Carolina Chickadee,0.4894,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3120.0,3123.0,Poecile carolinensis,Carolina Chickadee,0.7996,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3123.0,3126.0,Poecile carolinensis,Carolina Chickadee,0.7214,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3126.0,3129.0,Poecile carolinensis,Carolina Chickadee,0.3573,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3129.0,3132.0,Poecile carolinensis,Carolina Chickadee,0.7505,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3135.0,3138.0,Poecile carolinensis,Carolina Chickadee,0.8614,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3141.0,3144.0,Poecile carolinensis,Carolina Chickadee,0.3664,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3144.0,3147.0,Poecile carolinensis,Carolina Chickadee,0.5587,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3156.0,3159.0,Pipilo erythrophthalmus,Eastern Towhee,0.2799,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3189.0,3192.0,Poecile carolinensis,Carolina Chickadee,0.7917,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3192.0,3195.0,Cardinalis cardinalis,Northern Cardinal,0.3246,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3195.0,3198.0,Poecile carolinensis,Carolina Chickadee,0.5458,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3198.0,3201.0,Poecile carolinensis,Carolina Chickadee,0.9590,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3201.0,3204.0,Poecile carolinensis,Carolina Chickadee,0.7290,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3204.0,3207.0,Poecile carolinensis,Carolina Chickadee,0.9019,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3207.0,3210.0,Poecile carolinensis,Carolina Chickadee,0.7577,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3210.0,3213.0,Poecile carolinensis,Carolina Chickadee,0.6061,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3213.0,3216.0,Poecile carolinensis,Carolina Chickadee,0.2526,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3216.0,3219.0,Poecile carolinensis,Carolina Chickadee,0.6125,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3222.0,3225.0,Poecile carolinensis,Carolina Chickadee,0.2666,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3225.0,3228.0,Poecile carolinensis,Carolina Chickadee,0.3473,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3231.0,3234.0,Poecile carolinensis,Carolina Chickadee,0.4743,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3234.0,3237.0,Poecile carolinensis,Carolina Chickadee,0.7753,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3240.0,3243.0,Poecile carolinensis,Carolina Chickadee,0.7835,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3246.0,3249.0,Poecile carolinensis,Carolina Chickadee,0.6052,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3252.0,3255.0,Poecile carolinensis,Carolina Chickadee,0.9514,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3264.0,3267.0,Poecile carolinensis,Carolina Chickadee,0.3938,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3267.0,3270.0,Poecile carolinensis,Carolina Chickadee,0.5978,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3273.0,3276.0,Setophaga pinus,Pine Warbler,0.8827,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3318.0,3321.0,Poecile carolinensis,Carolina Chickadee,0.9731,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3324.0,3327.0,Poecile carolinensis,Carolina Chickadee,0.9457,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3330.0,3333.0,Setophaga pinus,Pine Warbler,0.2505,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3333.0,3336.0,Poecile carolinensis,Carolina Chickadee,0.9725,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3339.0,3342.0,Setophaga dominica,Yellow-throated Warbler,0.2822,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3342.0,3345.0,Poecile carolinensis,Carolina Chickadee,0.5936,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3471.0,3474.0,Dryocopus pileatus,Pileated Woodpecker,0.3364,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3519.0,3522.0,Setophaga pinus,Pine Warbler,0.4274,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3549.0,3552.0,Corvus brachyrhynchos,American Crow,0.8185,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3555.0,3558.0,Seiurus aurocapilla,Ovenbird,0.5655,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3564.0,3567.0,Setophaga dominica,Yellow-throated Warbler,0.5394,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav
+3582.0,3585.0,Seiurus aurocapilla,Ovenbird,0.2591,D:\Bird_Anuran_ARUs\IF09\SMM2-34_20260420_060502.wav

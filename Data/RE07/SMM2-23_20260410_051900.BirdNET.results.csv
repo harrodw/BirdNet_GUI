@@ -1,0 +1,545 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+0.0,3.0,Spizella passerina,Chipping Sparrow,0.2790,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3.0,6.0,Spizella passerina,Chipping Sparrow,0.3974,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+6.0,9.0,Spizella passerina,Chipping Sparrow,0.5196,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+9.0,12.0,Spizella passerina,Chipping Sparrow,0.4916,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+12.0,15.0,Spizella passerina,Chipping Sparrow,0.5009,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+15.0,18.0,Spizella passerina,Chipping Sparrow,0.4184,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+24.0,27.0,Spizella passerina,Chipping Sparrow,0.3081,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+27.0,30.0,Spizella passerina,Chipping Sparrow,0.6321,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+33.0,36.0,Spizella passerina,Chipping Sparrow,0.6444,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+36.0,39.0,Spizella passerina,Chipping Sparrow,0.4985,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+39.0,42.0,Spizella passerina,Chipping Sparrow,0.3787,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+42.0,45.0,Spizella passerina,Chipping Sparrow,0.7704,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+45.0,48.0,Spizella passerina,Chipping Sparrow,0.3427,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+51.0,54.0,Spizella passerina,Chipping Sparrow,0.3544,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+54.0,57.0,Spizella passerina,Chipping Sparrow,0.4118,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+60.0,63.0,Spizella passerina,Chipping Sparrow,0.3536,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+66.0,69.0,Setophaga pinus,Pine Warbler,0.6964,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+105.0,108.0,Setophaga pinus,Pine Warbler,0.6512,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+156.0,159.0,Cardinalis cardinalis,Northern Cardinal,0.3358,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+162.0,165.0,Setophaga pinus,Pine Warbler,0.3055,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+171.0,174.0,Setophaga pinus,Pine Warbler,0.4379,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+231.0,234.0,Spizella passerina,Chipping Sparrow,0.2574,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+234.0,237.0,Spizella passerina,Chipping Sparrow,0.3677,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+240.0,243.0,Spizella passerina,Chipping Sparrow,0.3499,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+243.0,246.0,Spizella passerina,Chipping Sparrow,0.3264,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+249.0,252.0,Spizella passerina,Chipping Sparrow,0.3796,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+252.0,255.0,Spizella passerina,Chipping Sparrow,0.3269,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+273.0,276.0,Spizella passerina,Chipping Sparrow,0.4905,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+276.0,279.0,Spizella passerina,Chipping Sparrow,0.3251,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+285.0,288.0,Spizella passerina,Chipping Sparrow,0.3221,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+288.0,291.0,Spizella passerina,Chipping Sparrow,0.4595,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+294.0,297.0,Cardinalis cardinalis,Northern Cardinal,0.4449,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+306.0,309.0,Cardinalis cardinalis,Northern Cardinal,0.3158,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+309.0,312.0,Cardinalis cardinalis,Northern Cardinal,0.4773,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+321.0,324.0,Cardinalis cardinalis,Northern Cardinal,0.3487,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+330.0,333.0,Cardinalis cardinalis,Northern Cardinal,0.3840,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+342.0,345.0,Cardinalis cardinalis,Northern Cardinal,0.5141,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+345.0,348.0,Cardinalis cardinalis,Northern Cardinal,0.6609,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+357.0,360.0,Cardinalis cardinalis,Northern Cardinal,0.2803,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+366.0,369.0,Setophaga pinus,Pine Warbler,0.5196,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+369.0,372.0,Cardinalis cardinalis,Northern Cardinal,0.3096,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+372.0,375.0,Cardinalis cardinalis,Northern Cardinal,0.6653,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+384.0,387.0,Cardinalis cardinalis,Northern Cardinal,0.3195,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+396.0,399.0,Cardinalis cardinalis,Northern Cardinal,0.5457,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+408.0,411.0,Cardinalis cardinalis,Northern Cardinal,0.3402,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+411.0,414.0,Cardinalis cardinalis,Northern Cardinal,0.2653,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+420.0,423.0,Cardinalis cardinalis,Northern Cardinal,0.6297,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+447.0,450.0,Cardinalis cardinalis,Northern Cardinal,0.5221,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+465.0,468.0,Cardinalis cardinalis,Northern Cardinal,0.4640,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+477.0,480.0,Cardinalis cardinalis,Northern Cardinal,0.2542,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+492.0,495.0,Cardinalis cardinalis,Northern Cardinal,0.3942,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+564.0,567.0,Cardinalis cardinalis,Northern Cardinal,0.3205,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+576.0,579.0,Cardinalis cardinalis,Northern Cardinal,0.3440,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+600.0,603.0,Cardinalis cardinalis,Northern Cardinal,0.6151,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+612.0,615.0,Cardinalis cardinalis,Northern Cardinal,0.3164,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+615.0,618.0,Cardinalis cardinalis,Northern Cardinal,0.2832,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+630.0,633.0,Setophaga pinus,Pine Warbler,0.2979,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+639.0,642.0,Cardinalis cardinalis,Northern Cardinal,0.3223,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+642.0,645.0,Cardinalis cardinalis,Northern Cardinal,0.8338,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+648.0,651.0,Setophaga pinus,Pine Warbler,0.2962,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+651.0,654.0,Cardinalis cardinalis,Northern Cardinal,0.4753,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+654.0,657.0,Cardinalis cardinalis,Northern Cardinal,0.8105,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+657.0,660.0,Spizella passerina,Chipping Sparrow,0.5201,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+660.0,663.0,Cardinalis cardinalis,Northern Cardinal,0.3763,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+663.0,666.0,Cardinalis cardinalis,Northern Cardinal,0.5971,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+666.0,669.0,Cardinalis cardinalis,Northern Cardinal,0.8023,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+687.0,690.0,Cardinalis cardinalis,Northern Cardinal,0.4178,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+693.0,696.0,Cardinalis cardinalis,Northern Cardinal,0.5825,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+699.0,702.0,Cardinalis cardinalis,Northern Cardinal,0.5232,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+702.0,705.0,Cardinalis cardinalis,Northern Cardinal,0.5485,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+705.0,708.0,Cardinalis cardinalis,Northern Cardinal,0.4113,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+708.0,711.0,Cardinalis cardinalis,Northern Cardinal,0.5847,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+711.0,714.0,Cardinalis cardinalis,Northern Cardinal,0.4746,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+714.0,717.0,Cardinalis cardinalis,Northern Cardinal,0.7900,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+717.0,720.0,Cardinalis cardinalis,Northern Cardinal,0.6535,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+720.0,723.0,Cardinalis cardinalis,Northern Cardinal,0.4949,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+723.0,726.0,Cardinalis cardinalis,Northern Cardinal,0.7340,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+726.0,729.0,Cardinalis cardinalis,Northern Cardinal,0.5478,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+729.0,732.0,Cardinalis cardinalis,Northern Cardinal,0.7146,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+732.0,735.0,Cardinalis cardinalis,Northern Cardinal,0.6114,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+735.0,738.0,Cardinalis cardinalis,Northern Cardinal,0.7693,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+738.0,741.0,Cardinalis cardinalis,Northern Cardinal,0.6744,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+744.0,747.0,Cardinalis cardinalis,Northern Cardinal,0.5048,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+747.0,750.0,Cardinalis cardinalis,Northern Cardinal,0.8254,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+750.0,753.0,Cardinalis cardinalis,Northern Cardinal,0.4977,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+753.0,756.0,Cardinalis cardinalis,Northern Cardinal,0.5641,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+756.0,759.0,Cardinalis cardinalis,Northern Cardinal,0.7669,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+762.0,765.0,Cardinalis cardinalis,Northern Cardinal,0.4924,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+765.0,768.0,Cardinalis cardinalis,Northern Cardinal,0.4159,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+768.0,771.0,Cardinalis cardinalis,Northern Cardinal,0.3410,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+771.0,774.0,Seiurus aurocapilla,Ovenbird,0.2585,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+774.0,777.0,Cardinalis cardinalis,Northern Cardinal,0.4943,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+783.0,786.0,Cardinalis cardinalis,Northern Cardinal,0.3235,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+789.0,792.0,Cardinalis cardinalis,Northern Cardinal,0.5763,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+792.0,795.0,Cardinalis cardinalis,Northern Cardinal,0.4143,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+795.0,798.0,Cardinalis cardinalis,Northern Cardinal,0.6097,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+798.0,801.0,Setophaga pinus,Pine Warbler,0.2748,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+807.0,810.0,Cardinalis cardinalis,Northern Cardinal,0.4357,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+810.0,813.0,Cardinalis cardinalis,Northern Cardinal,0.6431,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+816.0,819.0,Cardinalis cardinalis,Northern Cardinal,0.7790,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+822.0,825.0,Cardinalis cardinalis,Northern Cardinal,0.5061,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+825.0,828.0,Cardinalis cardinalis,Northern Cardinal,0.5538,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+828.0,831.0,Cardinalis cardinalis,Northern Cardinal,0.3556,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+831.0,834.0,Cardinalis cardinalis,Northern Cardinal,0.7619,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+834.0,837.0,Cardinalis cardinalis,Northern Cardinal,0.6437,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+837.0,840.0,Cardinalis cardinalis,Northern Cardinal,0.5898,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+840.0,843.0,Cardinalis cardinalis,Northern Cardinal,0.2695,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+843.0,846.0,Cardinalis cardinalis,Northern Cardinal,0.2541,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+846.0,849.0,Cardinalis cardinalis,Northern Cardinal,0.5947,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+852.0,855.0,Cardinalis cardinalis,Northern Cardinal,0.2982,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+855.0,858.0,Cardinalis cardinalis,Northern Cardinal,0.2542,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+858.0,861.0,Cardinalis cardinalis,Northern Cardinal,0.4508,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+861.0,864.0,Cardinalis cardinalis,Northern Cardinal,0.2627,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+864.0,867.0,Cardinalis cardinalis,Northern Cardinal,0.2757,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+867.0,870.0,Cardinalis cardinalis,Northern Cardinal,0.4019,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+876.0,879.0,Setophaga pinus,Pine Warbler,0.3793,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+879.0,882.0,Cardinalis cardinalis,Northern Cardinal,0.8147,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+882.0,885.0,Cardinalis cardinalis,Northern Cardinal,0.6787,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+888.0,891.0,Cardinalis cardinalis,Northern Cardinal,0.5653,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+891.0,894.0,Cardinalis cardinalis,Northern Cardinal,0.4172,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+894.0,897.0,Cardinalis cardinalis,Northern Cardinal,0.6175,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+897.0,900.0,Cardinalis cardinalis,Northern Cardinal,0.3726,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+900.0,903.0,Cardinalis cardinalis,Northern Cardinal,0.5751,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+903.0,906.0,Cardinalis cardinalis,Northern Cardinal,0.6769,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+909.0,912.0,Cardinalis cardinalis,Northern Cardinal,0.7370,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+915.0,918.0,Cardinalis cardinalis,Northern Cardinal,0.5591,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+918.0,921.0,Cardinalis cardinalis,Northern Cardinal,0.4548,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+930.0,933.0,Cardinalis cardinalis,Northern Cardinal,0.2638,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+933.0,936.0,Cardinalis cardinalis,Northern Cardinal,0.7374,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+936.0,939.0,Cardinalis cardinalis,Northern Cardinal,0.3941,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+939.0,942.0,Cardinalis cardinalis,Northern Cardinal,0.4835,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+942.0,945.0,Cardinalis cardinalis,Northern Cardinal,0.4914,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+945.0,948.0,Cardinalis cardinalis,Northern Cardinal,0.6598,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+951.0,954.0,Cardinalis cardinalis,Northern Cardinal,0.4817,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+957.0,960.0,Cardinalis cardinalis,Northern Cardinal,0.2525,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+960.0,963.0,Cardinalis cardinalis,Northern Cardinal,0.6880,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+963.0,966.0,Cardinalis cardinalis,Northern Cardinal,0.6587,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+969.0,972.0,Cardinalis cardinalis,Northern Cardinal,0.4025,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+972.0,975.0,Cardinalis cardinalis,Northern Cardinal,0.4708,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+978.0,981.0,Cardinalis cardinalis,Northern Cardinal,0.2752,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+981.0,984.0,Cardinalis cardinalis,Northern Cardinal,0.5363,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+984.0,987.0,Cardinalis cardinalis,Northern Cardinal,0.3592,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+987.0,990.0,Cardinalis cardinalis,Northern Cardinal,0.2831,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+990.0,993.0,Cardinalis cardinalis,Northern Cardinal,0.6906,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+993.0,996.0,Cardinalis cardinalis,Northern Cardinal,0.3429,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+996.0,999.0,Cardinalis cardinalis,Northern Cardinal,0.7589,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+999.0,1002.0,Cardinalis cardinalis,Northern Cardinal,0.4038,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1002.0,1005.0,Cardinalis cardinalis,Northern Cardinal,0.3806,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1005.0,1008.0,Setophaga pinus,Pine Warbler,0.3507,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1008.0,1011.0,Cardinalis cardinalis,Northern Cardinal,0.7747,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1011.0,1014.0,Setophaga pinus,Pine Warbler,0.4613,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1014.0,1017.0,Cardinalis cardinalis,Northern Cardinal,0.5327,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1017.0,1020.0,Setophaga pinus,Pine Warbler,0.7755,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1020.0,1023.0,Cardinalis cardinalis,Northern Cardinal,0.8322,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1023.0,1026.0,Cardinalis cardinalis,Northern Cardinal,0.3362,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1026.0,1029.0,Cardinalis cardinalis,Northern Cardinal,0.6094,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1029.0,1032.0,Cardinalis cardinalis,Northern Cardinal,0.7129,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1032.0,1035.0,Cardinalis cardinalis,Northern Cardinal,0.7827,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1035.0,1038.0,Cardinalis cardinalis,Northern Cardinal,0.6723,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1038.0,1041.0,Cardinalis cardinalis,Northern Cardinal,0.8210,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1041.0,1044.0,Cardinalis cardinalis,Northern Cardinal,0.4337,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1044.0,1047.0,Cardinalis cardinalis,Northern Cardinal,0.8474,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1047.0,1050.0,Cardinalis cardinalis,Northern Cardinal,0.6885,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1050.0,1053.0,Cardinalis cardinalis,Northern Cardinal,0.6650,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1053.0,1056.0,Cardinalis cardinalis,Northern Cardinal,0.8704,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1056.0,1059.0,Cardinalis cardinalis,Northern Cardinal,0.8852,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1059.0,1062.0,Cardinalis cardinalis,Northern Cardinal,0.5535,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1062.0,1065.0,Cardinalis cardinalis,Northern Cardinal,0.6169,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1065.0,1068.0,Cardinalis cardinalis,Northern Cardinal,0.7433,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1068.0,1071.0,Cardinalis cardinalis,Northern Cardinal,0.5924,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1071.0,1074.0,Cardinalis cardinalis,Northern Cardinal,0.4360,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1074.0,1077.0,Cardinalis cardinalis,Northern Cardinal,0.8593,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1077.0,1080.0,Cardinalis cardinalis,Northern Cardinal,0.6639,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1080.0,1083.0,Cardinalis cardinalis,Northern Cardinal,0.2757,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1083.0,1086.0,Cardinalis cardinalis,Northern Cardinal,0.6770,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1089.0,1092.0,Cardinalis cardinalis,Northern Cardinal,0.4608,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1098.0,1101.0,Setophaga pinus,Pine Warbler,0.3283,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1101.0,1104.0,Setophaga pinus,Pine Warbler,0.5232,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1104.0,1107.0,Setophaga pinus,Pine Warbler,0.2704,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1110.0,1113.0,Setophaga pinus,Pine Warbler,0.6996,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1116.0,1119.0,Setophaga pinus,Pine Warbler,0.5022,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1119.0,1122.0,Seiurus aurocapilla,Ovenbird,0.5321,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1125.0,1128.0,Setophaga pinus,Pine Warbler,0.7025,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1131.0,1134.0,Seiurus aurocapilla,Ovenbird,0.3198,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1134.0,1137.0,Seiurus aurocapilla,Ovenbird,0.6203,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1137.0,1140.0,Setophaga pinus,Pine Warbler,0.3425,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1149.0,1152.0,Seiurus aurocapilla,Ovenbird,0.6373,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1155.0,1158.0,Seiurus aurocapilla,Ovenbird,0.3399,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1158.0,1161.0,Poecile carolinensis,Carolina Chickadee,0.3749,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1170.0,1173.0,Seiurus aurocapilla,Ovenbird,0.7940,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1173.0,1176.0,Setophaga pinus,Pine Warbler,0.3791,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1173.0,1176.0,Seiurus aurocapilla,Ovenbird,0.3003,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1179.0,1182.0,Baeolophus bicolor,Tufted Titmouse,0.2917,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1182.0,1185.0,Baeolophus bicolor,Tufted Titmouse,0.2979,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1194.0,1197.0,Baeolophus bicolor,Tufted Titmouse,0.2599,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1209.0,1212.0,Spizella passerina,Chipping Sparrow,0.3267,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1212.0,1215.0,Seiurus aurocapilla,Ovenbird,0.5879,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1218.0,1221.0,Spizella passerina,Chipping Sparrow,0.3376,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1236.0,1239.0,Baeolophus bicolor,Tufted Titmouse,0.8870,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1239.0,1242.0,Seiurus aurocapilla,Ovenbird,0.6025,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1242.0,1245.0,Seiurus aurocapilla,Ovenbird,0.5614,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1245.0,1248.0,Spizella passerina,Chipping Sparrow,0.2621,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1248.0,1251.0,Seiurus aurocapilla,Ovenbird,0.6165,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1251.0,1254.0,Baeolophus bicolor,Tufted Titmouse,0.2796,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1254.0,1257.0,Baeolophus bicolor,Tufted Titmouse,0.3858,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1260.0,1263.0,Setophaga pinus,Pine Warbler,0.5892,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1266.0,1269.0,Seiurus aurocapilla,Ovenbird,0.6408,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1269.0,1272.0,Baeolophus bicolor,Tufted Titmouse,0.5127,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1272.0,1275.0,Spizella passerina,Chipping Sparrow,0.3125,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1293.0,1296.0,Baeolophus bicolor,Tufted Titmouse,0.4187,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1305.0,1308.0,Seiurus aurocapilla,Ovenbird,0.4569,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1308.0,1311.0,Seiurus aurocapilla,Ovenbird,0.9103,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1311.0,1314.0,Setophaga pinus,Pine Warbler,0.5305,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1314.0,1317.0,Seiurus aurocapilla,Ovenbird,0.6106,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1326.0,1329.0,Setophaga pinus,Pine Warbler,0.7588,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1329.0,1332.0,Seiurus aurocapilla,Ovenbird,0.6859,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1338.0,1341.0,Setophaga pinus,Pine Warbler,0.5804,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1341.0,1344.0,Setophaga pinus,Pine Warbler,0.3704,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1347.0,1350.0,Seiurus aurocapilla,Ovenbird,0.8375,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1350.0,1353.0,Setophaga pinus,Pine Warbler,0.3752,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1374.0,1377.0,Setophaga pinus,Pine Warbler,0.3584,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1383.0,1386.0,Setophaga pinus,Pine Warbler,0.5285,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1389.0,1392.0,Seiurus aurocapilla,Ovenbird,0.5314,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1404.0,1407.0,Seiurus aurocapilla,Ovenbird,0.8343,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1410.0,1413.0,Seiurus aurocapilla,Ovenbird,0.4156,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1413.0,1416.0,Baeolophus bicolor,Tufted Titmouse,0.2919,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1425.0,1428.0,Seiurus aurocapilla,Ovenbird,0.4011,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1428.0,1431.0,Seiurus aurocapilla,Ovenbird,0.6355,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1428.0,1431.0,Setophaga pinus,Pine Warbler,0.3239,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1431.0,1434.0,Setophaga pinus,Pine Warbler,0.6709,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1440.0,1443.0,Seiurus aurocapilla,Ovenbird,0.6115,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1443.0,1446.0,Setophaga pinus,Pine Warbler,0.3212,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1446.0,1449.0,Seiurus aurocapilla,Ovenbird,0.5449,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1470.0,1473.0,Seiurus aurocapilla,Ovenbird,0.4561,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1479.0,1482.0,Seiurus aurocapilla,Ovenbird,0.4270,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1482.0,1485.0,Seiurus aurocapilla,Ovenbird,0.4578,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1503.0,1506.0,Seiurus aurocapilla,Ovenbird,0.5770,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1521.0,1524.0,Seiurus aurocapilla,Ovenbird,0.6331,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1527.0,1530.0,Seiurus aurocapilla,Ovenbird,0.4176,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1539.0,1542.0,Seiurus aurocapilla,Ovenbird,0.2721,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1548.0,1551.0,Seiurus aurocapilla,Ovenbird,0.8936,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1551.0,1554.0,Seiurus aurocapilla,Ovenbird,0.6136,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1560.0,1563.0,Seiurus aurocapilla,Ovenbird,0.5889,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1575.0,1578.0,Seiurus aurocapilla,Ovenbird,0.3590,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1578.0,1581.0,Seiurus aurocapilla,Ovenbird,0.8876,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1581.0,1584.0,Seiurus aurocapilla,Ovenbird,0.5209,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1584.0,1587.0,Seiurus aurocapilla,Ovenbird,0.2591,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1596.0,1599.0,Seiurus aurocapilla,Ovenbird,0.6231,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1599.0,1602.0,Seiurus aurocapilla,Ovenbird,0.8050,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1608.0,1611.0,Setophaga pinus,Pine Warbler,0.8045,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1614.0,1617.0,Seiurus aurocapilla,Ovenbird,0.6453,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1617.0,1620.0,Seiurus aurocapilla,Ovenbird,0.7192,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1620.0,1623.0,Baeolophus bicolor,Tufted Titmouse,0.2901,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1623.0,1626.0,Setophaga pinus,Pine Warbler,0.2788,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1635.0,1638.0,Seiurus aurocapilla,Ovenbird,0.9296,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1638.0,1641.0,Seiurus aurocapilla,Ovenbird,0.4855,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1641.0,1644.0,Seiurus aurocapilla,Ovenbird,0.6758,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1644.0,1647.0,Seiurus aurocapilla,Ovenbird,0.4755,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1647.0,1650.0,Setophaga pinus,Pine Warbler,0.3820,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1653.0,1656.0,Setophaga pinus,Pine Warbler,0.3362,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1656.0,1659.0,Seiurus aurocapilla,Ovenbird,0.7663,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1677.0,1680.0,Seiurus aurocapilla,Ovenbird,0.9357,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1683.0,1686.0,Seiurus aurocapilla,Ovenbird,0.8235,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1686.0,1689.0,Setophaga pinus,Pine Warbler,0.4065,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1701.0,1704.0,Seiurus aurocapilla,Ovenbird,0.8393,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1704.0,1707.0,Seiurus aurocapilla,Ovenbird,0.7355,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1710.0,1713.0,Seiurus aurocapilla,Ovenbird,0.3393,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1719.0,1722.0,Seiurus aurocapilla,Ovenbird,0.7821,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1725.0,1728.0,Seiurus aurocapilla,Ovenbird,0.5792,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1737.0,1740.0,Seiurus aurocapilla,Ovenbird,0.7512,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1740.0,1743.0,Poecile carolinensis,Carolina Chickadee,0.2607,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1770.0,1773.0,Seiurus aurocapilla,Ovenbird,0.3249,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1773.0,1776.0,Spizella passerina,Chipping Sparrow,0.2571,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1791.0,1794.0,Seiurus aurocapilla,Ovenbird,0.2988,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1800.0,1803.0,Seiurus aurocapilla,Ovenbird,0.7250,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1812.0,1815.0,Spizella passerina,Chipping Sparrow,0.2838,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1824.0,1827.0,Spizella passerina,Chipping Sparrow,0.2544,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1827.0,1830.0,Spizella passerina,Chipping Sparrow,0.3775,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1827.0,1830.0,Seiurus aurocapilla,Ovenbird,0.3340,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1833.0,1836.0,Colaptes auratus,Northern Flicker,0.3809,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1845.0,1848.0,Seiurus aurocapilla,Ovenbird,0.7629,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1857.0,1860.0,Spizella passerina,Chipping Sparrow,0.2622,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1884.0,1887.0,Seiurus aurocapilla,Ovenbird,0.8219,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1902.0,1905.0,Seiurus aurocapilla,Ovenbird,0.7053,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1914.0,1917.0,Poecile carolinensis,Carolina Chickadee,0.3642,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1923.0,1926.0,Seiurus aurocapilla,Ovenbird,0.5784,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1929.0,1932.0,Poecile carolinensis,Carolina Chickadee,0.3500,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1938.0,1941.0,Seiurus aurocapilla,Ovenbird,0.8255,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1944.0,1947.0,Seiurus aurocapilla,Ovenbird,0.5208,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1956.0,1959.0,Seiurus aurocapilla,Ovenbird,0.8617,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1965.0,1968.0,Seiurus aurocapilla,Ovenbird,0.5851,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1974.0,1977.0,Seiurus aurocapilla,Ovenbird,0.4695,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1977.0,1980.0,Seiurus aurocapilla,Ovenbird,0.6305,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1989.0,1992.0,Seiurus aurocapilla,Ovenbird,0.7688,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1992.0,1995.0,Seiurus aurocapilla,Ovenbird,0.3211,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+1995.0,1998.0,Seiurus aurocapilla,Ovenbird,0.8153,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2013.0,2016.0,Seiurus aurocapilla,Ovenbird,0.3738,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2016.0,2019.0,Seiurus aurocapilla,Ovenbird,0.7717,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2022.0,2025.0,Seiurus aurocapilla,Ovenbird,0.4259,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2025.0,2028.0,Seiurus aurocapilla,Ovenbird,0.3479,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2028.0,2031.0,Setophaga pinus,Pine Warbler,0.4411,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2031.0,2034.0,Setophaga pinus,Pine Warbler,0.4222,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2031.0,2034.0,Seiurus aurocapilla,Ovenbird,0.2764,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2034.0,2037.0,Seiurus aurocapilla,Ovenbird,0.7228,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2052.0,2055.0,Seiurus aurocapilla,Ovenbird,0.8827,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2070.0,2073.0,Seiurus aurocapilla,Ovenbird,0.8744,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2079.0,2082.0,Seiurus aurocapilla,Ovenbird,0.8246,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2088.0,2091.0,Seiurus aurocapilla,Ovenbird,0.8105,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2100.0,2103.0,Seiurus aurocapilla,Ovenbird,0.8186,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2103.0,2106.0,Seiurus aurocapilla,Ovenbird,0.6337,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2106.0,2109.0,Seiurus aurocapilla,Ovenbird,0.8594,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2121.0,2124.0,Seiurus aurocapilla,Ovenbird,0.7297,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2124.0,2127.0,Seiurus aurocapilla,Ovenbird,0.6499,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2139.0,2142.0,Seiurus aurocapilla,Ovenbird,0.9597,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2142.0,2145.0,Seiurus aurocapilla,Ovenbird,0.9662,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2145.0,2148.0,Seiurus aurocapilla,Ovenbird,0.7495,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2154.0,2157.0,Seiurus aurocapilla,Ovenbird,0.5792,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2160.0,2163.0,Seiurus aurocapilla,Ovenbird,0.8041,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2163.0,2166.0,Seiurus aurocapilla,Ovenbird,0.7179,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2181.0,2184.0,Seiurus aurocapilla,Ovenbird,0.8391,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2184.0,2187.0,Seiurus aurocapilla,Ovenbird,0.8826,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2187.0,2190.0,Seiurus aurocapilla,Ovenbird,0.8188,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2199.0,2202.0,Seiurus aurocapilla,Ovenbird,0.9048,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2205.0,2208.0,Seiurus aurocapilla,Ovenbird,0.8794,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2208.0,2211.0,Seiurus aurocapilla,Ovenbird,0.7241,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2214.0,2217.0,Seiurus aurocapilla,Ovenbird,0.5781,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2217.0,2220.0,Seiurus aurocapilla,Ovenbird,0.8174,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2229.0,2232.0,Seiurus aurocapilla,Ovenbird,0.9145,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2235.0,2238.0,Seiurus aurocapilla,Ovenbird,0.7754,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2250.0,2253.0,Seiurus aurocapilla,Ovenbird,0.3537,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2253.0,2256.0,Seiurus aurocapilla,Ovenbird,0.2854,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2265.0,2268.0,Spizella passerina,Chipping Sparrow,0.3331,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2271.0,2274.0,Seiurus aurocapilla,Ovenbird,0.9343,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2280.0,2283.0,Corvus brachyrhynchos,American Crow,0.5618,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2283.0,2286.0,Corvus brachyrhynchos,American Crow,0.7597,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2289.0,2292.0,Seiurus aurocapilla,Ovenbird,0.8979,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2292.0,2295.0,Seiurus aurocapilla,Ovenbird,0.3841,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2307.0,2310.0,Seiurus aurocapilla,Ovenbird,0.5725,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2307.0,2310.0,Setophaga pinus,Pine Warbler,0.4236,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2310.0,2313.0,Seiurus aurocapilla,Ovenbird,0.6397,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2325.0,2328.0,Seiurus aurocapilla,Ovenbird,0.6926,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2328.0,2331.0,Seiurus aurocapilla,Ovenbird,0.4564,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2331.0,2334.0,Seiurus aurocapilla,Ovenbird,0.2661,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2346.0,2349.0,Seiurus aurocapilla,Ovenbird,0.2903,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2349.0,2352.0,Seiurus aurocapilla,Ovenbird,0.5916,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2355.0,2358.0,Spizella passerina,Chipping Sparrow,0.5675,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2373.0,2376.0,Spizella passerina,Chipping Sparrow,0.9090,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2388.0,2391.0,Seiurus aurocapilla,Ovenbird,0.7232,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2412.0,2415.0,Seiurus aurocapilla,Ovenbird,0.7199,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2418.0,2421.0,Seiurus aurocapilla,Ovenbird,0.3276,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2427.0,2430.0,Corvus brachyrhynchos,American Crow,0.3624,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2436.0,2439.0,Spizella passerina,Chipping Sparrow,0.7378,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2439.0,2442.0,Seiurus aurocapilla,Ovenbird,0.7455,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2442.0,2445.0,Spizella passerina,Chipping Sparrow,0.7779,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2451.0,2454.0,Spizella passerina,Chipping Sparrow,0.4920,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2454.0,2457.0,Seiurus aurocapilla,Ovenbird,0.7849,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2457.0,2460.0,Seiurus aurocapilla,Ovenbird,0.4985,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2463.0,2466.0,Seiurus aurocapilla,Ovenbird,0.2874,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2475.0,2478.0,Seiurus aurocapilla,Ovenbird,0.6207,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2478.0,2481.0,Seiurus aurocapilla,Ovenbird,0.4971,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2487.0,2490.0,Spizella passerina,Chipping Sparrow,0.8425,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2493.0,2496.0,Seiurus aurocapilla,Ovenbird,0.7276,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2499.0,2502.0,Seiurus aurocapilla,Ovenbird,0.5515,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2511.0,2514.0,Spizella passerina,Chipping Sparrow,0.2720,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2526.0,2529.0,Spizella passerina,Chipping Sparrow,0.3674,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2529.0,2532.0,Seiurus aurocapilla,Ovenbird,0.8380,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2538.0,2541.0,Spizella passerina,Chipping Sparrow,0.2808,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2547.0,2550.0,Seiurus aurocapilla,Ovenbird,0.8527,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2553.0,2556.0,Sialia sialis,Eastern Bluebird,0.9335,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2556.0,2559.0,Spizella passerina,Chipping Sparrow,0.7296,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2568.0,2571.0,Seiurus aurocapilla,Ovenbird,0.8361,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2574.0,2577.0,Spizella passerina,Chipping Sparrow,0.5486,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2577.0,2580.0,Spizella passerina,Chipping Sparrow,0.3762,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2583.0,2586.0,Spizella passerina,Chipping Sparrow,0.5387,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2586.0,2589.0,Seiurus aurocapilla,Ovenbird,0.8483,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2589.0,2592.0,Seiurus aurocapilla,Ovenbird,0.3843,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2592.0,2595.0,Spizella passerina,Chipping Sparrow,0.8433,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2598.0,2601.0,Spizella passerina,Chipping Sparrow,0.7625,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2607.0,2610.0,Spizella passerina,Chipping Sparrow,0.3395,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2610.0,2613.0,Seiurus aurocapilla,Ovenbird,0.7972,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2613.0,2616.0,Spizella passerina,Chipping Sparrow,0.7991,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2622.0,2625.0,Spizella passerina,Chipping Sparrow,0.3106,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2625.0,2628.0,Seiurus aurocapilla,Ovenbird,0.6413,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2634.0,2637.0,Seiurus aurocapilla,Ovenbird,0.6601,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2637.0,2640.0,Spizella passerina,Chipping Sparrow,0.5641,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2640.0,2643.0,Seiurus aurocapilla,Ovenbird,0.3577,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2643.0,2646.0,Seiurus aurocapilla,Ovenbird,0.7246,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2646.0,2649.0,Spizella passerina,Chipping Sparrow,0.7011,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2664.0,2667.0,Spizella passerina,Chipping Sparrow,0.3517,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2667.0,2670.0,Spizella passerina,Chipping Sparrow,0.5207,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2670.0,2673.0,Spizella passerina,Chipping Sparrow,0.2999,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2673.0,2676.0,Spizella passerina,Chipping Sparrow,0.9348,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2688.0,2691.0,Spizella passerina,Chipping Sparrow,0.7630,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2697.0,2700.0,Spizella passerina,Chipping Sparrow,0.7131,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2709.0,2712.0,Seiurus aurocapilla,Ovenbird,0.7309,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2724.0,2727.0,Spizella passerina,Chipping Sparrow,0.6377,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2727.0,2730.0,Seiurus aurocapilla,Ovenbird,0.8211,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2730.0,2733.0,Seiurus aurocapilla,Ovenbird,0.4274,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2733.0,2736.0,Spizella passerina,Chipping Sparrow,0.2799,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2742.0,2745.0,Spizella passerina,Chipping Sparrow,0.3304,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2748.0,2751.0,Seiurus aurocapilla,Ovenbird,0.4046,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2754.0,2757.0,Seiurus aurocapilla,Ovenbird,0.7402,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2757.0,2760.0,Spizella passerina,Chipping Sparrow,0.5148,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2784.0,2787.0,Seiurus aurocapilla,Ovenbird,0.6876,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2787.0,2790.0,Spizella passerina,Chipping Sparrow,0.2511,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2793.0,2796.0,Spizella passerina,Chipping Sparrow,0.4821,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2799.0,2802.0,Seiurus aurocapilla,Ovenbird,0.4272,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2805.0,2808.0,Seiurus aurocapilla,Ovenbird,0.3537,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2814.0,2817.0,Strix varia,Barred Owl,0.2781,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2817.0,2820.0,Spizella passerina,Chipping Sparrow,0.2596,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2820.0,2823.0,Seiurus aurocapilla,Ovenbird,0.7225,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2823.0,2826.0,Seiurus aurocapilla,Ovenbird,0.6980,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2838.0,2841.0,Seiurus aurocapilla,Ovenbird,0.7962,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2841.0,2844.0,Seiurus aurocapilla,Ovenbird,0.7389,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2844.0,2847.0,Seiurus aurocapilla,Ovenbird,0.7245,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2856.0,2859.0,Seiurus aurocapilla,Ovenbird,0.8358,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2859.0,2862.0,Seiurus aurocapilla,Ovenbird,0.6221,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2862.0,2865.0,Seiurus aurocapilla,Ovenbird,0.9069,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2877.0,2880.0,Seiurus aurocapilla,Ovenbird,0.4682,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2886.0,2889.0,Seiurus aurocapilla,Ovenbird,0.7618,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2895.0,2898.0,Seiurus aurocapilla,Ovenbird,0.8594,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2898.0,2901.0,Seiurus aurocapilla,Ovenbird,0.8386,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2910.0,2913.0,Seiurus aurocapilla,Ovenbird,0.8392,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2913.0,2916.0,Seiurus aurocapilla,Ovenbird,0.8390,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2916.0,2919.0,Seiurus aurocapilla,Ovenbird,0.7443,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2931.0,2934.0,Seiurus aurocapilla,Ovenbird,0.4689,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2934.0,2937.0,Seiurus aurocapilla,Ovenbird,0.8974,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2937.0,2940.0,Seiurus aurocapilla,Ovenbird,0.6554,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2952.0,2955.0,Seiurus aurocapilla,Ovenbird,0.7290,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2958.0,2961.0,Seiurus aurocapilla,Ovenbird,0.5461,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2961.0,2964.0,Colaptes auratus,Northern Flicker,0.3901,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2970.0,2973.0,Seiurus aurocapilla,Ovenbird,0.8013,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2973.0,2976.0,Seiurus aurocapilla,Ovenbird,0.5251,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2976.0,2979.0,Seiurus aurocapilla,Ovenbird,0.8129,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2979.0,2982.0,Seiurus aurocapilla,Ovenbird,0.8620,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2985.0,2988.0,Colaptes auratus,Northern Flicker,0.8666,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+2991.0,2994.0,Seiurus aurocapilla,Ovenbird,0.5139,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3000.0,3003.0,Seiurus aurocapilla,Ovenbird,0.7212,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3003.0,3006.0,Seiurus aurocapilla,Ovenbird,0.5096,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3009.0,3012.0,Seiurus aurocapilla,Ovenbird,0.7021,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3024.0,3027.0,Seiurus aurocapilla,Ovenbird,0.4021,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3027.0,3030.0,Seiurus aurocapilla,Ovenbird,0.3037,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3030.0,3033.0,Seiurus aurocapilla,Ovenbird,0.5509,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3048.0,3051.0,Seiurus aurocapilla,Ovenbird,0.2660,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3066.0,3069.0,Seiurus aurocapilla,Ovenbird,0.8981,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3072.0,3075.0,Colaptes auratus,Northern Flicker,0.5842,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3075.0,3078.0,Seiurus aurocapilla,Ovenbird,0.4388,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3084.0,3087.0,Seiurus aurocapilla,Ovenbird,0.8141,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3087.0,3090.0,Seiurus aurocapilla,Ovenbird,0.5866,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3114.0,3117.0,Meleagris gallopavo,Wild Turkey,0.8010,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3129.0,3132.0,Meleagris gallopavo,Wild Turkey,0.2879,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3138.0,3141.0,Seiurus aurocapilla,Ovenbird,0.4898,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3141.0,3144.0,Seiurus aurocapilla,Ovenbird,0.4138,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3147.0,3150.0,Seiurus aurocapilla,Ovenbird,0.2815,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3150.0,3153.0,Seiurus aurocapilla,Ovenbird,0.3486,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3153.0,3156.0,Meleagris gallopavo,Wild Turkey,0.9200,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3174.0,3177.0,Seiurus aurocapilla,Ovenbird,0.8914,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3192.0,3195.0,Seiurus aurocapilla,Ovenbird,0.5022,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3198.0,3201.0,Seiurus aurocapilla,Ovenbird,0.7268,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3210.0,3213.0,Seiurus aurocapilla,Ovenbird,0.7799,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3216.0,3219.0,Spizella passerina,Chipping Sparrow,0.4125,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3219.0,3222.0,Seiurus aurocapilla,Ovenbird,0.8024,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3225.0,3228.0,Seiurus aurocapilla,Ovenbird,0.3787,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3231.0,3234.0,Seiurus aurocapilla,Ovenbird,0.4393,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3240.0,3243.0,Seiurus aurocapilla,Ovenbird,0.8370,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3249.0,3252.0,Seiurus aurocapilla,Ovenbird,0.5809,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3261.0,3264.0,Spizella passerina,Chipping Sparrow,0.4960,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3264.0,3267.0,Seiurus aurocapilla,Ovenbird,0.9374,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3273.0,3276.0,Seiurus aurocapilla,Ovenbird,0.3751,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3288.0,3291.0,Seiurus aurocapilla,Ovenbird,0.3051,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3300.0,3303.0,Spizella passerina,Chipping Sparrow,0.5591,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3303.0,3306.0,Seiurus aurocapilla,Ovenbird,0.7870,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3306.0,3309.0,Seiurus aurocapilla,Ovenbird,0.9410,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3321.0,3324.0,Spizella passerina,Chipping Sparrow,0.7863,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3327.0,3330.0,Seiurus aurocapilla,Ovenbird,0.8264,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3333.0,3336.0,Spizella passerina,Chipping Sparrow,0.4025,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3336.0,3339.0,Seiurus aurocapilla,Ovenbird,0.4892,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3339.0,3342.0,Seiurus aurocapilla,Ovenbird,0.7341,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3345.0,3348.0,Seiurus aurocapilla,Ovenbird,0.8605,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3348.0,3351.0,Spizella passerina,Chipping Sparrow,0.9438,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3360.0,3363.0,Spizella passerina,Chipping Sparrow,0.6936,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3363.0,3366.0,Seiurus aurocapilla,Ovenbird,0.9411,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3369.0,3372.0,Spizella passerina,Chipping Sparrow,0.9149,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3375.0,3378.0,Spizella passerina,Chipping Sparrow,0.3755,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3378.0,3381.0,Spizella passerina,Chipping Sparrow,0.8724,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3381.0,3384.0,Seiurus aurocapilla,Ovenbird,0.8114,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3384.0,3387.0,Spizella passerina,Chipping Sparrow,0.5821,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3387.0,3390.0,Spizella passerina,Chipping Sparrow,0.3389,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3390.0,3393.0,Seiurus aurocapilla,Ovenbird,0.7349,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3396.0,3399.0,Spizella passerina,Chipping Sparrow,0.7898,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3399.0,3402.0,Seiurus aurocapilla,Ovenbird,0.4198,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3405.0,3408.0,Spizella passerina,Chipping Sparrow,0.5956,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3408.0,3411.0,Cardinalis cardinalis,Northern Cardinal,0.3461,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3414.0,3417.0,Spizella passerina,Chipping Sparrow,0.3190,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3417.0,3420.0,Seiurus aurocapilla,Ovenbird,0.3707,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3423.0,3426.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.8667,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3426.0,3429.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.9728,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3429.0,3432.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.9837,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3432.0,3435.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.9760,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3435.0,3438.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.8870,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3438.0,3441.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.9499,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3441.0,3444.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.9256,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3444.0,3447.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.9367,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3447.0,3450.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.8862,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3450.0,3453.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.9357,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3453.0,3456.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.4931,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3456.0,3459.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.8906,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3459.0,3462.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.7302,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3462.0,3465.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.7582,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3465.0,3468.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.9716,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3468.0,3471.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.9505,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3471.0,3474.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.6077,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3474.0,3477.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.4164,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3477.0,3480.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.8513,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3480.0,3483.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.7705,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3483.0,3486.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.9698,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3489.0,3492.0,Spizella passerina,Chipping Sparrow,0.6881,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3495.0,3498.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.3524,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3498.0,3501.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.8749,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3507.0,3510.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.4543,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3510.0,3513.0,Seiurus aurocapilla,Ovenbird,0.2779,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3513.0,3516.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.6980,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3516.0,3519.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.7808,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3519.0,3522.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.8074,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3522.0,3525.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.9183,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3525.0,3528.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.7747,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3528.0,3531.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.8169,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3531.0,3534.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.8785,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3534.0,3537.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.8466,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3537.0,3540.0,Spizella passerina,Chipping Sparrow,0.3590,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3540.0,3543.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.9594,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3543.0,3546.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.9452,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3546.0,3549.0,Seiurus aurocapilla,Ovenbird,0.7700,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3549.0,3552.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.8963,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3552.0,3555.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.9765,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3564.0,3567.0,Seiurus aurocapilla,Ovenbird,0.2863,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3570.0,3573.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.7757,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3576.0,3579.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.6947,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3576.0,3579.0,Spizella passerina,Chipping Sparrow,0.3596,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3579.0,3582.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.4317,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3582.0,3585.0,Seiurus aurocapilla,Ovenbird,0.7081,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3585.0,3588.0,Spizella passerina,Chipping Sparrow,0.5000,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3588.0,3591.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.6389,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
+3597.0,3600.0,Spizella passerina,Chipping Sparrow,0.8624,D:\Bird_Anuran_ARUs\RE07\SMM2-23_20260410_051900.wav
