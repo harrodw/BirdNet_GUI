@@ -1,6 +1,6 @@
 ################################################################################
 # Title: Subsetting BirdNET
-# BirdNet R workflow, Script 1 of 4
+# BirdNet R workflow, Script 1 of 5
 # Author: Will Harrod
 # Date Created: 2026-05-01
 ################################################################################
@@ -17,6 +17,9 @@ library(tidyverse)
 library(birdnetR)
 library(tuneR)
 library(fs)
+
+# Set Seed
+set.seed(27606)
 
 # Path to wd
 wd <- "D:/Bird_Anuran_ARUs"

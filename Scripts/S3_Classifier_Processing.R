@@ -1,6 +1,6 @@
 # ################################################################################
 # Title: CLeaning BirdNET output
-# BirdNet R workflow, Script 3 of 4
+# BirdNet R workflow, Script 3 of 5
 # Author: Will Harrod
 # Date Created: 2026-05-25
 ################################################################################
@@ -12,6 +12,9 @@
 # Add packages
 library(tidyverse)
 library(fs)
+
+# Set Seed
+set.seed(27606)
 
 # Define the working directory as the folder that holds the BirdNET csv's
 wd <- "C:/NCSU/Disertation_Code/BirdNet_GUI/Data/subsetted_ARU_Data"

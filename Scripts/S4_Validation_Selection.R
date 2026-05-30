@@ -1,6 +1,6 @@
 # ################################################################################
 # Title: Seleting a subset of BirdNet classifications to mannually validate 
-# BirdNet R workflow, Script 4 of 4
+# BirdNet R workflow, Script 4 of 5
 # Author: Will Harrod
 # Date Created: 2026-05-25
 ################################################################################
@@ -24,6 +24,9 @@ library(warbleR)
 library(seewave)
 library(tuneR)
 
+# Set Seed
+set.seed(27606)
+
 # File directories (Change these for your device) ------------------------------
 
 # Name of the directory that holds your validation data 
@@ -31,7 +34,7 @@ csv_dir <- "Data"
 
 # Path to save your new .wav output files 
 # output_dir <- "C:/NCSU/Data/BirdNet_Validations"
-output_dir <-  "D:/BirdNet_Validations"
+output_dir <-  "C:/NCSU/Data/BirdNet_Validations"
 
 # File names (Change these for your device) -----------------------------------
 
@@ -67,7 +70,7 @@ glimpse(classif)
 
 # How many species?
 classif %>%
-  count(Common.name) %>%
+  count(Common.name) %>% 
   arrange(-n)
 
 # Define a recording threashhold for the minimum number of recordings to validate ----

@@ -1,6 +1,6 @@
 # ################################################################################
 # Title: Making a BirdNET species list
-# BirdNet R workflow, Script 2 of 4
+# BirdNet R workflow, Script 2 of 5
 # Author: Will Harrod
 # Date Created: 2026-05-01
 # Credit to  the species list creator: 
@@ -20,13 +20,9 @@ rm(list = ls())
 # Load packages
 library(tidyverse)
 library(birdnetR)
-library(usethis)
 
-# Link to GIRT
-use_git_config(user.name = "harrodw", user.email = "will.harrod99@gmail.com")
-
-# Talk with GIT
-usethis::use_git()
+# Set Seed
+set.seed(27606)
 
 # Read in the total list of species
 all_species <- read.csv("C:/NCSU/Data/BirdNET_Info/all_species_metadata.csv")
@@ -42,7 +38,7 @@ all_species %>%
 # 2) Decide on possible species ################################################
 ################################################################################
 
-# 2.1) Anthropogenic sounds ----------------------------------------------------
+# 2.1) Anthropocentric sounds ----------------------------------------------------
 all_anthro <- all_species %>% 
   filter(is.na(class)) %>% 
   distinct(class, order, family, genus, species, common_name, full_code) %>% 
