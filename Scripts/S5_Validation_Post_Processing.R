@@ -1,6 +1,6 @@
 # ################################################################################
 # Title: BirdNET post-validation processing
-# BirdNet R workflow, Script 5 of 5
+# BirdNet R workflow, Script 5 
 # Author: Will Harrod
 # Date Created: 2026-05-29
 ################################################################################
@@ -15,14 +15,11 @@
 rm(list = ls())
 
 # Install packages 
-# install.packages("tidyverse", "fs", "seewave", "tuneR", "warbleR")
+# install.packages("tidyverse", "fs")
 
 # Load Packages
 library(tidyverse)
 library(fs)
-library(warbleR)
-library(seewave)
-library(tuneR)
 
 # Set Seed
 set.seed(27606)
@@ -274,4 +271,4 @@ glimpse(classif_thresh)
 classif_thresh %>% count(Common.name) 
 
 # Save 
-write.csv(classif_thresh, path(csv_dir, "Preliminary_BirdNET_Results_Filtered.csv"))
+write.csv(classif_thresh, path(csv_dir, "Preliminary_BirdNET_Results_Filtered.csv"), row.names = FALSE)

@@ -1,6 +1,6 @@
 # ################################################################################
 # Title: Seleting a subset of BirdNet classifications to mannually validate 
-# BirdNet R workflow, Script 4 of 5
+# BirdNet R workflow, Script 4 
 # Author: Will Harrod
 # Date Created: 2026-05-25
 ################################################################################
