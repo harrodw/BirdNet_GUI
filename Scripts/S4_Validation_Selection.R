@@ -30,11 +30,14 @@ set.seed(27606)
 # File directories (Change these for your device) ------------------------------
 
 # Name of the directory that holds your validation data 
-csv_dir <- "Data"
+bn_dir <- "D:/BirdNet_Output/Full_Site"
 
 # Path to save your new .wav output files 
 # output_dir <- "C:/NCSU/Data/BirdNet_Validations"
-output_dir <-  "C:/NCSU/Data/BirdNet_Validations"
+output_dir <-  "D:/BirdNet_Validations"
+
+# Directory for the summary
+csv_dir <-  "C:/Users/wdharrod/Documents/Coding/BirdNet_GUI-master/Data"
 
 # File names (Change these for your device) -----------------------------------
 
@@ -53,35 +56,43 @@ metadata_file <- "aru_locations.csv"
 min_conf <- 0.25
 
 # Add the classif data
-classif_raw <- read.csv(path(csv_dir, birdnet_file)) %>% select(-X) 
+classif_raw <- read.csv(path(bn_dir, birdnet_file)) %>% select(-X, -X.1) 
 # View
 glimpse(classif_raw)
 
 # Clean the classification Data
 classif <-  classif_raw %>% 
+  ###### COMMENT OUT LATER ##############
+  # Only look at Birds 
+  filter(class %in% c("Aves", "Anthropogenic")) |> 
+  ##########################################
   # Arrange by AUR ID then by date then by time
   arrange(Plot, Date, Rec.Hour, Rec.Min, Start.sec) %>% 
   # Convert date to a date
   mutate(Date = ymd(Date)) %>%
   # Remove low confidence scores
-  filter(Confidence >= min_conf) 
+  filter(Confidence >= min_conf) |> 
+  # Convert from Linux to Windows 
+  mutate(File = str_replace(File, "/media/will/Timbermill", "D:")) |> 
+  mutate(File = str_replace(File, "Interior_Forest/", "")) |> 
+  mutate(File = str_replace(File, "Reference_Edge/", "")) |> 
+  mutate(File = str_replace(File, "Turbines_01_08/", "")) |>  
+  mutate(File = str_replace(File, "Turbines_09_16/", "")) |> 
+  mutate(File = str_remove(File, "_D3"),
+         BirdNet.Name = str_replace(basename(File), "-", "_")) 
 # select(-X) 
 glimpse(classif)
 
 # How many species?
 classif %>%
-  count(Common.name) %>% 
+  count(Species) %>% 
   arrange(-n)
 
-# Define a recording threashhold for the minimum number of recordings to validate ----
-n_recs_valid <-  100
-
-# Select the number of speciies with at least that many recordings (can comment out) ----
+# Select the number of species with at least that many recordings (can comment out) ----
 species_list <- classif %>% 
-  count(Common.name) %>%
-  arrange(Common.name) %>% 
-  filter(n >= n_recs_valid) %>% 
-  pull(Common.name)
+  count(Species) %>%
+  arrange(Species) %>% 
+  pull(Species)
 
 # ...Or do this manually (can comment out) ----
 # species_list <- c(
@@ -102,16 +113,14 @@ print(species_list)
 
 # Filter the whole dataset to only include those species 
 classif_common <- classif %>% 
-  filter(Common.name %in% species_list) %>% 
+  filter(Species %in% species_list) %>% 
   # (Optional) Remove specific species
-  filter(!Common.name %in% c("Song Sparrow", "Meadowlark")) %>% 
-  # Calculate Week of each recording
-  mutate(Week = week(Date)) 
+  filter(!Species %in% c("Song Sparrow", "Meadowlark")) 
 # View
 glimpse(classif_common)
 
 # Add in the ARU metadata 
-aru_info <- read.csv(path(csv_dir, metadata_file))
+aru_info <- read.csv(path("Data", metadata_file))
 glimpse(aru_info)
 
 # 1.2) Prepare data for stratified random sampling -----------------------------
@@ -122,16 +131,17 @@ glimpse(aru_info)
 #   geom_histogram(aes(x = Confidence), col = "lightblue", fill = "lightblue") +
 #   scale_x_continuous(limits = c(min_conf, 1)) +
 #   theme_classic() +
-#   facet_wrap(~Common.name)
+#   facet_wrap(~Species)
 
 # Define confidence bin breaks
-conf_breaks <- c(0.4, 0.5, 1)
+conf_breaks <- c(0.5, 0.75, 1)
 
 # Define weights for each break
-break_weights <- c(0.1, 0.2, 0.7)
+break_weights <- c(0.25, 0.25, 0.5)
 
 # Number of breaks
 nbreaks <- length(conf_breaks)
+nbreaks 
 
 # add a column for confidence breaks 
 classif_weighted <- classif_common %>% 
@@ -142,12 +152,8 @@ classif_weighted <- classif_common %>%
                             TRUE ~ NA))
 
 # View
-count(classif_weighted, Common.name, Weight)
+count(classif_weighted, Species, Weight)
 glimpse(classif_weighted)
-
-# Define how many birds I want to validate from each confidence class per species per ARU
-n_sample <- 100
-n_wav <- 100
 
 ################################################################################################
 # 2) Select random stratified rows to validate from across difference confidence levels
@@ -158,7 +164,7 @@ n_wav <- 100
 # Create directories for each species ----
 # NOTE: This will erase all audio files currently in the there ----
 for(s in 1:length(species_list)){
-  
+
   # Define a species
   species_file <- species_list[s]
   
@@ -181,6 +187,9 @@ for(s in 1:length(species_list)){
 
 # 2.2) Prepare to subsample ----------------------------------------------------
 
+# Define how many birds I want to validate 
+n_sample <- 150
+
 # Define the rows to validate
 class_to_valid <- classif_weighted %>%
   # Arrange in a useful order
@@ -191,25 +200,25 @@ class_to_valid <- classif_weighted %>%
   # Prepare date and time for the file reader
   mutate(Date = str_remove_all(string =  as.character(Date), pattern = "-")) %>%
   # Group  by species and site
-  group_by(Common.name, Plot) %>%
+  group_by(Species, Plot) %>%
   # Select random classifications to validate
   slice_sample(n = n_sample, replace = FALSE, weight_by = Weight) %>%
   ungroup() %>% 
   # Resample down to the same number for each species
-  group_by(Common.name) %>% 
-  slice_sample(n = n_wav, replace = FALSE) %>% 
+  group_by(Species) %>% 
+  slice_sample(n = n_sample, replace = FALSE) %>% 
   ungroup() %>% 
   select(-Weight)
 
 # Number of validations per species and ARU
 class_to_valid %>%
-  count(Common.name, Plot) %>%
-  arrange(Common.name, Plot) %>%
+  count(Species, Plot) %>%
+  arrange(Species, Plot) %>%
   print(n = Inf)
 
-# Number of validations by species (should all be at least 100)
+# Number of validations by species 
 class_to_valid %>%
-  count(Common.name) %>%
+  count(Species) %>%
   print(n = Inf)
 
 # Total number to validate
@@ -217,8 +226,8 @@ nrow(class_to_valid)
 
 # Number of sites with at least one validations by species
 class_to_valid %>%
-  count(Plot, Common.name) %>%
-  count(Common.name) %>%
+  count(Plot, Species) %>%
+  count(Species) %>%
   print(n = Inf)
 
 # Start a species counter
@@ -234,7 +243,7 @@ glimpse(class_to_valid)
   
 # Loop over the files I need to validate and convert them to wav
 for(i in 1:nrow(class_to_valid)){
-  
+
   # Define and reset a counter for numbered files from the same recording
   rec_count <- 1
   rec_count_pad <- str_pad(rec_count, width = 3, pad = "0")
@@ -242,21 +251,25 @@ for(i in 1:nrow(class_to_valid)){
   # pull out some information from the recording
   aru_id <- class_to_valid$Plot[i]
   aru_file <- class_to_valid$File[i]
-  conf_val_tmp <-  str_remove_all(as.character(round(class_to_valid$Confidence[i], 2)), "0\\.")
+  conf_val_tmp <- as.character(round(class_to_valid$Confidence[i], 2))
   conf_val <- ifelse(str_length(conf_val_tmp) < 2, paste0(conf_val_tmp, "0"), conf_val_tmp)
-  conf_score <-  paste0("C", conf_val)
+ 
   # Start time 
   start_sec_tmp <- class_to_valid$Start.sec[i]
   start_sec <- ifelse(start_sec_tmp == 0, 0, start_sec_tmp - 1)
   # End time (note the 5 second length)
   end_sec_tmp <- start_sec + 5
   end_sec <- ifelse(end_sec_tmp >= 3600, 3600, end_sec_tmp)
-  species_file <- class_to_valid$Common.name[i]
+  species_file <- class_to_valid$Species[i]
   
   # Transform the species name into a file name
   species_file <- str_remove_all(species_file, "'")
   species_file <- str_replace_all(species_file, " ", "_")
   species_file <- str_replace_all(species_file, "-", "_")
+  
+  # Same with the ARU name
+  aru_id <- str_remove(basename(aru_file), "\\.wav$")
+  aru_id <- str_replace(aru_id, "-", "_") 
 
  # Read in the audio file
   wav <- readWave(aru_file,
@@ -266,10 +279,10 @@ for(i in 1:nrow(class_to_valid)){
                   header = FALSE)
   
   # Rename the file 
-  new_wav_name <- paste0(str_remove(basename(aru_file), "\\.wav$"), 
+  new_wav_name <- paste0(conf_val, "_",
+                         aru_id, 
                          "_", 
                          rec_count_pad,
-                         "_", conf_score, 
                          ".wav")
   
   # Output destination for the new wav
@@ -282,9 +295,9 @@ for(i in 1:nrow(class_to_valid)){
     rec_count_pad <- str_pad(rec_count, width = 3, pad = "0")
     # Rename the file
     new_wav_path <- path(output_dir, species_file, 
-                         paste0(str_remove(basename(aru_file), "\\.wav$"), "_", 
+                         paste0(conf_val, "_",
+                                aru_id, "_", 
                                 rec_count_pad, "_",
-                                conf_score,
                                 ".wav"))
   }       
   
@@ -295,12 +308,12 @@ for(i in 1:nrow(class_to_valid)){
   class_to_valid$New.File[i] <- new_wav_path
   
   # After finishing each species 
-  if(i %% n_wav == 0){
+  if(i %% n_sample == 0){
     # Increase the species counter 
     species_count <- species_count + 1
     # Reset the recording counter 
     # Let me know
-    message("Created 5s recordings to validate for ", class_to_valid$Common.name[i], 
+    message("Created 5s recordings to validate for ", class_to_valid$Species[i], 
             " 🐦🐸. Species ", species_count, " out of ", n_species)
   }
   
@@ -310,10 +323,12 @@ for(i in 1:nrow(class_to_valid)){
 
 # View 
 glimpse(class_to_valid)
+class_to_valid |> count(Species)
+  
 
 # Save as a .csv
 class_to_valid %>%
-  arrange(Common.name) %>%
+  arrange(Species) %>%
   rowid_to_column() %>%
   # Save as a csv
   write.csv(path(csv_dir, output_summary_file), 

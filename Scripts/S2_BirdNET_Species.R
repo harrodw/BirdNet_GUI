@@ -25,7 +25,7 @@ library(birdnetR)
 set.seed(27606)
 
 # Read in the total list of species
-all_species <- read.csv("C:/NCSU/Data/BirdNET_Info/all_species_metadata.csv")
+all_species <- read.csv("/home/will/NCSU/Data/BirdNET_Info/all_species_metadata.csv")
 
 # View the structure
 glimpse(all_species)
@@ -63,7 +63,7 @@ all_anthro$full_code
 psb_anthro_codes <- c(
   "Dog_Dog", 
   "Engine_Engine", 
-  # "Environmental_Environmental", 
+  "Environmental_Environmental",
   # "Fireworks_Fireworks", 
   "Gun_Gun", 
   "Human non-vocal_Human non-vocal", 
@@ -155,6 +155,12 @@ psb_frogs <- all_frogs %>%
 # View
 slice_head(psb_frogs, n = Inf)
 
+# Save the frog list
+psb_frogs |> 
+  pull(full_code) |> 
+  write_lines("Data/possible_frogs.txt")
+
+
 # 2.4) Birds -------------------------------------------------------------------
 
 # How many birds?
@@ -188,7 +194,7 @@ pred_birds$label
 # List of possible birds 
 psb_bird_codes <- taxonomic_bird_list <- c(
     "Colinus virginianus_Northern Bobwhite",
-    "Meleagris gallopavo_Wild Turkey",
+    # "Meleagris gallopavo_Wild Turkey",
     # "Branta canadensis_Canada Goose",
     # "Aix sponsa_Wood Duck",
     # "Spatula discors_Blue-winged Teal",
@@ -207,7 +213,7 @@ psb_bird_codes <- taxonomic_bird_list <- c(
     # "Fulica americana_American Coot",
     # "Haematopus palliatus_American Oystercatcher",
     # "Pluvialis squatarola_Black-bellied Plover",
-    "Charadrius vociferus_Killdeer",
+    # "Charadrius vociferus_Killdeer",
     # "Charadrius semipalmatus_Semipalmated Plover",
     # "Numenius phaeopus_Whimbrel",
     # "Arenaria interpres_Ruddy Turnstone",
@@ -252,7 +258,7 @@ psb_bird_codes <- taxonomic_bird_list <- c(
     # "Accipiter cooperii_Cooper's Hawk",
     # "Buteo lineatus_Red-shouldered Hawk",
     # "Buteo jamaicensis_Red-tailed Hawk",
-    "Strix varia_Barred Owl",
+    # "Strix varia_Barred Owl",
     # "Megaceryle alcyon_Belted Kingfisher",
     "Melanerpes erythrocephalus_Red-headed Woodpecker",
     "Melanerpes carolinus_Red-bellied Woodpecker",
@@ -271,8 +277,8 @@ psb_bird_codes <- taxonomic_bird_list <- c(
     # "Vireo solitarius_Blue-headed Vireo",
     "Vireo olivaceus_Red-eyed Vireo",
     "Cyanocitta cristata_Blue Jay",
-    "Corvus brachyrhynchos_American Crow",
-    "Corvus ossifragus_Fish Crow",
+    # "Corvus brachyrhynchos_American Crow",
+    # "Corvus ossifragus_Fish Crow",
     # "Poecile atricapillus_Black-capped Chickadee",
     "Poecile carolinensis_Carolina Chickadee",
     "Baeolophus bicolor_Tufted Titmouse",
@@ -302,11 +308,11 @@ psb_bird_codes <- taxonomic_bird_list <- c(
     "Spinus tristis_American Goldfinch",
     "Spizella passerina_Chipping Sparrow",
     "Spizella pusilla_Field Sparrow",
-    "Passerculus sandwichensis_Savannah Sparrow",
+    # "Passerculus sandwichensis_Savannah Sparrow",
     # "Ammospiza maritima_Seaside Sparrow",
     "Melospiza melodia_Song Sparrow",
-    "Melospiza georgiana_Swamp Sparrow",
-    "Zonotrichia albicollis_White-throated Sparrow",
+    # "Melospiza georgiana_Swamp Sparrow",
+    # "Zonotrichia albicollis_White-throated Sparrow",
     "Pipilo erythrophthalmus_Eastern Towhee",
     "Icteria virens_Yellow-breasted Chat",
     # "Dolichonyx oryzivorus_Bobolink",
@@ -341,7 +347,7 @@ psb_bird_codes <- taxonomic_bird_list <- c(
     # "Setophaga virens_Black-throated Green Warbler",
     # "Setophaga striata_Blackpoll Warbler",
     "Piranga rubra_Summer Tanager",
-    "Piranga olivacea_Scarlet Tanager",
+    # "Piranga olivacea_Scarlet Tanager",
     "Cardinalis cardinalis_Northern Cardinal",
     # "Pheucticus ludovicianus_Rose-breasted Grosbeak",
     "Passerina caerulea_Blue Grosbeak",
@@ -365,7 +371,7 @@ nrow(psb_birds)
 ################################################################################
 
 # Define a working directory
-wd <- "C:/NCSU/Disertation_Code/BirdNet_GUI"
+wd <- "/home/will/NCSU/R_Code/BirdNet_GUI"
 setwd(wd)
 
 # Combine the lists

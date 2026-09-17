@@ -117,7 +117,8 @@ bn_results_taxon <- left_join(bn_results, psb_species,
                            TRUE ~ class),
          order = case_when(Latin.Name == "Dog" ~ "Carnivora",
                            Latin.Name %in% anthro_sounds ~ "Anthropogenic",
-                           TRUE ~ order))  |> 
+                           TRUE ~ order),
+         Date = ymd(Date))  |> 
   arrange(class, order, Species) |> 
   # Extract information from the file names
   mutate(
@@ -139,12 +140,21 @@ bn_results_taxon <- left_join(bn_results, psb_species,
          )
 
 
+# Drop the bird vocalizations before May 
+bn_results_frog <-  bn_results_taxon |> filter(class %in% c("Amphibia", "Anthropogenic"))
+glimpse(bn_results_frog)
+bn_results_bird <-  bn_results_taxon |> filter(class == "Aves" & ymd(Date) >= ymd("2026-05-01"))
+glimpse(bn_results_bird)
+
+# Combine
+bn_results_full <-  bind_rows(bn_results_bird, bn_results_frog)
+
 # View
-glimpse(bn_results_taxon)
-print(bn_results_taxon, n = 30)
+glimpse(bn_results_full)
+print(bn_results_full, n = 30)
 
 # Save the full results
-bn_results_taxon |> write.csv("Data/preliminary_BirdNET_Results.csv")
+bn_results_full |> write.csv("Data/preliminary_BirdNET_Results.csv")
 
 # Summarize by species
 species_sums <- bn_results_taxon |> 
@@ -160,35 +170,3 @@ species_sums |>
 
 # Save the summary
 write.csv(species_sums, "Data/bn_naive_species_summary.csv")
-
-################################################################################
-# 3) Plots ######################################################################
-################################################################################
-
-
-# Naive number of species by site
-site_sums <- bn_results_taxon |> 
-  distinct(Plot, Plot.Type, Common.name) |> 
-  group_by(Plot, Plot.Type) |> 
-  reframe(Plot, Plot.Type, Species.Count = n()) |> 
-  distinct()
-
-# View
-glimpse(site_sums)
-print(site_sums, n = Inf)
-
-# Plot of species by site
-site_sums |> 
-  ggplot() +
-  geom_col(aes(x = Plot, y = Species.Count, col = Plot.Type, fill = Plot.Type)) +
-  theme_classic()
-
-# Plot of species by plot type
-site_sums |> 
-  ggplot() +
-  geom_boxplot(aes(x = Plot.Type, y = Species.Count)) +
-  theme_classic()
-
-# View a specific species
-bn_results_taxon |> 
-  filter(Common.name == "Green Frog")

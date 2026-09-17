@@ -37,13 +37,10 @@ Setophaga citrina_Hooded Warbler
 Setophaga discolor_Prairie Warbler
 Setophaga dominica_Yellow-throated Warbler
 Setophaga pinus_Pine Warbler
-Melospiza georgiana_Swamp Sparrow
 Melospiza melodia_Song Sparrow
-Passerculus sandwichensis_Savannah Sparrow
 Pipilo erythrophthalmus_Eastern Towhee
 Spizella passerina_Chipping Sparrow
 Spizella pusilla_Field Sparrow
-Zonotrichia albicollis_White-throated Sparrow
 Polioptila caerulea_Blue-gray Gnatcatcher
 Sitta carolinensis_White-breasted Nuthatch
 Sitta pusilla_Brown-headed Nuthatch

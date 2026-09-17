@@ -1,84 +1,90 @@
-"","class","order","Latin.name","Common.name","Count","mean.Conf"
-"1","Amphibia","Anura","Anaxyrus fowleri","Fowler's Toad",1,0.3478
-"2","Amphibia","Anura","Anaxyrus terrestris","Southern Toad",116,0.383598275862069
-"3","Amphibia","Anura","Dryophytes chrysoscelis","Cope's Gray Treefrog",2,0.50235
-"4","Amphibia","Anura","Gastrophryne carolinensis","Eastern Narrow-mouthed Toad",8,0.401375
-"5","Amphibia","Anura","Lithobates clamitans","Green Frog",2,0.33005
-"6","Amphibia","Anura","Lithobates palustris","Pickerel Frog",9131,0.447190877231409
-"7","Amphibia","Anura","Pseudacris brimleyi","Brimley's Chorus Frog",2550,0.635314588235294
-"8","Amphibia","Anura","Pseudacris crucifer","Spring Peeper",3321,0.389900873230955
-"9","Amphibia","Anura","Pseudacris ocularis","Little Grass Frog",27,0.494648148148148
-"10","Anthropogenic","Anthropogenic","Engine","Engine",19592,0.397009284401797
-"11","Anthropogenic","Anthropogenic","Gun","Gun",45,0.342715555555556
-"12","Anthropogenic","Anthropogenic","Human non-vocal","Human non-vocal",1,0.291
-"13","Anthropogenic","Anthropogenic","Human vocal","Human vocal",6,0.305816666666667
-"14","Anthropogenic","Anthropogenic","Power tools","Power tools",5,0.301
-"15","Aves","Caprimulgiformes","Antrostomus carolinensis","Chuck-will's-widow",3152,0.873372969543147
-"16","Aves","Caprimulgiformes","Antrostomus vociferus","Eastern Whip-poor-will",24,0.411345833333333
-"17","Aves","Charadriiformes","Charadrius vociferus","Killdeer",272,0.642340073529412
-"18","Aves","Columbiformes","Zenaida macroura","Mourning Dove",3773,0.537718791412669
-"19","Aves","Cuculiformes","Coccyzus americanus","Yellow-billed Cuckoo",39,0.425697435897436
-"20","Aves","Galliformes","Colinus virginianus","Northern Bobwhite",11,0.412372727272727
-"21","Aves","Galliformes","Meleagris gallopavo","Wild Turkey",367,0.620641416893733
-"22","Aves","Passeriformes","Agelaius phoeniceus","Red-winged Blackbird",4,0.305975
-"23","Aves","Passeriformes","Baeolophus bicolor","Tufted Titmouse",8119,0.471815753171573
-"24","Aves","Passeriformes","Cardinalis cardinalis","Northern Cardinal",6306,0.501575705677133
-"25","Aves","Passeriformes","Contopus virens","Eastern Wood-Pewee",21,0.359095238095238
-"26","Aves","Passeriformes","Corvus brachyrhynchos","American Crow",21192,0.537727798225746
-"27","Aves","Passeriformes","Corvus ossifragus","Fish Crow",646,0.44385959752322
-"28","Aves","Passeriformes","Cyanocitta cristata","Blue Jay",84,0.461590476190476
-"29","Aves","Passeriformes","Dumetella carolinensis","Gray Catbird",156,0.53988782051282
-"30","Aves","Passeriformes","Empidonax virescens","Acadian Flycatcher",124,0.421829838709677
-"31","Aves","Passeriformes","Geothlypis trichas","Common Yellowthroat",2172,0.486488674033149
-"32","Aves","Passeriformes","Haemorhous mexicanus","House Finch",46,0.394358695652174
-"33","Aves","Passeriformes","Hylocichla mustelina","Wood Thrush",1220,0.557955409836066
-"34","Aves","Passeriformes","Icteria virens","Yellow-breasted Chat",5,0.44804
-"35","Aves","Passeriformes","Icterus spurius","Orchard Oriole",9,0.342977777777778
-"36","Aves","Passeriformes","Limnothlypis swainsonii","Swainson's Warbler",110,0.364810909090909
-"37","Aves","Passeriformes","Melospiza georgiana","Swamp Sparrow",5573,0.618858621927149
-"38","Aves","Passeriformes","Melospiza melodia","Song Sparrow",267,0.48409925093633
-"39","Aves","Passeriformes","Mimus polyglottos","Northern Mockingbird",7,0.4572
-"40","Aves","Passeriformes","Mniotilta varia","Black-and-white Warbler",843,0.531946026097272
-"41","Aves","Passeriformes","Molothrus ater","Brown-headed Cowbird",1505,0.534334418604651
-"42","Aves","Passeriformes","Myiarchus crinitus","Great Crested Flycatcher",317,0.505523659305994
-"43","Aves","Passeriformes","Parkesia motacilla","Louisiana Waterthrush",119,0.356357142857143
-"44","Aves","Passeriformes","Passerculus sandwichensis","Savannah Sparrow",127,0.385824409448819
-"45","Aves","Passeriformes","Passerina caerulea","Blue Grosbeak",72,0.5480125
-"46","Aves","Passeriformes","Passerina cyanea","Indigo Bunting",55,0.484650909090909
-"47","Aves","Passeriformes","Pipilo erythrophthalmus","Eastern Towhee",19570,0.584570669391926
-"48","Aves","Passeriformes","Piranga olivacea","Scarlet Tanager",356,0.402938202247191
-"49","Aves","Passeriformes","Piranga rubra","Summer Tanager",123,0.557769105691057
-"50","Aves","Passeriformes","Poecile carolinensis","Carolina Chickadee",6334,0.580820003157562
-"51","Aves","Passeriformes","Polioptila caerulea","Blue-gray Gnatcatcher",2049,0.649041874084919
-"52","Aves","Passeriformes","Protonotaria citrea","Prothonotary Warbler",41,0.334670731707317
-"53","Aves","Passeriformes","Sayornis phoebe","Eastern Phoebe",26,0.403088461538462
-"54","Aves","Passeriformes","Seiurus aurocapilla","Ovenbird",5220,0.617734540229885
-"55","Aves","Passeriformes","Setophaga americana","Northern Parula",13,0.314284615384615
-"56","Aves","Passeriformes","Setophaga citrina","Hooded Warbler",959,0.442421376433785
-"57","Aves","Passeriformes","Setophaga discolor","Prairie Warbler",780,0.645695
-"58","Aves","Passeriformes","Setophaga dominica","Yellow-throated Warbler",1226,0.373029363784666
-"59","Aves","Passeriformes","Setophaga pinus","Pine Warbler",33330,0.658071695169517
-"60","Aves","Passeriformes","Sialia sialis","Eastern Bluebird",3376,0.716274496445498
-"61","Aves","Passeriformes","Sitta carolinensis","White-breasted Nuthatch",48,0.39116875
-"62","Aves","Passeriformes","Sitta pusilla","Brown-headed Nuthatch",4049,0.800231637441344
-"63","Aves","Passeriformes","Spinus tristis","American Goldfinch",295,0.472549830508475
-"64","Aves","Passeriformes","Spizella passerina","Chipping Sparrow",11666,0.568599245671181
-"65","Aves","Passeriformes","Spizella pusilla","Field Sparrow",6431,0.56229987560255
-"66","Aves","Passeriformes","Sturnella magna","Eastern Meadowlark",1084,0.622892712177122
-"67","Aves","Passeriformes","Thryothorus ludovicianus","Carolina Wren",2100,0.571345952380952
-"68","Aves","Passeriformes","Toxostoma rufum","Brown Thrasher",211,0.467202369668246
-"69","Aves","Passeriformes","Troglodytes aedon","House Wren",2,0.32105
-"70","Aves","Passeriformes","Turdus migratorius","American Robin",297,0.422917508417508
-"71","Aves","Passeriformes","Tyrannus tyrannus","Eastern Kingbird",15,0.64772
-"72","Aves","Passeriformes","Vireo flavifrons","Yellow-throated Vireo",29,0.417755172413793
-"73","Aves","Passeriformes","Vireo griseus","White-eyed Vireo",924,0.590356926406926
-"74","Aves","Passeriformes","Vireo olivaceus","Red-eyed Vireo",9,0.355233333333333
-"75","Aves","Passeriformes","Zonotrichia albicollis","White-throated Sparrow",1736,0.506107085253456
-"76","Aves","Piciformes","Colaptes auratus","Northern Flicker",2023,0.539030845279288
-"77","Aves","Piciformes","Dryobates pubescens","Downy Woodpecker",2387,0.566725094260578
-"78","Aves","Piciformes","Dryobates villosus","Hairy Woodpecker",561,0.630077361853832
-"79","Aves","Piciformes","Dryocopus pileatus","Pileated Woodpecker",1562,0.6964771446863
-"80","Aves","Piciformes","Melanerpes carolinus","Red-bellied Woodpecker",664,0.456365813253012
-"81","Aves","Piciformes","Melanerpes erythrocephalus","Red-headed Woodpecker",58,0.420146551724138
-"82","Aves","Strigiformes","Strix varia","Barred Owl",2807,0.473536658354115
-"83","Mammalia","Carnivora","Dog","Dog",77,0.409718181818182
+"","class","order","Latin.Name","Species","Count","mean.Conf"
+"1","Amphibia","Anura","Anaxyrus fowleri","Fowler's Toad",45,0.326353333333333
+"2","Amphibia","Anura","Anaxyrus terrestris","Southern Toad",4362,0.374316460339294
+"3","Amphibia","Anura","Dryophytes chrysoscelis","Cope's Gray Treefrog",3165,0.461777061611374
+"4","Amphibia","Anura","Dryophytes cinereus","Green Treefrog",107,0.380931775700935
+"5","Amphibia","Anura","Dryophytes femoralis","Pine Woods Treefrog",11361,0.656182466332189
+"6","Amphibia","Anura","Dryophytes squirellus","Squirrel Treefrog",121,0.384326446280992
+"7","Amphibia","Anura","Dryophytes versicolor","Gray Treefrog",6,0.277483333333333
+"8","Amphibia","Anura","Gastrophryne carolinensis","Eastern Narrow-mouthed Toad",24529,0.429893228423499
+"9","Amphibia","Anura","Lithobates catesbeianus","American Bullfrog",42,0.309614285714286
+"10","Amphibia","Anura","Lithobates clamitans","Green Frog",49,0.24625306122449
+"11","Amphibia","Anura","Lithobates palustris","Pickerel Frog",97030,0.412552403380398
+"12","Amphibia","Anura","Pseudacris brimleyi","Brimley's Chorus Frog",30821,0.60877271989877
+"13","Amphibia","Anura","Pseudacris crucifer","Spring Peeper",23866,0.336444376937903
+"14","Amphibia","Anura","Pseudacris ocularis","Little Grass Frog",5294,0.591250850018889
+"15","Anthropogenic","Anthropogenic","Anthropogenic Anthropogenic","Engine",250630,0.345596992379204
+"16","Anthropogenic","Anthropogenic","Anthropogenic Anthropogenic","Gun",1111,0.278637893789379
+"17","Anthropogenic","Anthropogenic","Anthropogenic Anthropogenic","Human non-vocal",18,0.280077777777778
+"18","Anthropogenic","Anthropogenic","Anthropogenic Anthropogenic","Human vocal",170,0.29918
+"19","Anthropogenic","Anthropogenic","Anthropogenic Anthropogenic","Power tools",380,0.396667631578947
+"20","Aves","Apodiformes","Archilochus colubris","Ruby-throated Hummingbird",1410,0.32965829787234
+"21","Aves","Caprimulgiformes","Antrostomus carolinensis","Chuck-will's-widow",151785,0.837527407846625
+"22","Aves","Caprimulgiformes","Antrostomus vociferus","Eastern Whip-poor-will",477,0.329055765199161
+"23","Aves","Charadriiformes","Charadrius vociferus","Killdeer",2570,0.564252957198444
+"24","Aves","Columbiformes","Zenaida macroura","Mourning Dove",66306,0.504395306608753
+"25","Aves","Cuculiformes","Coccyzus americanus","Yellow-billed Cuckoo",6940,0.498771527377522
+"26","Aves","Galliformes","Colinus virginianus","Northern Bobwhite",41826,0.328320264906996
+"27","Aves","Galliformes","Meleagris gallopavo","Wild Turkey",6309,0.543093374544302
+"28","Aves","Passeriformes","Agelaius phoeniceus","Red-winged Blackbird",173,0.293624855491329
+"29","Aves","Passeriformes","Baeolophus bicolor","Tufted Titmouse",78107,0.420601428809198
+"30","Aves","Passeriformes","Cardinalis cardinalis","Northern Cardinal",99403,0.439245093206442
+"31","Aves","Passeriformes","Contopus virens","Eastern Wood-Pewee",44676,0.518462169845107
+"32","Aves","Passeriformes","Corvus brachyrhynchos","American Crow",263523,0.496059797816509
+"33","Aves","Passeriformes","Corvus ossifragus","Fish Crow",13470,0.401466243504083
+"34","Aves","Passeriformes","Cyanocitta cristata","Blue Jay",3655,0.382856142270862
+"35","Aves","Passeriformes","Dumetella carolinensis","Gray Catbird",41118,0.547624101366798
+"36","Aves","Passeriformes","Empidonax virescens","Acadian Flycatcher",41946,0.510996135507557
+"37","Aves","Passeriformes","Geothlypis trichas","Common Yellowthroat",114334,0.506049511081568
+"38","Aves","Passeriformes","Haemorhous mexicanus","House Finch",1088,0.325591636029412
+"39","Aves","Passeriformes","Hylocichla mustelina","Wood Thrush",36079,0.541989367776269
+"40","Aves","Passeriformes","Icteria virens","Yellow-breasted Chat",41891,0.478406552720155
+"41","Aves","Passeriformes","Icterus spurius","Orchard Oriole",2740,0.301510109489051
+"42","Aves","Passeriformes","Limnothlypis swainsonii","Swainson's Warbler",62127,0.29875897596858
+"43","Aves","Passeriformes","Melospiza georgiana","Swamp Sparrow",39679,0.564127878726782
+"44","Aves","Passeriformes","Melospiza melodia","Song Sparrow",1038,0.438475337186898
+"45","Aves","Passeriformes","Mimus polyglottos","Northern Mockingbird",658,0.329050455927052
+"46","Aves","Passeriformes","Mniotilta varia","Black-and-white Warbler",16264,0.494942418839154
+"47","Aves","Passeriformes","Molothrus ater","Brown-headed Cowbird",29003,0.48629419025618
+"48","Aves","Passeriformes","Myiarchus crinitus","Great Crested Flycatcher",33597,0.561528892460636
+"49","Aves","Passeriformes","Parkesia motacilla","Louisiana Waterthrush",5760,0.323233559027778
+"50","Aves","Passeriformes","Passerculus sandwichensis","Savannah Sparrow",1387,0.363739798125451
+"51","Aves","Passeriformes","Passerina caerulea","Blue Grosbeak",63386,0.61674770611807
+"52","Aves","Passeriformes","Passerina cyanea","Indigo Bunting",172076,0.558535502336177
+"53","Aves","Passeriformes","Pipilo erythrophthalmus","Eastern Towhee",297575,0.525774675964043
+"54","Aves","Passeriformes","Piranga olivacea","Scarlet Tanager",13573,0.323198607529654
+"55","Aves","Passeriformes","Piranga rubra","Summer Tanager",64689,0.601867713212447
+"56","Aves","Passeriformes","Poecile carolinensis","Carolina Chickadee",77271,0.531572536915531
+"57","Aves","Passeriformes","Polioptila caerulea","Blue-gray Gnatcatcher",47544,0.487851350328117
+"58","Aves","Passeriformes","Protonotaria citrea","Prothonotary Warbler",57496,0.294060920759705
+"59","Aves","Passeriformes","Sayornis phoebe","Eastern Phoebe",1811,0.374236223081171
+"60","Aves","Passeriformes","Seiurus aurocapilla","Ovenbird",105786,0.574670483806931
+"61","Aves","Passeriformes","Setophaga americana","Northern Parula",527,0.274151043643264
+"62","Aves","Passeriformes","Setophaga citrina","Hooded Warbler",73817,0.484159345408239
+"63","Aves","Passeriformes","Setophaga discolor","Prairie Warbler",19215,0.528017611241218
+"64","Aves","Passeriformes","Setophaga dominica","Yellow-throated Warbler",39336,0.310557072401871
+"65","Aves","Passeriformes","Setophaga pinus","Pine Warbler",263139,0.541207294243727
+"66","Aves","Passeriformes","Sialia sialis","Eastern Bluebird",38323,0.661772202071863
+"67","Aves","Passeriformes","Sitta carolinensis","White-breasted Nuthatch",1070,0.359957663551402
+"68","Aves","Passeriformes","Sitta pusilla","Brown-headed Nuthatch",50632,0.752951368699637
+"69","Aves","Passeriformes","Spinus tristis","American Goldfinch",11673,0.434379970872955
+"70","Aves","Passeriformes","Spizella passerina","Chipping Sparrow",156373,0.488662162905361
+"71","Aves","Passeriformes","Spizella pusilla","Field Sparrow",100233,0.522549248251574
+"72","Aves","Passeriformes","Sturnella magna","Eastern Meadowlark",16599,0.589221603711067
+"73","Aves","Passeriformes","Thryothorus ludovicianus","Carolina Wren",45657,0.582830818932475
+"74","Aves","Passeriformes","Toxostoma rufum","Brown Thrasher",17881,0.532040819864661
+"75","Aves","Passeriformes","Troglodytes aedon","House Wren",53,0.330447169811321
+"76","Aves","Passeriformes","Turdus migratorius","American Robin",2273,0.368566959964804
+"77","Aves","Passeriformes","Tyrannus tyrannus","Eastern Kingbird",593,0.511802360876897
+"78","Aves","Passeriformes","Vireo flavifrons","Yellow-throated Vireo",2278,0.318637884108867
+"79","Aves","Passeriformes","Vireo griseus","White-eyed Vireo",61817,0.527449274471424
+"80","Aves","Passeriformes","Vireo olivaceus","Red-eyed Vireo",3772,0.422002200424178
+"81","Aves","Passeriformes","Zonotrichia albicollis","White-throated Sparrow",16243,0.433366065382011
+"82","Aves","Piciformes","Colaptes auratus","Northern Flicker",19906,0.533566572892595
+"83","Aves","Piciformes","Dryobates pubescens","Downy Woodpecker",15897,0.510123910171731
+"84","Aves","Piciformes","Dryobates villosus","Hairy Woodpecker",4509,0.577265069860279
+"85","Aves","Piciformes","Dryocopus pileatus","Pileated Woodpecker",17959,0.556284614956289
+"86","Aves","Piciformes","Melanerpes carolinus","Red-bellied Woodpecker",10188,0.408676069886141
+"87","Aves","Piciformes","Melanerpes erythrocephalus","Red-headed Woodpecker",4153,0.343623910426198
+"88","Aves","Strigiformes","Strix varia","Barred Owl",29220,0.406708312799452
+"89","Mammalia","Carnivora","Canus lupis","Dog",1430,0.394687342657343
