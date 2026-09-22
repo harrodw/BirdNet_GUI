@@ -354,7 +354,7 @@ psb_bird_codes <- taxonomic_bird_list <- c(
     "Passerina cyanea_Indigo Bunting"
     # "Passerina ciris_Painted Bunting"
   )
-  
+
 # Filter the full list 
 psb_birds <- all_birds %>% 
   filter(full_code %in% psb_bird_codes) %>% 

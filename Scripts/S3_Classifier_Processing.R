@@ -17,7 +17,7 @@ library(fs)
 set.seed(27606)
 
 # Define the working directory as the folder that holds the BirdNET csv's
-wd <- "/media/will/Timbermill/BirdNet_Output"
+wd <- "/media/will/Timbermill/BirdNet_Output_NoConf"
 
 # Viw the folders in that working directory
 sites <- dir_ls(wd, regexp = "[A-Z]{2}\\d{2}")
@@ -39,12 +39,23 @@ bn_results_s1r1 <- bn_results_s1[1] |>
          End.sec = `End Time (s)`,
          Species = `Common Name`,
          File = `Begin Path`) |> 
-  select(Species, Confidence, Start.sec, End.sec, File) |> 
-  slice_head(n = 1) 
+  select(Species, Confidence, Start.sec, End.sec, File)
 
 # View
 bn_results_s1r1
 glimpse(bn_results_s1r1)
+
+# What do the confidence scores sum to?
+bn_results_s1r1 |> 
+  group_by(Start.sec) |> 
+  reframe(Start.sec, Tot.Conf = sum(Confidence)) |> 
+  distinct() |> 
+  print(n = 300)
+
+# View a second where the scores sum to over 1
+bn_results_s1r1 |> 
+  filter(Start.sec == 639) |> 
+  print(n = Inf)
 
 ################################################################################
 # 2) Data Cleaning ##############################################################
