@@ -1,13 +1,93 @@
-"","Common.name","Threshold"
-"1","Black-and-white Warbler",0.461976482189641
-"2","Brown-headed Nuthatch",0.25
-"3","Brimley's Chorus Frog",0.25
-"4","Common Yellowthroat",0.25
-"5","Eastern Towhee",0.25
-"6","Field Sparrow",0.294051846194946
-"7","Hooded Warbler",0.98791835429511
-"8","Pine Warbler",0.25
-"9","Ovenbird",0.25
-"10","Southern Toad",0.25
-"11","Spring Peeper",0.25
-"12","White-eyed Vireo",0.593152619791827
+Common Name,Completed,Positive,Negative,Skipped,Threshold,Double Check?,Other notes,class,Genus,Species
+Acadian Flycatcher,Y,126,24,0,0.55,,FPs GRCA and WYVI,Aves,Empidonax,virescens
+American Goldfinch,Y,114,36,0,0.58,,Confused by INBU,Aves,Spinus,tristis
+American Robin,Y,37,113,0,0.88,,,Aves,Turdus,migratorius
+Black-and-white Warbler,Y,129,7,15,0.39,,,Aves,Mniotilta,varia
+Blue Grosbeak,Y,127,0,23,0.25,,Lots of chips,Aves,Passerina,caerulea
+Blue Jay,Y,113,37,0,0.62,,FP all turbine noise,Aves,Cyanocitta,cristata
+Blue-gray Gnatcatcher,Y,149,1,0,0.25,,,Aves,Polioptila,caerulea
+Brown Thrasher,Y,60,90,0,0.95,,Confused by catbird,Aves,Toxostoma,rufum
+Brown-headed Cowbird,Y,147,3,0,0.28,,,Aves,Molothrus,ater
+Brown-headed Nuthatch,Y,148,2,0,0.33,,,Aves,Sitta,pusilla
+Carolina Chickadee,Y,150,0,0,0.25,,,Aves,Poecile,carolinensis
+Carolina Wren,Y,150,0,0,0.25,,,Aves,Thryothorus,ludovicianus
+Chipping Sparrow,Y,143,3,4,0.26,,,Aves,Spizella,passerina
+Chuck-will's-widow,Y,148,2,0,0.43,,,Aves,Antrostomus,carolinensis
+Common Yellowthroat,Y,150,0,0,0.25,,Validated chips because they are distinctive. 0.29_SMM2_02_20260525_185100_001.wav has a great narrow mouth toad,Aves,Geothlypis,trichas
+Downy Woodpecker,Y,144,6,0,0.44,,,Aves,Dryobates,pubescens
+Eastern Bluebird,Y,136,14,0,0.53,,,Aves,Sialia,sialis
+Eastern Kingbird,,,,,,,,Aves,Tyrannus,tyrannus
+Eastern Towhee,Y,149,1,0,0.25,,,Aves,Pipilo,erythrophthalmus
+Eastern Whip-poor-will,,,,,,,,Aves,Antrostomus,vociferus
+Eastern Wood-Pewee,Y,146,4,0,0.35,,,Aves,Contopus,virens
+Field Sparrow,Y,123,8,19,0.49,,,Aves,Spizella,pusilla
+Gray Catbird,Y,150,0,0,0.25,,,Aves,Dumetella,carolinensis
+Great Crested Flycatcher,Y,147,3,0,0.33,,,Aves,Myiarchus,crinitus
+Hairy Woodpecker,Y,136,14,0,0.55,,Gun in 0.74_SMM2_28_20260602_185600_001.wav,Aves,Dryobates,villosus
+Hooded Warbler,Y,80,63,7,0.89,,All false positives were COYE,Aves,Setophaga,citrina
+House Finch,,,,,,,,Aves,Haemorhous,mexicanus
+Indigo Bunting,Y,147,0,3,0.25,,,Aves,Passerina,cyanea
+Louisiana Waterthrush,N,0,29,21,1,,I don't think any are present at my sites. No songs heard,Aves,Parkesia,motacilla
+Mourning Dove,Y,143,7,0,0.37,,,Aves,Zenaida,macroura
+Northern Bobwhite,Y,67,83,0,0.56,,Many FPs NOCA,Aves,Colinus,virginianus
+Northern Cardinal,Y,135,13,2,0.57,Y,Recheck negatives,Aves,Cardinalis,cardinalis
+Northern Flicker,Y,144,6,0,0.39,,FPs PIWO,Aves,Colaptes,auratus
+Northern Mockingbird,,,,,,,,Aves,Mimus,polyglottos
+Northern Parula,N,2,48,100,1,,Confused by PRWA,Aves,Setophaga,americana
+Orchard Oriole,,,,,,,,Aves,Icterus,spurius
+Ovenbird,Y,148,2,0,0.25,,,Aves,Seiurus,aurocapilla
+Pileated Woodpecker,Y,102,48,0,0.76,,,Aves,Dryocopus,pileatus
+Pine Warbler,Y,139,11,0,0.63,,,Aves,Setophaga,pinus
+Prairie Warbler,Y,66,76,6,0.88,Y,False Psoitives mostly FISP,Aves,Setophaga,discolor
+Prothonotary Warbler,,,,,,,,Aves,Protonotaria,citrea
+Red-bellied Woodpecker,Y,109,41,0,0.68,,0.3_SMM2_29_20260517_043800_001 has screech-owl!,Aves,Melanerpes,carolinus
+Red-eyed Vireo,Y,121,22,7,0.51,,Skipped mobbing sounds,Aves,Vireo,olivaceus
+Red-winged Blackbird,,,,,,,,Aves,Agelaius,phoeniceus
+Ruby-throated Hummingbird,,,,,,,FPs F. femoralis,Aves,Archilochus,colubris
+Summer Tanager,Y,148,2,0,0.3,,,Aves,Piranga,rubra
+Swainson's Warbler,N,0,0,0,1,,"After failing to define a threshold using the methof for other birds, I filtered scores until the histogram was reasonably flat at 0.6 minimum, then resampled recordings to validate",Aves,Limnothlypis,swainsonii
+Tufted Titmouse,Y,148,2,0,0.25,,,Aves,Baeolophus,bicolor
+White-breasted Nuthatch,Y,83,67,0,0.86,,,Aves,Sitta,carolinensis
+White-eyed Vireo,Y,146,4,0,0.39,,,Aves,Vireo,griseus
+Wild Turkey,Y,84,66,0,0.86,,Confused by dogs,Aves,Meleagris,gallopavo
+Wood Thrush,Y,68,82,0,0.7,,FPs mostly EATO and REVI,Aves,Hylocichla,mustelina
+Yellow-billed Cuckoo,Y,142,8,0,0.44,,Low confidence FPs are D. femoralis,Aves,Coccyzus,americanus
+Yellow-breasted Chat,Y,147,3,0,0.26,,,Aves,Icteria,virens
+Yellow-throated Vireo,N,3,47,100,1,,,Aves,Vireo,flavifrons
+Yellow-throated Warbler,Y,17,133,0,0.71,,FPs mostly INBU and COYE,Aves,Setophaga,dominica
+American Bullfrog,,,,,,,,Amphibia,Lithobates,catesbeianus
+Brimley's Chorus Frog,,,,,,,,Amphibia,Pseudacris,brimleyi
+Cope's Gray Treefrog,,,,,,,,Amphibia,Dryophytes,chrysoscelis
+Eastern Narrow-mouthed Toad,,,,,,,,Amphibia,Gastrophryne,carolinensis
+Fowler's Toad,,,,,,,,Amphibia,Anaxyrus,fowleri
+Gray Treefrog,,,,,,,,Amphibia,Dryophytes,versicolor
+Green Frog,,,,,,,,Amphibia,Lithobates,clamitans
+Green Treefrog,,,,,,,,Amphibia,Dryophytes,cinereus
+Little Grass Frog,,,,,,,,Amphibia,Pseudacris,ocularis
+Oak Toad,,,,,,,,Amphibia,Anaxyrus,quercicus
+Pickerel Frog,,,,,,,,Amphibia,Lithobates,palustris
+Pine Woods Treefrog,,,,,,,,Amphibia,Dryophytes,femoralis
+Southern Cricket Frog,,,,,,,,Amphibia,Acris,gryllus
+Southern Toad,,,,,,,,Amphibia,Anaxyrus,terrestris
+Spring Peeper,,,,,,,,Amphibia,Pseudacris,crucifer
+Squirrel Treefrog,,,,,,,,Amphibia,Dryophytes,squirellus
+Upland Chorus Frog,,,,,,,,Amphibia,Pseudacris,feriarum
+Validate Later or Never,,,,,,,,,,
+Engine,,,,,,,,Anthropogenic,Anthropogenic,Anthropogenic
+Gun,,,,,,,,Anthropogenic,Anthropogenic,Anthropogenic
+Human non-vocal,,,,,,,,Anthropogenic,Anthropogenic,Anthropogenic
+Human vocal,,,,,,,,Anthropogenic,Anthropogenic,Anthropogenic
+Power tools,,,,,,,,Anthropogenic,Anthropogenic,Anthropogenic
+Dog,,,,,,,,Mammalia,Canus,lupis
+Fish Crow,,,,,,,,Aves,Corvus,ossifragus
+Barred Owl,,,,,,,,Aves,Strix,varia
+American Crow,,,,,,,,Aves,Corvus,brachyrhynchos
+Swamp Sparrow,,,,,,,,Aves,Melospiza,georgiana
+White-throated Sparrow,,,,,,,,Aves,Zonotrichia,albicollis
+Song Sparrow,,,,,,,,Aves,Melospiza,melodia
+Eastern Phoebe,,,,,,,Tons of FPs when EWPE cutoff at the end,Aves,Sayornis,phoebe
+Red-headed Woodpecker,,,,,,,,Aves,Melanerpes,erythrocephalus
+Scarlet Tanager,,,,,,,,Aves,Piranga,olivacea
+House Wren,,,,,,,,Aves,Troglodytes,aedon
+Eastern Meadowlark,,,,,,,,Aves,Sturnella,magna
+Killdeer,,,,,,,,Aves,Charadrius,vociferus
