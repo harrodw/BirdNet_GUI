@@ -16,7 +16,7 @@ Chuck-will's-widow,Y,148,2,0,0.43,,,Aves,Antrostomus,carolinensis
 Common Yellowthroat,Y,150,0,0,0.25,,Validated chips because they are distinctive. 0.29_SMM2_02_20260525_185100_001.wav has a great narrow mouth toad,Aves,Geothlypis,trichas
 Downy Woodpecker,Y,144,6,0,0.44,,,Aves,Dryobates,pubescens
 Eastern Bluebird,Y,136,14,0,0.53,,,Aves,Sialia,sialis
-Eastern Kingbird,,,,,,,,Aves,Tyrannus,tyrannus
+Eastern Kingbird,Y,125,25,0,0.69,,,Aves,Tyrannus,tyrannus
 Eastern Towhee,Y,149,1,0,0.25,,,Aves,Pipilo,erythrophthalmus
 Eastern Whip-poor-will,,,,,,,,Aves,Antrostomus,vociferus
 Eastern Wood-Pewee,Y,146,4,0,0.35,,,Aves,Contopus,virens
@@ -32,18 +32,17 @@ Mourning Dove,Y,143,7,0,0.37,,,Aves,Zenaida,macroura
 Northern Bobwhite,Y,67,83,0,0.56,,Many FPs NOCA,Aves,Colinus,virginianus
 Northern Cardinal,Y,135,13,2,0.57,Y,Recheck negatives,Aves,Cardinalis,cardinalis
 Northern Flicker,Y,144,6,0,0.39,,FPs PIWO,Aves,Colaptes,auratus
-Northern Mockingbird,,,,,,,,Aves,Mimus,polyglottos
+Northern Mockingbird,Y,140,10,0,0.41,,,Aves,Mimus,polyglottos
 Northern Parula,N,2,48,100,1,,Confused by PRWA,Aves,Setophaga,americana
 Orchard Oriole,,,,,,,,Aves,Icterus,spurius
 Ovenbird,Y,148,2,0,0.25,,,Aves,Seiurus,aurocapilla
 Pileated Woodpecker,Y,102,48,0,0.76,,,Aves,Dryocopus,pileatus
 Pine Warbler,Y,139,11,0,0.63,,,Aves,Setophaga,pinus
 Prairie Warbler,Y,66,76,6,0.88,Y,False Psoitives mostly FISP,Aves,Setophaga,discolor
-Prothonotary Warbler,,,,,,,,Aves,Protonotaria,citrea
+Prothonotary Warbler,N,0,50,100,1,,I don't think they're here,Aves,Protonotaria,citrea
 Red-bellied Woodpecker,Y,109,41,0,0.68,,0.3_SMM2_29_20260517_043800_001 has screech-owl!,Aves,Melanerpes,carolinus
 Red-eyed Vireo,Y,121,22,7,0.51,,Skipped mobbing sounds,Aves,Vireo,olivaceus
-Red-winged Blackbird,,,,,,,,Aves,Agelaius,phoeniceus
-Ruby-throated Hummingbird,,,,,,,FPs F. femoralis,Aves,Archilochus,colubris
+Ruby-throated Hummingbird,Y,50,100,0,0.71,,FPs F. femoralis,Aves,Archilochus,colubris
 Summer Tanager,Y,148,2,0,0.3,,,Aves,Piranga,rubra
 Swainson's Warbler,N,0,0,0,1,,"After failing to define a threshold using the methof for other birds, I filtered scores until the histogram was reasonably flat at 0.6 minimum, then resampled recordings to validate",Aves,Limnothlypis,swainsonii
 Tufted Titmouse,Y,148,2,0,0.25,,,Aves,Baeolophus,bicolor
@@ -79,6 +78,7 @@ Human non-vocal,,,,,,,,Anthropogenic,Anthropogenic,Anthropogenic
 Human vocal,,,,,,,,Anthropogenic,Anthropogenic,Anthropogenic
 Power tools,,,,,,,,Anthropogenic,Anthropogenic,Anthropogenic
 Dog,,,,,,,,Mammalia,Canus,lupis
+Red-winged Blackbird,,,,,,,,Aves,Agelaius,phoeniceus
 Fish Crow,,,,,,,,Aves,Corvus,ossifragus
 Barred Owl,,,,,,,,Aves,Strix,varia
 American Crow,,,,,,,,Aves,Corvus,brachyrhynchos

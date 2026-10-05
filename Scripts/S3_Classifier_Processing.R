@@ -1,5 +1,5 @@
 # ################################################################################
-# Title: CLeaning BirdNET output
+# Title: Cleaning BirdNET output
 # BirdNet R workflow, Script 3 of 5
 # Author: Will Harrod
 # Date Created: 2026-05-25
