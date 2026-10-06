@@ -17,10 +17,7 @@ rm(list = ls())
 # Load Packages
 library(tidyverse)
 library(spOccupancy)
-library(MCMCvis)
 library(fs)
-library(suncalc)
-library(sf)
 
 # Set Seed
 set.seed(27606)
@@ -56,11 +53,16 @@ glimpse(conf_thresh_raw)
 conf_thresh <-  conf_thresh_raw |> 
   select(`Common Name`, Threshold) |> 
   rename(Species = `Common Name`) |> 
+  mutate(Species = str_remove_all(Species, "'"),
+         Species = str_replace_all(Species, " ", "."),
+         Species = str_replace_all(Species, "-", ".")) |>
+  distinct(Species, Threshold) |>
+  arrange(Species) |> 
   filter(!is.na(Threshold) & Threshold < 1.0)
 glimpse(conf_thresh)
 
 # Make a species list
-sp_list <- conf_thresh |> pull(Species)  
+sp_ls <- conf_thresh |> pull(Species)  
 
 # Join these with the detentions, remove unnecessary columns, and add the confidence thresholds
 dct_flt <- dct_raw |> 
@@ -68,8 +70,12 @@ dct_flt <- dct_raw |>
   filter(Plot != "IF10") |> 
   # Remove early recordings (Birds Only)
   filter(Date >= start_date) |> 
+  # Change Species names
+  mutate(Species = str_remove_all(Species, "'"),
+         Species = str_replace_all(Species, " ", "."),
+         Species = str_replace_all(Species, "-", ".")) |>
   # Select only the species of interest
-  filter(Species %in% sp_list) |> 
+  filter(Species %in% sp_ls) |> 
   mutate(File.Time = str_extract(basename(File), "\\d{6}\\.wav"),
          Num.Time = str_remove_all(File.Time, "\\.wav"),
          Date.Time = paste(as.character(Date), Num.Time),
@@ -100,10 +106,11 @@ dct_flt <- dct_raw |>
 glimpse(dct_flt)
 
 # Load the spOccupancy output back in
-aru_occ_mod1 <- readRDS(path(mcmc_dir, "aru_occ_mod1.rds"))
+aru_occ_mod <- readRDS(path(mcmc_dir, "aru_occ_mod1.rds"))
 
 # View MCMC summary
-summary(aru_occ_mod1)
+names(aru_occ_mod)
+summary(aru_occ_mod)
 
 ################################################################################
 # 2) Model Diagnostics #########################################################
@@ -112,177 +119,186 @@ summary(aru_occ_mod1)
 # 2.1) Preliminary diagnostics -------------------------------------------------
 
 # Traceplots 
-# plot(aru_occ_mod1, 'beta', density = FALSE)
-# plot(aru_occ_mod1, "alpha", density = FALSE)
+# plot(aru_occ_mod, 'beta', density = FALSE)
+# plot(aru_occ_mod, "alpha", density = FALSE)
 
-# 2.2) Sub sample the posteriors to improve computation species ----------------
-# WARNING!!!! This tends to crash R. I need to fix
+# 2.2) Goodness of fit stats by plot -------------------------------------------
+aru_occ_out_plt <- ppcOcc(aru_occ_mod, fit.stat = "freeman-tukey", group = 1) 
 
-# Define a number of sub samples
-n_sub_samp <- 10
-sub_idx <- sample(1:nrow(aru_occ_mod1$beta.samples), n_sub_samp)
-
-# Create a smaller copy of the output
-aru_occ_sub <- aru_occ_mod1
-
-# Subsample all posterior matrices in the object
-aru_occ_sub$beta.samples  <- aru_occ_sub$beta.samples[sub_idx, , drop = FALSE]
-aru_occ_sub$alpha.samples <- aru_occ_sub$alpha.samples[sub_idx, , drop = FALSE]
-aru_occ_sub$z.samples     <- aru_occ_sub$z.samples[sub_idx, drop = FALSE]
-if (!is.null(aru_occ_sub$psi.samples)) aru_occ_sub$psi.samples <- aru_occ_sub$psi.samples[sub_idx, drop = FALSE]
 # View
-aru_occ_sub
+summary(aru_occ_out_plt)
+str(aru_occ_out_plt)
 
-# Posterior predictive checks
-ppc_plt <-  ppcOcc(aru_occ_sub, fit.stat = "freeman-tukey", group = 1) # Grouped by site
-ppc_vst <- ppcOcc(aru_occ_sub, fit.stat = "freeman-tukey", group = 2) # Grouped by visit
+# Convert to a data frame
+aru_occ_out_plt_tbl <- data.frame(
+  fit = aru_occ_out_plt$fit.y,
+  fit.rep = aru_occ_out_plt$fit.y.rep
+) |> 
+  tibble()
+
+# View
+glimpse(aru_occ_out_plt_tbl)
+
+# Pivot Longer
+aru_occ_out_plt_lng <- aru_occ_out_plt_tbl |> 
+  pivot_longer(
+    cols = everything(),
+    names_to = c(".value", "species"),
+    names_pattern = "^(fit\\.rep|fit)\\.(\\d+)$"
+  ) %>%
+  mutate(
+    species = as.numeric(species),
+    rep.greater = fit.rep > fit
+  )
+# View
+glimpse(aru_occ_out_plt_lng)
+
+# Visualize
+aru_occ_out_plt_lng |> 
+   ggplot(aes(x = fit, y = fit.rep)) +
+  geom_abline(slope = 1, intercept = 0, color = "black", linewidth = 0.8) +
+  geom_point(aes(fill = rep.greater), shape = 21, color = "black", size = 2.5, alpha = 0.8) +
+  scale_fill_manual(
+    values = c("FALSE" = "lightskyblue1", "TRUE" = "lightsalmon"),
+    guide = "none" 
+  ) +
+  labs(
+    x = "True",
+    y = "Fit",
+    title = "Posterior Predictive Check by Plot"
+  ) +
+  theme_classic() 
+
+# Which plots contribute to the poor goodness of fit? 
+aru_occ_out_fit_plt <- aru_occ_out_plt$fit.y.rep.group.quants[3, , ] - aru_occ_out_plt$fit.y.group.quants[3, , ]
+plot(aru_occ_out_fit_plt, pch = 19, xlab = 'Site ID', ylab = 'Replicate - True Discrepancy')
+
+# 2.3 Repeat at the visit level ----------------------------------------------------
+aru_occ_out_vst <- ppcOcc(aru_occ_mod, fit.stat = "freeman-tukey", group = 2) 
+
+# View
+summary(aru_occ_out_vst)
+str(aru_occ_out_vst)
+
+# Convert to a data frame
+aru_occ_out_vst_tbl <- data.frame(
+  fit = aru_occ_out_vst$fit.y,
+  fit.rep = aru_occ_out_vst$fit.y.rep
+) |> 
+  tibble()
+
+# View
+glimpse(aru_occ_out_vst_tbl)
+
+# Pivot Longer
+aru_occ_out_vst_lng <- aru_occ_out_vst_tbl |> 
+  pivot_longer(
+    cols = everything(),
+    names_to = c(".value", "species"),
+    names_pattern = "^(fit\\.rep|fit)\\.(\\d+)$"
+  ) %>%
+  mutate(
+    species = as.numeric(species),
+    rep.greater = fit.rep > fit
+  )
+# View
+glimpse(aru_occ_out_vst_lng)
+
+# Visualize
+aru_occ_out_vst_lng |> 
+  ggplot(aes(x = fit, y = fit.rep)) +
+  geom_abline(slope = 1, intercept = 0, color = "black", linewidth = 0.8) +
+  geom_point(aes(fill = rep.greater), shape = 21, color = "black", size = 2.5, alpha = 0.8) +
+  scale_fill_manual(
+    values = c("FALSE" = "lightskyblue1", "TRUE" = "lightsalmon"),
+    guide = "none" 
+  ) +
+  labs(
+    x = "True",
+    y = "Fit",
+    title = "Posterior Predictive Check by replicate"
+  ) +
+  theme_classic() 
 
 ################################################################################
-# 3) Posterior summaries #######################################################
+# 3) Predictions ###############################################################
 ################################################################################
 
-# True list of plots 
-plt_ls_tbl <- dct_flt |> 
-  distinct(Plot.Type, Plot) |> 
-  arrange(Plot.Type) |> 
-  mutate(Plot.Index = as.numeric(as.factor(Plot))) |> 
-  select(Plot.Index, Plot, Plot.Type) |> 
-  mutate(Plot.Index = paste0("plt", Plot.Index))
-plt_ls_tbl |> print(n = Inf)
+# View the output again
+summary(aru_occ_mod)
 
-# List of species 
-sp_ls_tbl <- dct_flt |> 
-  distinct(Species) |> 
-  arrange(Species) |> 
-  rownames_to_column() |> 
-  rename(Species.Index = rowname) |> 
-  mutate(Species.Index = paste0("sp", Species.Index))
-sp_ls_tbl |> print(n = Inf)
+# Define a credible interval width
+ci_max <- 0.875
+ci_min <- 1 - ci_max
 
-# 3.1) Occupancy probability -------------------------------------------------
+# Model formulas 
+occ_formu <- ~ factor(Plot.Type) + Effort
+det_formu <- ~ date + I(date^2)
 
-# Summarize mean and quantiles across posterior draws for occupancy probability
-psi_stats <- apply(aru_occ_mod1$psi.samples, c(2, 3), function(x) {
-  c(mean = mean(x), 
-    CI.2.5  = quantile(x, 0.025, names = FALSE), 
-    CI.97.5 = quantile(x, 0.975, names = FALSE))
-})
+# Generate sample plots for predictions
+pred_df <- data.frame(
+  Plot.Type = factor(c("IF", "RE", "TO"), levels = c("IF", "RE", "TO")),
+  Effort = rep(0, 3)
+)
 
-# Add dimension names for species and sites
-dimnames(psi_stats) <- list(
-  Stat    = c("mean", "CI.2.5", "CI.97.5"),
-  Species.Index = dimnames(aru_occ_mod1$psi.samples)[[2]] %||% paste0("sp", 1:dim(psi_stats)[2]),
-  Plot.Index = dimnames(aru_occ_mod1$psi.samples)[[3]] %||% paste0("plt", 1:dim(psi_stats)[3]))
+# Generate design matrix using your original occurrence formula
+X.0 <- model.matrix(occ_formu, data = pred_df)
+# View
+X.0
 
-# Convert 3D summary array into a long tibble
-aru_occ_psi <- as.data.frame.table(psi_stats, responseName = "value") %>%
-  pivot_wider(names_from = Stat, values_from = value) %>%
-  as_tibble()  |> 
-  # Join the species and plot names 
-  left_join(sp_ls_tbl, by = "Species.Index") |> 
-  left_join(plt_ls_tbl, by = "Plot.Index") |> 
-  select(Species, Plot, Plot.Type, mean, CI.2.5, CI.97.5)
+# Generate average occupancy predictions at those locations
+aru_occ_pred <- predict(aru_occ_mod, X.0)
+
+# Separate the occupancy probabilities
+aru_occ_prob_pred <- aru_occ_pred$psi.0.samples
+colnames(aru_occ_prob_pred) <- sp_ls
+# View
+aru_occ_prob_pred
+str(aru_occ_prob_pred)
+
+# Summarize by plot type
+aru_occ_prob_pred_if <- data.frame(aru_occ_prob_pred[, , 1]) |> 
+  tibble() |> 
+  pivot_longer(names_to = "Species", values_to = "Psi", cols = everything()) |> 
+  mutate(Plot.Type = "Interior Forest")
+aru_occ_prob_pred_re <- data.frame(aru_occ_prob_pred[, , 2]) |> 
+  tibble() |>
+  pivot_longer(names_to = "Species", values_to = "Psi", cols = everything()) |> 
+  mutate(Plot.Type = "Reference Edge")
+aru_occ_prob_pred_tb <- data.frame(aru_occ_prob_pred[, , 3]) |> 
+  tibble() |>
+  pivot_longer(names_to = "Species", values_to = "Psi", cols = everything()) |> 
+  mutate(Plot.Type = "Turbine")
+
+# Combine
+aru_occ_prob_pred_full <- bind_rows(
+  aru_occ_prob_pred_if,
+  aru_occ_prob_pred_re,
+  aru_occ_prob_pred_tb
+)
 
 # View
-aru_occ_psi
+glimpse(aru_occ_prob_pred_full)
+count(aru_occ_prob_pred_full, Plot.Type)
 
-# Save
-write_csv(aru_occ_psi, "aru_mod1_occ_psi_summaries.csv")
-
-# 3.2) Occupancied Sites -------------------------------------------------
-
-# Summarize mean and quantiles across posterior draws for occupancy probability
-z_stats <- apply(aru_occ_mod1$z.samples, c(2, 3), function(x) {
-  c(mean = mean(x), 
-    CI.2.5  = quantile(x, 0.025, names = FALSE), 
-    CI.97.5 = quantile(x, 0.975, names = FALSE))
-})
+# Summarize all samples by species
+aru_occ_prob_pred_sum <- aru_occ_prob_pred_full |> 
+  group_by(Plot.Type, Species) |> 
+  reframe(Mean = mean(Psi),
+          CI.Low = quantile(Psi, probs = ci_min),
+          CI.High = quantile(Psi, probs = ci_max)
+          ) 
 # View
-z_stats
-
-# Add dimension names for species and sites
-dimnames(z_stats) <- list(
-  Stat    = c("mean", "CI.2.5", "CI.97.5"),
-  Species.Index = dimnames(aru_occ_mod1$z.samples)[[2]] %||% paste0("sp", 1:dim(z_stats)[2]),
-  Plot.Index = dimnames(aru_occ_mod1$z.samples)[[3]] %||% paste0("plt", 1:dim(z_stats)[3]))
-
-# Convert 3D summary array into a long tibble
-aru_occ_z <- as.data.frame.table(z_stats, responseName = "value") %>%
-  pivot_wider(names_from = Stat, values_from = value) %>%
-  as_tibble()  |> 
-  # Join the species and plot names 
-  left_join(sp_ls_tbl, by = "Species.Index") |> 
-  left_join(plt_ls_tbl, by = "Plot.Index") |> 
-  select(Species, Plot, Plot.Type, mean, CI.2.5, CI.97.5)
-
-# View
-aru_occ_z |> print(n = Inf)
-
-# Save
-write_csv(aru_occ_z, "aru_mod1_occ_occupied_summaries.csv")
-
-# 3.3) Occupancy Covariates --------------------------------------------------
-
-# Summarize mean and quantiles across posterior draws for beta coefficients
-beta_stats <- apply(aru_occ_mod1$beta.samples, 2, function(x) {
-  c(mean = mean(x), 
-    CI.2.5  = quantile(x, 0.025, names = FALSE), 
-    CI.97.5 = quantile(x, 0.975, names = FALSE))
-})
-
-# Add dimension names for species and sites
-aru_occ_beta <- as.data.frame(t(beta_stats)) |> 
-  rownames_to_column(var = "Param.Species") |> 
-  mutate(Parameter = case_when(
-    str_detect(Param.Species, fixed("(Intercept)")) ~ "Interior Forest",
-    str_detect(Param.Species, fixed("(Plot.Type)2")) ~ "Reference Edge",
-    str_detect(Param.Species, fixed("(Plot.Type)3")) ~ "Turbine",
-    str_detect(Param.Species, fixed("Effort")) ~ "Days Deployed",
-    TRUE ~ NA_character_
-  )) |> 
-  mutate(Species = str_split_i(Param.Species, "-", 2)) |> 
-  mutate(Species = str_replace_all(Species, fixed("."), " ")) |> 
-  select(Species, Parameter, mean, CI.2.5, CI.97.5) 
-
-
-# View
-aru_occ_beta
-
-# Save
-write_csv(aru_occ_beta, "aru_mod1_occ_beta_summaries.csv")
-
-# 3.4) Detection Probabilities -----------------------------------------------
-
-# Summarize mean and quantiles across posterior draws for the effect of treatment 
-alpha_stats <- apply(aru_occ_mod1$alpha.samples, 2, function(x) {
-  c(mean = mean(x), 
-    CI.2.5  = quantile(x, 0.025, names = FALSE), 
-    CI.97.5 = quantile(x, 0.975, names = FALSE))
-})
-# View
-alpha_stats
-
-# Add dimension names for species and sites
-aru_occ_alpha <- as.data.frame(t(alpha_stats)) |> 
-  rownames_to_column(var = "Param.Species") |>  
-  mutate(Parameter = case_when(
-    str_detect(Param.Species, fixed("(Intercept)")) ~ "Intercept",
-    str_detect(Param.Species, fixed("date-")) ~ "Date",
-    str_detect(Param.Species, fixed("I(date^2)")) ~ "Date2",
-    TRUE ~ NA_character_
-  )) |> 
-  mutate(Species = str_split_i(Param.Species, "-", 2)) |> 
-  mutate(Species = str_replace_all(Species, fixed("."), " ")) |> 
-  select(Species, Parameter, mean, CI.2.5, CI.97.5)
-# View
-aru_occ_alpha
-
-# Save
-write_csv(aru_occ_alpha, "aru_mod1_occ_alpha_summaries.csv")
+glimpse(aru_occ_prob_pred_sum)
 
 ################################################################################
 # 4) Posterior Plots ###########################################################
 ################################################################################
+
+# View the data again
+glimpse(aru_occ_prob_pred_sum)
+
+# 3.1) Occupancy Probability by plot type --------------------------------------
 
 # Palette
 wind_pal <- c(
@@ -290,93 +306,40 @@ wind_pal <- c(
   "Reference Edge" = "goldenrod3",
   "Turbine" = "darkorchid4")
 
-
-# 4.1) Occupancy Probability by plot type --------------------------------------
-
-# View the occupancy data
-aru_occ_beta
-glimpse(aru_occ_beta)
-
-# Intercepts by species
-intercepts <- aru_occ_beta |> 
-  filter(Parameter == "Interior Forest") |> 
-  mutate(Intercept.Mean = mean, Intercept.CI.2.5 = CI.2.5, Intercept.CI.97.5 = CI.97.5) |> 
-  select(Species, Intercept.Mean, Intercept.CI.2.5, Intercept.CI.97.5) 
-  
-# View
-glimpse(intercepts)
-
-# Inverse logit function
-inv_logit <- function(x) {
-  1 / (1 + exp(-x))
-}
-
-# Prep the data
-occ_pred_dat <- aru_occ_beta |> 
-  filter(Parameter != "Days Deployed") |>
-  left_join(intercepts, by = "Species") |> 
-  # Change covariate factors to replect occupancy probabilities
-  mutate(
-    mean = case_when(
-      Parameter == "Interior Forest" ~ mean,
-      Parameter != "Interior Forest" ~ Intercept.Mean + mean 
-    ),
-    CI.2.5 = case_when(
-      Parameter == "Interior Forest" ~ CI.2.5,
-      Parameter != "Interior Forest" ~ Intercept.CI.2.5 + CI.2.5 
-    ),
-    CI.97.5 = case_when(
-      Parameter == "Interior Forest" ~ CI.97.5,
-      Parameter != "Interior Forest" ~ Intercept.CI.97.5+ CI.97.5
-    )) |> 
-  mutate(Species.Param = paste(Species, Parameter, sep = "-")) |> 
-  mutate(Species = factor(Species)) |> 
-  mutate(Species = fct_rev(Species)) |> 
-  # logit transform covariates
-  mutate(
-    logit.mean = inv_logit(mean),
-    logit.CI.2.5 = inv_logit(CI.2.5),
-    logit.CI.97.5 = inv_logit(CI.97.5)
-  ) 
-# View
-glimpse(occ_pred_dat)
-
-# Define a dodge offset so parameter 
-pd <- position_dodge(width = 0.6)
-
 # Make the plot
-occ_pred_dat |> 
+aru_occ_prob_pred_fig <- aru_occ_prob_pred_sum |>
+  mutate(Species = str_replace_all(Species, fixed("."), " ")) |>
+  mutate(Species = factor(Species)) |> 
+  mutate(Species = fct_reorder(Species, desc(Species))) |> 
   ggplot(aes(y = Species)) +
   # Add points at the mean values for each parameter
   geom_point(
     aes(
-        x = logit.mean, 
-        colour = Parameter
+        x = Mean, 
+        colour = Plot.Type
         ), 
     shape = 15, 
-    size = 1, 
-    alpha = 0.8,
-    position = pd
+    size = 1.2, 
+    alpha = 0.8
   ) +
   # Add whiskers for Credible intervals
-  # geom_linerange(
-  #   aes(
-  #     xmin = logit.CI.2.5, 
-  #     xmax = logit.CI.97.5, 
-  #     # linetype = Supported, 
-  #     colour = Parameter
-  #   ), 
-  #   linewidth = 0.4,
-  #   alpha = 0.7,
-  #   position = pd
-  # ) +
+  geom_linerange(
+    aes(
+      xmin = CI.Low,
+      xmax = CI.High,
+      # linetype = Supported,
+      colour = Plot.Type
+    ),
+    linewidth = 0.4,
+    alpha = 0.7
+  ) +
   # Add a vertical line at zero
   geom_vline(xintercept = 0, linetype = "dashed", linewidth = 0.8) +
   scale_color_manual(values = wind_pal) +
   # Change the Labels
   labs(x = "Parameter Estimate", y = "") + 
   # Simple theme
-  theme_classic() +
+  theme_bw() +
   # Edit theme
   theme(
     legend.position = "top", 
@@ -385,6 +348,111 @@ occ_pred_dat |>
     plot.title = element_blank(),
     axis.text.y = element_text(size = 8),
     axis.title.x = element_blank(),
-    axis.text.x = element_text(size = 8)
+    axis.text.x = element_text(size = 10)
   ) +
-  facet_wrap(~Parameter)
+  facet_wrap(~Plot.Type)
+
+# View the plot 
+aru_occ_prob_pred_fig
+
+# Save the plot as a png
+ggsave(plot = aru_occ_prob_pred_fig,
+       path(fig_dir, "aru_occupancy_prob_plot_type_whiskers.png"),
+       width = 200,
+       height = 175,
+       units = "mm",
+       dpi = 300)
+
+
+# 3.2) Difference between turbines and other plots -----------------------------------
+
+# Palette
+signif_pal <- c(
+  "Supported Difference" = "darkblue",
+  "No Supported Difference" = "gray30"
+ )
+
+# Extract differences between turbines and the other plot types
+aru_occ_diff_tb_if <- data.frame(aru_occ_prob_pred[, , 3] - aru_occ_prob_pred[, , 1]) |> 
+  tibble() |> 
+  pivot_longer(names_to = "Species", values_to = "Psi", cols = everything()) |> 
+  mutate(Psi.Diff = "Turbine vs Interior Forest")
+aru_occ_diff_tb_re <- data.frame(aru_occ_prob_pred[, , 3] - aru_occ_prob_pred[, , 2]) |> 
+  tibble() |> 
+  pivot_longer(names_to = "Species", values_to = "Psi", cols = everything()) |> 
+  mutate(Psi.Diff = "Turbine vs Reference Edge")
+# View
+glimpse(aru_occ_diff_tb_if)
+glimpse(aru_occ_diff_tb_re)
+
+# Combine
+aru_occ_diff_full <- bind_rows(
+  aru_occ_diff_tb_if,
+  aru_occ_diff_tb_re
+  ) |> 
+  group_by(Species, Psi.Diff) |> 
+  reframe(Mean = mean(Psi),
+          CI.Low = quantile(Psi, probs = ci_min),
+          CI.High = quantile(Psi, probs = ci_max)
+  )  |> 
+  distinct() |> 
+  mutate(Supported = case_when(CI.High*CI.Low > 0 ~ "Supported Difference",
+                               CI.High*CI.Low <= 0 ~ "No Supported Difference"
+                               )) 
+# View
+glimpse(aru_occ_diff_full)
+
+# Make the plot
+aru_occ_diff_plot_whisker <- aru_occ_diff_full |>
+  mutate(Species = str_replace_all(Species, fixed("."), " ")) |>
+  mutate(Species = factor(Species)) |> 
+  mutate(Species = fct_reorder(Species, desc(Species))) |> 
+  ggplot(aes(y = Species)) +
+  # Add points at the mean values for each parameter
+  geom_point(
+    aes(x = Mean, color = Supported), 
+    shape = 15, 
+    size = 1.2, 
+    alpha = 0.8
+  ) +
+  # Add whiskers for Credible intervals
+  geom_linerange(
+    aes(
+      xmin = CI.Low,
+      xmax = CI.High,
+      colour = Supported
+    ),
+    linewidth = 0.4,
+    alpha = 0.7
+  ) +
+  # Change colors
+  scale_color_manual(values = signif_pal) +
+  # Add a vertical line at zero
+  geom_vline(xintercept = 0, linetype = "dashed", linewidth = 0.8) +
+  # Change the Labels
+  labs(x = "Parameter Estimate", y = "") + 
+  # Simple theme
+  theme_bw() +
+  # Edit theme
+  theme(
+    legend.position = "top", 
+    legend.text = element_text(size = 10), 
+    legend.title = element_blank(),
+    plot.title = element_blank(),
+    axis.text.y = element_text(size = 8),
+    axis.title.x = element_blank(),
+    axis.text.x = element_text(size = 10)
+  ) +
+  facet_wrap(~Psi.Diff)
+
+# View the plot 
+aru_occ_diff_plot_whisker
+
+# Save the plot as a png
+ggsave(plot = aru_occ_diff_plot_whisker,
+       path(fig_dir, "aru_occupancy_diff_plot_type_whiskers.png"),
+       width = 200,
+       height = 175,
+       units = "mm",
+       dpi = 300)
+

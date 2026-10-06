@@ -236,19 +236,16 @@ n_sp
 plt_info <- vst_dates |> 
   distinct(Plot, Plot.Type) |> 
   left_join(vst_count, by = "Plot") |> # effort
-  mutate(Plot.Type = factor(
-    Plot.Type, 
-    levels = c("IF", "RE", "TO")),
-    Plot = factor(Plot)
-    ) |> 
-  mutate(Plot.Type = as.numeric(Plot.Type),
-         Plot = as.numeric(Plot))  
+  mutate(
+    Plot.Type = factor(Plot.Type, levels = c("IF", "RE", "TO")),
+    Plot.Index = as.numeric(factor(Plot))
+  )  
 plt_info
   
 # List of plot types
 plt_trts <- plt_info |> 
   mutate(Effort = scale(n.Visits)[,1]) |>  
-  select(Plot.Type, Plot, Effort)
+  select(Plot.Type, Plot, Effort, n.Visits)
 plt_trts
 
 # Scaled date
@@ -259,7 +256,7 @@ dates_scl <- dct_vst |>
 glimpse(dates_scl)
 
 # Number of plot types
-n_trts <- max(unique(plt_trts))
+n_trts <- length(unique(plt_trts))
 n_trts
 
 # Detection array storage object
@@ -271,7 +268,10 @@ day_mtx <- matrix(data = NA_integer_, nrow = n_plts, ncol = n_dates_max)
 str(day_mtx)
 
 # 2.3) Fill in detection ----------------------------------------------
+
+# View again
 glimpse(dct_vst)
+
 # Loop over the matrix and fill in for each species
 for(s in 1:n_sp){
 
@@ -286,13 +286,13 @@ for(s in 1:n_sp){
     
     # Find out how long that plot was surveyed
     svy_cnt_plt <- plt_info |> 
-      filter(Plot == i) |> 
+      filter(Plot.Index == i) |> 
       pull(n.Visits)
     
     # Filter detentions to a single species at a single plot
     dct_sp_plt <- dct_vst |> 
       filter(Plot.Index == i & Surveyed == 1) |> 
-      select(any_of(sp_ls)) |> 
+      select(any_of(sp)) |> 
       pull(1)
     
     # Assign them to the appropriate portion of the detection matrix
@@ -313,24 +313,24 @@ for(s in 1:n_sp){
 }
 
 # Add row names
-dimnames(dct_mtx)[[1]] <- dct_flt |> 
-  distinct(Species) |>
-  arrange(Species) |> 
-  pull(Species)
+dimnames(dct_mtx)[[1]] <- sp_ls
 
-  # View
+# View
 dct_mtx[1, ,]
 str(dct_mtx)
 day_mtx
 
 # Collapse detection histories for occupancy priors
-occupied <- apply(dct_mtx, c(1, 2), max, na.rm = TRUE)
+occupied <- apply(dct_mtx, c(1, 2), function(x) {
+  if (all(is.na(x))) 0 else max(x, na.rm = TRUE)
+})
 occupied
   
 # Combine site covs as a matrix 
-occ_covs <-  plt_trts |> 
-  as.matrix()
-occ_covs 
+occ_covs <- plt_info |> 
+  mutate(Effort = scale(n.Visits)[, 1]) |> 
+  select(Plot.Type, Effort) |> 
+  as.data.frame()
 
 # Combine detection covs as a list
 det_covs <- list(
@@ -373,14 +373,14 @@ priors <- list(
   )
 
 # MCMC parameters
-n_sample <- 80000
+n_sample <- 20000
 n_rprt <- n_sample/2
 n_burn <- n_sample/2
-n_thin <-  50
+n_thin <-  125
 n_chains <- 3
 
-# How many samples
-(n_sample - n_burn)*n_chains / n_thin
+# How many samples per chain?
+(n_sample - n_burn) / n_thin
 
 # Model formulas 
 occ_formu <- ~ factor(Plot.Type) + Effort
@@ -394,11 +394,11 @@ mcmc_dir <- "/home/will/NCSU/Model_Outputs"
 # Run the model
 aru_occ_mod1 <- msPGOcc(
   occ.formula = occ_formu,  # Occupancy Formula
-  det.formula = det_formu,              # Detection formula
-  data = dat_lst,                              # Data
-  inits = inits,       # Initial Values
-  priors = priors,     # Priors
-  verbose = TRUE,      # Display messages
+  det.formula = det_formu,  # Detection formula
+  data = dat_lst,           # Data
+  inits = inits,            # Initial Values
+  priors = priors,          # Priors
+  verbose = TRUE,           # Display messages
   n.samples = n_sample,
   n.report = n_rprt,
   n.burn = n_burn,
@@ -412,5 +412,3 @@ summary(aru_occ_mod1)
 
 # Save the Model summary
 saveRDS(aru_occ_mod1, path(mcmc_dir, "aru_occ_mod1.rds"))
-
-
